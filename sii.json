@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "sii! si~",
+        "output": "si!! siii. siii! siii! si. siii. siii, siii, sii, siiii! si~~ siii~ sii, siiii. siiii~ sii!! siiiii! siiiii! siiiii~ siiiii, siii. si. siii~~ siii~~ si~ siiiii~~ siiii! siiii!! si~~ sii!!"
+    },
+    {
+        "input": "siiii!!",
+        "output": "si~ si! sii, si, siiiii, siiiii, si! siiiii, siiii, siiii~~ sii. siii~ sii~ siiiii. siii!! sii! siiii~ siiiii! siii~ siiii! siii~"
+    },
+    {
+        "input": "si.",
+        "output": "siii, siii~ siiiii! siii~ siii~ sii~~ siiiii. sii~~ si~ si~ siiii, siiiii. sii~ siiii! siii!! siiiii, si. sii. siii. si. sii, si~ siiiii, sii~ siiii. sii~ siiiii!! siiii~~ siii. siiii~~ siii!! sii!! siii~~ siiiii! siiiii~ siiii. si. siiii, siiii! siii~ siiiii!! siiiii, siii. siiiii~ siiii! siiii~ siiiii~~ siiii! siiiii~ si~ siiii. siiiii~~ sii~ si, si, siii!! sii~"
+    },
+    {
+        "input": "siiii!! siiiii~~ siii!",
+        "output": "siii!! siiiii, siii! sii~~ siiii, si, si! si!! siiiii~ siiii. siiiii!! siiii. siiii, siiii~~ siii~~ siiiii!! siiiii~ siii,"
+    },
+    {
+        "input": "siiiii!! siiiii! sii~ si,",
+        "output": "siiiii! siiiii. siii. siii! si~ sii! siiii!! sii. si, sii. siiii!! siiii. siii~ si! sii. si~~ sii."
+    },
+    {
+        "input": "siiiii~~ siii.",
+        "output": "siii~~ si! siiii, siiiii~ siiii. si~ si!! siii~~ si, siiiii! si. siiii!! siii! siiii, siii. si~~ si. siiii! siii, siii, si. siiii! siiii~ siiii~ siii! siiiii. sii~ si~ si, siiii~ siiii! siii~~ siiiii~~ sii! sii. siiii~ siii!"
+    },
+    {
+        "input": "siii!! siii~~",
+        "output": "siii! sii~ siiiii, sii~~ siiii!! siii!! siiiii, siiiii~ siiii, si! sii! siiii~~ sii! sii, si. siii, siiii~~ siiiii, si. siiiii, siii~~ si!! siiiii! siiiii. siii, siiiii. siii, siiii~ sii~~ siiii~~ siiii!! siiii!! sii, siiii~~ siiii, sii~~ si~~ siiii. siii!! siiii~~ siiii~~ siiii!! siii~~ si~~ siiiii. siiiii! siii!! siii~~"
+    },
+    {
+        "input": "si~~ siiiii~~ sii~~ si!!",
+        "output": "sii~ sii, si~ siiii~ si~~ si! sii~ siiii. si~ si, sii, siii~ siiiii. sii! siii. siiiii, sii~ siiii!! siii!! sii, si. si!! si! siii, siii,"
+    },
+    {
+        "input": "siii~ sii~ siiiii, siiii!",
+        "output": "siiii~~ si!! siiii~~ siiiii! siiii. sii~ siiiii~~ siiii~~ sii~ siiiii! si~~ siii!! sii~~ siii, siiii~~ siiii~~ siiiii!! sii~ siiii~ siii, sii!! siiiii~ siiiii~ siiii, si!! sii! sii, sii. sii, siiii~ si, si, si!! siii~~ si. si, sii! sii. siii!! siiiii, siiii, si~~ siii~ siiii~ siiii. siiii, siiiii!! siii. siiii~~ siiiii, sii. siiii, siiii!! siiiii~"
+    },
+    {
+        "input": "siiiii!! sii~",
+        "output": "siiii. sii!! si~ siiiii. siii! siii, siiii!! siiii, siiii~~ si! siiiii, sii~ sii! si. siii, sii, siii! sii~~ siiii~~ siii, siiii! si, sii, siii~ si~ siiii~~ sii. sii, siiiii~ siiiii! siii~~ siii~~ si. si~ siiii!! siiiii~~ siiii, siiiii~ siiiii!! si!! siii~ si~~ siiii~~ si, siii! sii!! siiiii~~ si! si~~ siiiii~ sii, siii! siiii, si~ siii!! siiiii~~ siiiii! si~"
+    },
+    {
+        "input": "sii! si~~ siiii! sii~~",
+        "output": "si!! si. sii! siiiii. sii. sii! si! si!! siiiii~ sii. siii~ siiiii, siiii!! siiii! sii. siiiii! siiii~~ siiii. siiiii~ siiiii! siiiii~ siii!! sii~~ siiiii! siiiii. siiii!! siii! si. siii!! siiii. si, sii. siii~ si. siii~~ si, siiiii, siii! sii. siii!! sii~~ siiiii. siiiii!! siiii~~ siiii!! siii, siiiii~~ siii. siiii! si, siiii! sii. sii~ si, sii. sii~ si. siiiii."
+    },
+    {
+        "input": "sii!",
+        "output": "siiii. siiii~ si~ siiii~~ sii, sii!! siiiii~~ sii~~ siii~ sii. sii!! siii~ siiiii. siiiii. si~ siiii! siii. si. sii, siiii, si, sii!! si~ siiii! sii. si!! siii!! si~~ siiiii!!"
+    },
+    {
+        "input": "siiii!! siii,",
+        "output": "si!! si~ sii! sii~ siiii!! siiii!! siiiii~ si!! siiiii! siiii! siiii. si~~ siiiii~ siiiii~ si! si! siiii, sii. siiii~~ siii, siiiii! siiii. siiiii! siii!! siiiii, siiii, siii~ siii!! siiiii~~ siii. si. siii~ siiii, siiiii!! si!! sii! siii~ si~~ siii~ siii~~ sii. siiiii. si. sii~~ sii~ siii! siiii~~ siii~~ siiiii!! si! sii! si~ sii~ siiii, siii. siii!"
+    },
+    {
+        "input": "siiiii! si~ si! sii~",
+        "output": "sii! sii. sii~ siiiii. siiiii! siiii, sii~~ sii. siii!! siiii!! siiiii!! siiiii!! sii~ siiiii!! siiiii. si!! si. siiii~~ siii. si. siiiii! siiii!!"
+    },
+    {
+        "input": "siiiii, siiiii!!",
+        "output": "siiii, si~ sii! si, siii!! siii. siiiii! sii, siiiii~~ sii!! siiii! siiii, si, siii!! sii! si~~ siii!! sii. siiiii~ siiiii, siiiii~ siii~~ sii~ siiii!! si~ siiii! siiiii!! siiii, sii~~ siiii. siii! si! siii, si! si! siii~ siiiii. siiiii, siiiii~ si~ siii~~ siii! siiii~ si! siiiii. siiii."
+    },
+    {
+        "input": "siii!! si!",
+        "output": "siii. siiiii, si, sii~ si~ sii~~ siiiii! si, siiiii. siiii~~ siii, sii! si!! siiiii, sii. siiiii. siiiii~ siiiii~ siii~~ siiii!! siiii. siii~ siiii. sii! siiiii. si~~ siiii! siii!! siii~~ sii, siiiii! siiii! siiiii! sii~~ siiiii, siiiii. siii, siiii. siiiii. siiiii. si!! siii, si! siii~~ sii~~ siii!! si. sii~ siiiii~~ siii. si. siii~~ siiii. siiiii~ siiii. sii."
+    },
+    {
+        "input": "siiii~ siii!",
+        "output": "siiii, siiii, siii~~ siiii, sii~ siiiii, si! siiiii~~ siiiii~~ siiii~~ siiii~~ si~ siiiii! siii~~ sii~~ siii!! siiii~ si!! siiiii!! siiii!! siiiii~~ si~~ siii! siii, siiii!! si~ siiiii!! siiii. siiiii!! sii, si~~ siiii!! siiii, siii~~ si. siii!! siii~~ siiii, siii~ siii! siiiii. si~ si~ siii~ siiiii~~ siiii. sii! siiiii. siiii. si~~ siiiii, si! sii! siiii. siiiii~~ siiiii~~ siiii~~ si~~ siii, sii!! siiii!! si, sii, sii~"
+    },
+    {
+        "input": "siiii!! siii!",
+        "output": "si! siiiii!! siiii, sii~~ si!! siiiii!! sii! sii, sii~~ sii, si, siiii, siiii, siiiii~~ siii! siii, sii~ sii! sii!! sii. siiii~~ si~~ si~~ siiiii! sii! siiiii!! sii!! siiiii!! sii!! siiii, si!! siiii, siii~ siiii~~ si."
+    },
+    {
+        "input": "siiii, siiii~ si, siiii~~ siiii~~",
+        "output": "siii~~ siii~~ siii. siii~~ sii! siiii, siiiii! si, sii!! si. siiiii! siiiii!! siii, sii."
+    },
+    {
+        "input": "siii!",
+        "output": "si! siii, siiii. siii, siii, siii~~ siii~ si!! sii, sii! siiiii!! sii! siiii! siiiii. sii~~ sii! si. siiii, si~~ si, siiiii! siiiii! sii. sii!! siiii~ sii!! siiii. siiiii, siiiii!! siii! siiii. siiii, siii~~ siiiii~ siiii!! sii!! siiii~~ siii, sii! siiii! siiii~ siiiii, siiii, si!! siiii,"
+    },
+    {
+        "input": "siiiii! siiiii.",
+        "output": "sii, siiiii~~ sii. siiiii!! sii!! siiii~ siiiii. siiii! sii, siiii, si~~ si!! siiiii~ siiii~ sii!! siii. siiiii!! si~ siiii! siii~ siiii! siii!! si. siiiii! siiiii, siiii!! siiiii! siii. siiii~ sii!! si~~ siiii! sii~ siii~~ sii~ siiiii~~ si!! siiii~~ siii. siii!! siiii! siiiii~ sii!! siiii. siiiii! siiiii~~ sii! si. sii!"
+    },
+    {
+        "input": "siii! siii! siii,",
+        "output": "siii!! siiiii!! siii, si, siiii. si. siiii!! siiiii, siii!! si!! siiiii! siiiii! sii! siiii~~ siiii! siiiii~ siiii. si! si!! siiiii~ sii~"
+    },
+    {
+        "input": "siiii~",
+        "output": "si!! sii, siiiii. siiii! siii. si. siiii~~ siiii!! sii!! siiii, sii!! sii! siiiii! siiiii, siiii! siiii! si~~ si!! sii~~ siiiii! siii~~ siiii~ siii, si~ siiiii!! siiiii~ si, si~ sii~ siiii, siiii! siiiii! si! siii~ sii~~"
+    },
+    {
+        "input": "siii~",
+        "output": "sii, siiiii, sii. si!! siiii~~ sii, siiiii! sii~~ si. siii!! siiii. siiiii~ siiiii~ siiiii! sii~~ siii. siii~~ siiii, siii! sii!! si, sii!! si! siiii, siii~~ sii, siiiii~ siiiii~ si~ siiii~ si! si~ siiiii, si~~ siii. siii, si~~ si!! siiiii!! sii! siii. sii~ siii~ siii!! si. siii~ sii~"
+    },
+    {
+        "input": "siiii!",
+        "output": "sii, siii, siii, si~ siiiii! sii!! siiiii!! si!! si~ siiiii, si. siiiii. siiii!! siii. siiiii, sii~~ siiiii~~ siiii~ siii~~ siiiii~~ si~~ sii~ siiiii!! si, sii, siiii, si~ siiiii~~"
+    },
+    {
+        "input": "siii~ sii!",
+        "output": "si! siii! sii~ sii. siii~~ siiii!! siiiii~~ siii~~ si~ siiii!! si. si~~ si~~ si!! siiii~ siiiii~ sii~ siii~~ siii, siiiii~~ siiii! sii! siiii!! si!! siiiii, siiiii! si~"
+    },
+    {
+        "input": "si! siii!!",
+        "output": "sii. siiiii~ sii~ siii!! si. sii. siiii~~ siiii~ sii. si~ si~~ siiii!! sii, sii!! sii, sii~~ siiiii~ siiii~~ si!! sii~~ si~~ siii!! siii! siii!! si!! siii. sii. si, siiii! siiiii!! siiiii, sii~~ siii~~ siiii, sii! siiii, siiiii! si!! siiiii. siiii~~ siiii. siiii, si~ si! siiii~ siiiii. siii."
+    },
+    {
+        "input": "siiii,",
+        "output": "siii, sii, si~ siiiii!! siiii! siiii~ siiiii, siiiii, siiii~~ siiiii~ sii. sii~~ siiii!! siiii, siiiii. siii~ siii!! sii!! siii, siii!!"
+    },
+    {
+        "input": "si, siiii, sii. siiii!!",
+        "output": "siiii. sii, siiii, siii~ siiiii~ siii!! si~~ siii!! siiii, sii, siiiii, siii~~ sii~ siii!! siiii!! si. sii!! si! si!! siiiii! si. siii. si~~ siiiii~~ siii!! si~ siii~~ sii!! si~~ si! siiiii, siii, siiiii~~ siiiii!! siii~ siiiii. siiiii~~ siiiii~ siiii~ si!"
+    },
+    {
+        "input": "siii. siiii~ sii.",
+        "output": "siii~ siiii!! siiiii, siii. siiiii! siii. si. siiiii!! si~ siii~ si! siiii!! siii. sii. siiiii!! sii. sii, siiiii!! sii, sii!! si! siiiii. siii~ siiiii~~ siiiii~~ siiiii!! si. siiii!! siiii!! siiii, sii~~ sii!! siiii!! siiii~"
+    },
+    {
+        "input": "siiii~ siiii, siii,",
+        "output": "si, siii, sii~~ siiii, si~ siiiii. si! siiiii, sii! siii, siiii~ sii!! siiiii! siii! siiii!! sii. siiii. sii!! siii~ siii~~ si~~ siii,"
+    },
+    {
+        "input": "sii! siiiii~~ si!! siii!!",
+        "output": "siii~~ siiii~~ siii!! siii, sii~ siiiii. siiiii!! si~ siiii~~ siii! sii!! siii~ siiii!!"
+    },
+    {
+        "input": "siiii!! siiiii, sii, siii~~",
+        "output": "si! si. siii~~ siii. siiii. si. si!! sii!! siiii. si~ siii!! siiii! siiii. siiii! si. si~~ siiiii. si, si! siiii! siiii!! sii. siiiii~ si!! siii. siiiii~~ siii~~ si, siii, si!! siiiii~~ si, siiii. siiii!! sii~~ si~~ sii~ siiii!! siiii!! siii~ sii, si~ sii!! siii!! sii,"
+    },
+    {
+        "input": "si, siii~ siii~~ sii~~",
+        "output": "siii!! si!! siii! siii~ sii~~ sii~ siiii! si. sii~~ sii, si. siiii, siiii!! siiiii!! siii! si!! sii, siiii!! si. si! siii~ siii!! si~~ siiiii! siiiii~ si. sii~ siiii. siiiii, siii!! siiii. siiiii~~"
+    },
+    {
+        "input": "si~~ sii! si,",
+        "output": "sii!! siii~ sii~~ si~~ siiii!! siiii~ si, sii~~ si~ siiiii~ siiiii, si~ siii! siiii!! siiii! sii! siii, sii! siiiii. siii! siiiii~ siii!! si~~ siiii, siiiii~~ siiii!! siiii, siii~ sii. sii, si~~ siii~ siiiii!! siii. si. sii!! siii. siiii~~ sii~~ siiii. sii!! siiiii!! siiii, sii,"
+    },
+    {
+        "input": "siiii~ siiiii~~ siiiii.",
+        "output": "siiii. sii! siiii~~ siiiii! siiii!! si! siiii~ si!! siiiii! siii! siiiii, siii~ siiii, siii. sii~~ siii. sii. siii! sii~~ sii. si, si!! siiii, siiii! siii! si! si!"
+    },
+    {
+        "input": "siii!! siiii~",
+        "output": "si! si~~ siiii, si. si!! si~ siiii!! siii, sii. sii, siiiii. siiii, siii! si, siiii, sii~~ siiii~~ siiiii. sii. siii~ si~ sii. sii. si~ siii!! si, siiii. sii~ siiii~ siii~ siiii! siii! siiiii~~ si~ si~~ siiii, siii~~ si~~ siiii~~ sii~~ siiiii! siii, sii~~ siiiii~~ si! si! siii!! siiii, siiii, siiii~~ sii, sii~~ siiii!!"
+    },
+    {
+        "input": "siii. siii~~ si!!",
+        "output": "sii! si~ sii, sii!! siii~~ siiiii!! siiiii~ sii!! si!! si!! siiiii~ siiiii!! siii~ si, siii!! siiii!! siii. siii!! si~ siiiii, si~ si! siiiii, sii~ siiii, sii~~ siii. si! siiii, siii~~ siiiii! siiiii! sii! sii! siiiii~ sii, sii! si! siii~ siiii~~ sii~~ siiiii, sii. siiii, siii. si! siii. siii! sii~ siii~~ sii~~ siiiii. siiii~~ si~ siiii."
+    },
+    {
+        "input": "sii~",
+        "output": "siii!! siiiii~ siii! siii!! siiiii!! siii, sii~~ siiii~ si~~ sii!! si!! siii! siiiii!! si, siiiii~ sii!!"
+    },
+    {
+        "input": "si! siii~~",
+        "output": "si! sii. sii. siii, siiiii! siii!! siiii!! sii~ sii~ siiii. sii, siiiii. siiiii~ sii. si. si. sii! siiii! sii~~ siii, siiii~~ siiiii, siiii! si! sii~ sii!! si. si~ sii~~ siii. siiii!! sii, si! siiiii,"
+    },
+    {
+        "input": "siiiii. si!! siii!!",
+        "output": "siiii, sii~~ siiiii!! sii! siiii~ siiii! siii~ si~~ siii~ siiii! sii, si, siii! siiiii, siiiii, sii~~ si~ siiiii, siii!! siiii, siiii. siiiii~~ siiiii. sii! siii, si~~ siiii, sii~~ siii! si, siii~~ siiiii. siiiii, si! siiii~ siiiii~~ siiii~ siiii!! siii. siiii! sii~ sii, siiii, si! si!! sii~ siiiii~ siii~ siii, sii~ siiiii!! siiiii,"
+    },
+    {
+        "input": "siiii! si~ siiiii~",
+        "output": "sii~ si!! siiii~~ sii!! siii!! siii~ si!! siii! siii~~ siiii. siii! siiiii! si~~ siiii!! si, siiii. si!! siiii! sii~ si. siiiii!! siiii! siiiii, si! siiii~ si. siiii! sii. siiii~~ si."
+    },
+    {
+        "input": "siiiii. si!! sii~",
+        "output": "siii. si~~ siii~~ siiii, siii! siiiii!! siiiii~ siiii!! sii! siii~ siiiii! siiiii! siii, siii. siiiii, si!! siiiii. siiiii~ siiiii, si, siiii, siii, sii. siiiii~ siii, siiii, si!! siii~~ siiiii!! sii!! siii!! siiiii!! siii! siiiii~~ siiiii. siii, siiii~ sii. siiii!! siii, siiii. siiii, sii!! si! si~~ siiii. siiiii, siii!! siiiii~~ si!! si, sii~ si!! siiii. siii~"
+    },
+    {
+        "input": "si!",
+        "output": "si, siii!! sii. siii~ siiii~ si! siiiii. si!! siiiii. si. sii~~ sii~ siii. siii~ siiiii!! si~~ siiiii~~ si~~ si. si~~ siiii, siiiii~ siii~ siiiii~~ siii, siiiii. siiiii~ siiii, sii~~ siiii, siii~~ si~ siiii, siiiii, siiiii~~ siiiii~ si~ siii!! siiii! si! siii~~ si. si, si! siiiii! siii. siiiii~ sii~ siiiii~~ siiiii, siiii, siiii! siii. si~~ siii. siiiii~~"
+    },
+    {
+        "input": "siiii!",
+        "output": "siiiii!! si!! siiii~ siii~~ siii~~ siiiii~ siiiii!! siii~~ siiiii! siiii~ sii!! si~~ siiiii. siiii~~ siiii. siiii!! siiiii! siii. si!! siiii~~ siii~ siiii!! siiiii, si~ siii! sii, siiiii, siii~~ si!! si~~ si! siii, si."
+    },
+    {
+        "input": "siiii! siii!",
+        "output": "siii!! sii~~ sii, siii~ siiiii!! siii, sii. si! siiii! siiii~ siiiii~ siiiii!! si. siiiii~ si, si~ sii~~ siii, siiiii. siiii!! si! siii~~ siiiii!! siiii~~ sii! siiiii~~ siiii~~ siii~ siiiii~ siiiii~ si~~ sii~ siiii. siiiii! siii, si,"
+    },
+    {
+        "input": "siii! si!! si~ siiii,",
+        "output": "siiii. siiiii! siii, si. si! sii! siiiii~~ siii~ siiiii. si!! siii! sii, siiiii~ siiiii! si. siiiii~ si. sii~ sii. siiii. siii!! sii!! sii~ si, siiii. siiii. si~~ si~ si. siiii~~ siiiii! sii~~ sii. sii!! sii. si. siiii~~"
+    },
+    {
+        "input": "siii, siii, siiiii~",
+        "output": "sii~~ si~~ siiii! sii! siii~~ siiii. si. sii~ siiiii, siii~ siii! sii. sii~ si. siii~~ siiii, siiiii, siiii~~ siii, sii, sii, siiii!! si~~ siiiii, si. siiiii, siii~ siiii!! si. siii, siiiii!! sii! siiiii~~ siiiii! si,"
+    },
+    {
+        "input": "sii!! si. siiii! sii, siiiii.",
+        "output": "siiiii!! siiii~ siiiii~~ siii!! siiiii, siiiii. sii~ siiiii!! siiii!! siiii. siii~~ sii!! siiiii. si! siii~~ siiiii, siii~~ sii, siiiii. si! sii~ siiiii~ siiiii, siiiii! siiii, siiii, siiii~~ siiii~~ siiii. siii~~ siii~ sii! siiii~~ siiiii~~ si. sii! siiiii~~ siiiii, siii!! siiiii!! sii~ sii! siii!! siiiii!! siiiii! si~~ sii! sii!! siii. siiii!! siiii, siiii~~ si, siiii~~ siiii!"
+    },
+    {
+        "input": "siiii~~ si, siii!",
+        "output": "siii. siiiii, si. si~ siiiii!! siii~ si~~ sii~ siiii!! si. si, siii~ si, siii~~ sii! siiiii~ siiiii!! siiii, siiii!! sii. si~~ si. siiii~ sii, siiii. siii!! sii! sii, si~~ siii~~ si. sii~ si!! sii! si,"
+    },
+    {
+        "input": "sii~ siiii! siiii~~ si. siii~~",
+        "output": "si, si! siii~ siiiii! sii! siiiii~ siiii. sii! siii~ siii! siiiii. siiiii!! si!! siiii! sii!! siii, sii. siii!! siiiii~~ sii, si!! sii, siiiii! siiiii. si, si, siiii, siiii!! sii! siiii. sii, siii, siii, siiiii. sii! siiiii~"
+    },
+    {
+        "input": "siiiii~ siii~~",
+        "output": "siii!! siii!! siiii~ siiiii!! siiiii!! si~ si! sii~ siiii~ sii. siii~~ si, siiii! siiii! siiiii! sii!! siii. siiii, sii, sii, sii, si!! si~~ siiiii! siiii~~ siii~ siiiii~~ siiiii. siii, siiii~~ si~ siiiii. siii~ siiiii!! siii~ siiii~ si. siiii!! siiii. siiii!! siiiii~~ siii, sii. siiiii, sii~ siiii!! si~ siiii~~ si! siiii! siiii! siiiii. siii! siiiii~~ siii! sii! siiiii!! siii, siii~~ sii, siii!!"
+    },
+    {
+        "input": "sii~~ si~",
+        "output": "siii, sii~~ siiii. sii, siiii~~ si~~ siii~ si! siii, si~~ siiii~ siii~~ siii~ siii!! siiiii~~ siiii. siii~~ siiii~ sii, siii!! sii! si, siiii!! siiiii~ siiiii. si. si!! si~"
+    },
+    {
+        "input": "siii~ siii, siiiii!",
+        "output": "siiiii! sii. siii! sii, si. siiii~ siiii! siii! si! siiiii~~ siii!! sii. siiii!! siii~ siii~~ siii!! si, si!! siiiii!! siiiii~ siiii, siii! siii, sii, siiii, siiii!! siii! siiiii!"
+    },
+    {
+        "input": "si. siiii!",
+        "output": "sii~ si. siiii! siii~~ sii, si!! sii~~ siiiii~~ si!! sii~~ siiii~~ siii~~ si. siii! siiii, siiiii! siiii. sii, siiiii~~ si~~ siii!! siii. sii! siiiii~"
+    },
+    {
+        "input": "sii!! siii~~ sii, si.",
+        "output": "si, si!! siii!! siiii, siii, sii. siiii, siiiii. siiii! siiii~~ sii!! si!! sii! siiii!! sii. siiii! si! siii, sii~~"
+    },
+    {
+        "input": "siiii~~ siiiii, si.",
+        "output": "sii~ siiiii!! sii, siiii~ sii!! siiii. siii~ siiii. siiiii! siiii~~ siiii~~ siiii! siii, sii, siii~ si!! siiii, siiiii!! siiii! siii~~ sii!! siii!"
+    },
+    {
+        "input": "siiiii. siiiii!! siiiii.",
+        "output": "sii~~ si! sii!! sii~~ si!! si~~ si, siii. si~ sii~ sii~ si~~ siiii!! siiii! si!! siiiii!! siiii, sii!! sii~~ sii~ siiii, si!! sii, siiii~~ si~ sii! siiiii! si!! siiii. siii, si! siiiii~~ si. siiiii~ sii, siii, si, sii, siii!! sii. sii!! si. siiii!! sii!! siiiii!! siii!"
+    },
+    {
+        "input": "siii~~ siii! siiii!! si~",
+        "output": "siiii~~ sii! siiiii!! siii~ si!! siiii~~ siiiii~~ siiii, siii~~ siii, si~ sii, sii~~ siii~~ si~"
+    },
+    {
+        "input": "siiiii, si! si,",
+        "output": "siii, sii, sii! sii, siii~~ siii, siii~~ siii. siiiii~~ siii!! siiiii~ siiii! si. sii! si! siii~~ sii~ siiii. sii~ si!! siiii! siiii, sii, siiii! sii!! si, siiii!! siiii~~ siii. si. siii~~ siii. siiiii~~ siii~ sii~ si. siiii~~ sii, siii~ sii~~ siii! siiiii!! siiii, siiii~ sii!! si~ siiiii! siiii. sii~~ sii!"
+    },
+    {
+        "input": "siiii! siiii.",
+        "output": "sii, siii~~ si~~ siii~ siii. siii!! siiiii~~ siiii! sii~ siii!! siiiii~~ sii~ siiii! siii. siiii!! siii! si~ siiiii~ siiii~~ siii!! siiii!! siiiii. si~~ sii. siiiii! siii~~ si! siiii~ siiii~ siiiii! siiii! sii!! sii~ siii, siiii~ siii~~ siiii!! siiiii~ si~~ siiiii, siiiii~~ siii. sii! siii~~ siiii. siii!! sii! siiiii!! siii. siii. si~~ siiii!! siiii. sii!! si! siiiii. siiiii. si. sii. siiii~ siiii!!"
+    },
+    {
+        "input": "si. siiii, siii~~ sii~",
+        "output": "si!! siiii~ siiiii~ siiii! sii, si, si. si!! siii. siiii, sii! siiii!! siii, siiiii! siii~ siiiii! siii, sii, siii~ siiiii, siiiii! siii, sii. siii~ siii! siiiii~ siiii, sii~~ siiii! si! siii~~ siiii~ siii~ siii, siiii! siii~ sii!! siiiii! siiii~~ sii. siiiii, siiiii! siiii!! siiiii~~ sii. siiiii! siiiii. siiiii~~ sii. siii, siiii!! si! siiiii~"
+    },
+    {
+        "input": "si! siiiii!! sii~~",
+        "output": "siiii, sii~~ siiii, siiiii! siiiii~~ sii. sii! siiii. si!! si. sii!! sii~~ siiii, siii, siiiii! siiii~ siii! si, siiii~~ si~ si. si. siiiii~~ si!! siii!! si. siiiii!! sii, sii~~ siii!! sii~~ si!! sii~ siiii~~ siii!! siii~ siiiii~ siiii~ si~ siiii!"
+    },
+    {
+        "input": "siiiii~",
+        "output": "siii!! sii~~ sii!! sii~~ si!! sii~ siii~ siiiii. si~ sii, siii~ siii. siii~ siiii!! siii~~ sii, sii. siii~~ siiiii~~ siii! si~~ siiii, si. siiiii. siii!! siii!! sii! siiiii! siii~~ siii, siiiii~ siii!! si, si. sii! siiii!! siiii~~ siii. sii, siii!! siii, si! sii~ siiii, si, siiiii! sii~ siiii, si, si~ siiii, siii, si! siiii, sii~~ siii~~ si!! siiiii. siiiii!"
+    },
+    {
+        "input": "si, siiiii, sii!",
+        "output": "siiiii. siiii. siiiii~~ siiiii!! si~~ si~~ siiii! sii~~ siiii~ si! si. siiii~ siiii. sii, sii!! sii! siiii!! siiii, siii! siiii. si~~ siii, siii, sii~~ sii! siiiii!! siiiii. siiiii, sii~ siii! sii~ si! siiiii, siiii, siiiii. siii! siiiii. siiiii, siii. sii. sii!! sii!! sii~"
+    },
+    {
+        "input": "si! siiiii~~ siii.",
+        "output": "siiii!! siii! sii. siii. siiiii! si, siiiii~ siiii, si. si!! siiii, sii~~ sii!! siiiii~ siiii!! sii! siiiii!! sii~ sii, siiii~~ siiiii! siiiii, sii, sii, siiii~~ siiii! si, siii!! si, si. si~ si! sii~ siiiii. siiii!! siii~~ siiiii. siiiii! sii. si. sii, siii!! siii. siii!! siiiii. siiiii~~ siiii~ siiii!! siiii~ siii!! siiiii~~ siiiii~~ siiii~~"
+    },
+    {
+        "input": "siiiii. siiii~~ siiiii, siii~",
+        "output": "sii. si! siii~~ siiiii, si. si. sii~~ si. siii! siiiii! siii. siiiii! sii!! si!! si~~ si. siiiii! siiii, si!! siiii. siii!! si~ siiiii. siii~~ sii~~ siiiii!! siii~"
+    },
+    {
+        "input": "si, siiii~",
+        "output": "siiii, siiiii. siii~~ sii~ si!! siiiii, siiii!! siiiii, si!! sii!! si!! siii, siiii~~ siiii~ sii~ siiii! siiii. siii!! siiii!! sii, siiiii, si~~ si! sii! siii~~ siii. si! siiii~ sii, siiii~ si~ siiii!! siii~~ siiiii~~ siiiii~~ sii!! siiii~ siiiii!! siii, sii~~ sii. siiii! siiiii, siiii. sii, siiii. sii~ si~~ si~ si, siiiii, siii~~ siiiii~ siii, siii! si. siiii. sii~ siiiii. sii! sii. si~ siiiii, sii! siii!! si, sii~ sii! siiii~ siii~~ si! siiiii!! siiiii!! siii, siiiii!! sii~"
+    },
+    {
+        "input": "sii! siii~",
+        "output": "sii, siii! siiii! siiii, sii. sii~ siiiii!! siii~ siiii! si. si~ siiii. sii! siiiii,"
+    },
+    {
+        "input": "siiii~ siiii, siiiii!! si,",
+        "output": "siiii!! siiii!! siiiii!! siiiii!! siiiii. si!! sii!! siiii!! si~ sii, siiii, siii~~ siiii! siii. sii!! sii~ siiiii~ si~"
+    },
+    {
+        "input": "siiii! siii,",
+        "output": "siiii. si~ sii. sii, siiii! siii! si~ siiiii! sii, siii!! sii~ sii~~ siiiii! siiiii! sii~ siiii~ siii, siiiii! siii~~ si~ sii, si!! siii~~ siiii~~ siiii, siiii! si! siiii, si. sii! siiiii! sii!! siiii. si~ siiiii, siiiii. sii~~ sii~ siii. siiii!! siiiii!! siii~~ sii!! siii~~ si! si!! siiii! si!! siiii. siiii~ siiii. siiii!! si~~"
+    },
+    {
+        "input": "siiiii!!",
+        "output": "sii! siiii~~ siiii~ siiii! siiii~ siiii! siii!! siiii~~ si!! siiii~~ si. si. sii~~ siiii~~ sii~ siiiii!! siii!!"
+    },
+    {
+        "input": "siiiii,",
+        "output": "siiii~ siii~ siiii~ si!! si~~ siiiii! sii~ siii! siii! siiiii. siiiii~ siiii!! siiii!! siiiii!! si, si! siiii. siii, siiiii~ sii!! si~~ sii!! siiiii, si! siii~~ siiii. siiii~~ si~~ siii~~ si!! siiiii~ sii~ siiii! si! siiiii! si~"
+    },
+    {
+        "input": "si!! siii!",
+        "output": "sii~ siii, sii~~ siii! sii, siii!! si!! siiiii, siiiii. siiii~~ siiiii~~ siiii~ si, sii! siiiii, siiiii~~ si~~ siiiii, siiii~ si~~ siii. sii! sii!! si~~"
+    },
+    {
+        "input": "siii~~",
+        "output": "siii~~ siiii!! siii~~ sii! siiiii!! sii, siiiii!! si. siiiii! siiiii. si, siii~~ siii~~ sii!! siiiii. siiii!! sii~~ siii!! siii~~ siiiii. sii~~ siii~~"
+    },
+    {
+        "input": "siiiii~ siiiii, si!! sii~",
+        "output": "sii, siii. siii, si~ siiii. si~~ siiiii!! sii~~ siiiii~~ siii!! siiii~~ siiii~ siiiii!! siii. siii, sii, siiiii, siiiii!!"
+    },
+    {
+        "input": "sii~ siii,",
+        "output": "siiii! siii!! sii. sii!! siiii~ si. si. sii! siiiii~ siiii. siii! sii! siiii! siiiii~~ siii~ siiiii, sii~ siiii!! siiii!! siii! sii. si~ siiiii, siii,"
+    },
+    {
+        "input": "si~~",
+        "output": "siii~~ si!! sii! siii~ siiii~ siiii! sii! siiii!! si, siiii, sii, sii! siii. siii! sii. si. siii. si~~ siiii~ siiiii. siiii~ si, siiii~~ si, siii. siiiii, si. sii~ siiii, siii. si, siiiii. siiii~ siiii. siii. siii!"
+    },
+    {
+        "input": "sii~~ sii!!",
+        "output": "siii! sii. siiiii~ si, sii. sii, siiii, siiiii. sii. siiiii~ siiii~ si~~ siiiii! siiii. siii~~ siiii~~ siiii~ siiii! si~ siiiii! siiiii. sii~ siiii, siiiii, siii~~ si~~ sii! sii. si~ siiiii,"
+    },
+    {
+        "input": "siiii! sii. sii~~",
+        "output": "sii~ sii!! siii~ siiiii!! siiii, sii. si!! siiiii!! siii! si!! sii! siiii!! sii~~ sii. siiii, siii, sii!! siii, sii, siii, siii. siiii~ sii~ siiiii~ siiii~ sii! siii!! siii, siiii!! siii! sii~ si~ siiiii! siiii! siii~ si!! siii~~ siiiii!! sii~~ siii~~ siii~~ siiii! sii~ sii. sii. sii~ siiiii! sii!! siiiii."
+    },
+    {
+        "input": "siiiii!!",
+        "output": "si, siiii. siii!! sii~~ siiii~~ siiiii~~ siii, sii! siiii!! sii!! si~ siiii~~ sii, si~~ siii~ siiii! siiiii! sii!! siiiii~ siiii~~ siiii! si, siiii~~ siii. siii! siii! siiiii!! siii~ siii~ sii. siiiii!! siiii, siiiii~ siiiii! siiiii, siiii. siiiii~ siii, siiii, siii. sii. si! siiiii. sii~ siiii~ si! sii! siiiii, si. sii. sii~ siiii, siiiii~~ siii. siiiii~~ siiii. siiii! sii~~ siii~ siiii! si, siiii, siiiii. siiii~~ siiiii~~ siii!"
+    },
+    {
+        "input": "siiii, siii~~ siiii!",
+        "output": "siii. si!! siii~~ si! siii!! siiii! si!! siii!! sii~~ siiii~~ si. siiiii~~ siii!"
+    },
+    {
+        "input": "siii!! siiiii!!",
+        "output": "si!! siii~~ si~ si. sii, siii, siii! sii~~ si! si! siii, sii~ sii. sii, siiii, sii~ siiii. siiii~~ si, siii! siiiii!! siiiii~ siiii~ siii~ si, sii, sii! siiii! siiii~~ siiiii. siii! siiii. si! siiiii! si~ sii!! siii!! si!! si! siiii!! siiii~~ sii~ siiii. siiii~~ siiii~~ siii, siiii, si! sii. siii, sii, siii! siiii~ sii!!"
+    },
+    {
+        "input": "sii. siiii, siiiii! sii!",
+        "output": "sii. siiiii. si. siiii. siiii~ siiiii~~ si. sii, siiii~ siiiii. siii~~ siii!! siii!! siiii! siiiii! siii~ si, si. si!! siiiii!! sii~ siii! siii. siiii~ si. siii. sii. sii. siiiii, sii~~ siiii. sii~ si~ si~ siii, si!! siiiii~~ si, si. siiii!! siiii, sii~~ si. siii~~ sii! siiiii. siiii, siii."
+    },
+    {
+        "input": "siiiii, sii!! siii.",
+        "output": "si. si, siiii~~ siii, siii. siiii~ siiii! siiii!! siii~ siiii!! siii!! si! siii!! siiiii! si~~ siii. siiiii. siiiii~~ siiiii~ siii!! siiiii, siii~ si, siiii. siii! sii, siiiii! siii! siiii! siiiii!! si, sii~~ siiiii~ si! siiiii. siii. siiii~ sii! siii. sii! siiii, siiii, siii!! sii, sii!! siii, siiiii~ si!! sii~ si~ si. si!! siii~~ siiiii,"
+    },
+    {
+        "input": "sii~~ siii,",
+        "output": "si~~ si! siiii, sii!! siiii, siii! siii~ sii. siiii!! siiii~ siii! sii~~ siiiii~~ siiiii. siii, siiii, siii~ siii~ sii~ si, siiiii~~ sii~ sii! siiiii! siii~~ sii!! si! siiii~ siiiii!! sii! siiiii!! si~~ siii!! sii!! siiii~~ si!! siiii. siiii. sii~~ si!! siii!! siiii. siiii~~ sii. siiiii! siii~~ sii!! si. si!! siiii, si~ siii, siiii, sii! siiii!"
+    },
+    {
+        "input": "sii~ sii. siiii.",
+        "output": "sii!! sii~~ sii~ si, si~~ siiii! siii. sii!! siiii~~ siiiii~ siiiii. sii~ sii!! sii~ siiiii!! siii, siii!"
+    },
+    {
+        "input": "siii~~ siii.",
+        "output": "siiiii!! sii, siiii~~ siiiii~~ siiii! sii! si. siiiii!! siiiii~~ sii~ si! siii~ siii! siiii! siii~~ siiiii, sii!! siiii! siiiii! siii! siiiii, siiii. sii. siii!! siii, siiiii~~ siiiii~ siiii! siii! si. siiiii~~ siiii~~ sii, siii! si~ si!"
+    },
+    {
+        "input": "siii. siiiii!",
+        "output": "siiii!! siiii. siii!! si~~ sii~~ siii~ siii~~ sii~ siiii~ siii, siii! si!! sii~~ sii, siii~ siiiii~~"
+    },
+    {
+        "input": "siiiii. si!",
+        "output": "siiii! siii, sii, siiiii! siiiii!! sii! siiiii~~ siii. siii~~ siii~~ si!! siiiii~ sii, siiiii, siii. si~ siiii~ si!! siii! si! siiiii!! si~~ sii, siiiii. sii~ si, sii. siiiii~~ sii, siiii~ si, siiiii! siiiii!"
+    },
+    {
+        "input": "sii. si!! siiiii~~",
+        "output": "sii. siiii. siiii~~ sii~~ si!! siiiii! siiiii, si!! sii~~ siii! sii~ siii!! siii. siiiii, siiii!! siiii!! si~~ siii~~ siiii! sii!! sii~ si~ sii! si~ sii, siiii. si! siii~~ siii!!"
+    },
+    {
+        "input": "siiii! si~ siiii~",
+        "output": "siiii. si, si~ siii~ si, siii, siii. sii, siiiii~ siiiii! si~~ siiiii, siiiii, siii~~ siiiii~~ siiii~~ siii!! si! siiii!! siiii! si~~ si~ siiii! siii! sii, siii~ siiiii!! siiii. si. siiiii~ siii~~ siiii~~ siii!! siiiii!! sii! si, sii~~ sii~~ siiiii. siiii~~ siii~ si~ si!! si. siii! siii~~"
+    },
+    {
+        "input": "siiii~ si~~",
+        "output": "siii!! sii~~ siiiii! siii~~ si, siii~~ siiiii!! siii. siiii~~ si~~ si~ siiiii!! siiiii! siiii! siii~~ siiii! siiii!! si~ siiii~~ sii!! si, siii~~ siii! siiii! sii, sii, si, siiiii! si~ siii. si!! siii~~ si~~ siiii~ sii~~ sii~~ sii. siiii!! siiii. siiiii~ siii~ sii! siii."
+    },
+    {
+        "input": "sii!! si~~",
+        "output": "siiii! si! si~~ siiii~ siii, si. siiiii. siiiii, siiii~~ siiiii~ sii~~ siii, siiiii, siiii~~ si~~ si!! si, si, sii! sii. siii. siiiii~~ siiiii~~ si! si!! siiiii. sii, si! sii, siiii~ siii. siiiii!! sii~ siii~ si!! siiiii!!"
+    },
+    {
+        "input": "siiii, siii~~",
+        "output": "siiiii! sii~~ sii, siii!! siiii~ si!! siiii! siiiii~~ siiiii!! siiiii!! si! siiii. siii~ siiii. siii~~ siiiii~~ siii. siiii~~ sii~ siiiii."
+    },
+    {
+        "input": "si, siiiii!",
+        "output": "sii~~ si~~ siiii. siiiii~ siiii. siiiii. siiiii!! siiiii! siiii!! siiii~ siii. siiii! siii. siiii~~ siii! si. si, sii! si~ siiiii!! si~ siiiii. si. siii!! siiii! siiii~~ siii!! si~~ si! siiii~~ siii!! sii. siiii!! siiiii~~ si~ siiii~~"
+    },
+    {
+        "input": "si.",
+        "output": "siiiii, siiiii!! siii~~ siiiii~~ si! siiii, sii!! siiiii, siiii~ si!! siiiii. si~~ si!! siiiii, sii!! siiiii. sii! siiiii! si. siiiii!!"
+    },
+    {
+        "input": "sii!! sii!! siiiii, siiiii~~ si!!",
+        "output": "sii!! sii. si~ siiii~ sii! siiiii!! si~~ si. sii, siiii, siiii!! sii!! si, si. si! sii!! si! siiiii! siiiii. sii!! siiiii!! sii~~ si~~ sii, si!! si! si~~ sii! sii!! siiii~ sii~ si, siii!! si!! sii~~ siiiii. sii! sii~ si!! siii~ siiiii. sii. siiiii~~ sii~ siiiii!! siiii~ siiiii!! sii~ si! siiiii."
+    },
+    {
+        "input": "siiii, siiii, siiii~",
+        "output": "siiiii!! siiii! si. si! sii~ sii. siiii~ si, si~ sii~~ si~~ si! sii. sii. siii, siiiii, si~ sii~~ sii~~ siiii~ siiiii! siiii!"
+    },
+    {
+        "input": "siiiii. sii, siii~~",
+        "output": "siiii, siiiii~ sii. sii!! siiiii!! siiiii, siiiii!! sii~~ siiiii~ siiii!! siiii. siiiii. sii~~ siii! si, siiii~~ siiiii~ sii. sii. siii. sii~ siii, siii. siiii!! siiii, si. siiiii~~ si. sii!! siii, sii~~ sii! siiii!! si~~ siiiii,"
+    },
+    {
+        "input": "siiii! si, sii~",
+        "output": "siiiii!! sii~~ siiiii. si! si!! siii~~ siiii! siii~ sii~ siiii. siiii~ sii. si~~ siiii~ siiii~ siii~~ siiii! si~~ siiiii. siiii~ si!! siiii! sii. sii. siiii~~ si! siii! si~~ si~ siii~~ siiiii~ siiiii~ siiiii. sii~~ sii!! siii~ si~~"
+    },
+    {
+        "input": "sii, siiii. si. siiiii~",
+        "output": "siiiii! si!! siiii! si. siii~~ siii~~ siiii, sii. siiiii. si. siiiii~~ siii, sii!! siii! si! si~~ siiiii,"
+    },
+    {
+        "input": "sii!! siiiii,",
+        "output": "siiii~ si!! si~ sii!! sii, siiii!! siiii, si~ siii~ siiii, siii~~ siiii, siiii!! siii! siiii, siiiii~~ siiii!! si, siiii!!"
+    },
+    {
+        "input": "siiiii! si~ sii, siiiii~",
+        "output": "siiii! siiii!! si~~ si. siiiii!! sii!! siiiii!! siiiii! siiiii. siii. siii!! siii~~ si! siiii! sii! siiii!! siiii. sii. siiii, siii! si~ siiii~~ siii, siii~ si~ siiii~ sii! sii!! sii. si~ si~ sii! sii. siiiii~ si!! siiiii~ sii, siiii. siiiii, siiii!! siii. siiii! siiiii~~ siii! siii, sii. siiiii!! si~~"
+    },
+    {
+        "input": "sii! si~~ siiii.",
+        "output": "siiiii. siii, sii. sii, siii. siiiii~ siii~ si. siiii!! siii~ siii!! si! siii!! siii! siiiii~~ siiii, sii~ siiii~ siii!! siiii. siiii!! siiiii! siiiii~ siii~ si, siiiii~~"
+    },
+    {
+        "input": "si! si. siiii~~ siiii,",
+        "output": "siiii. sii!! siiii! siii~ si!! siiii. siiiii! siiii~ siiiii~ sii~~ si! sii~~ sii. si!! siiii, siiii~ si~~ siiii! siii! siiiii~~ sii~ sii. sii~~ sii. si!! siii!! siiii~ sii, sii! si. sii~"
+    },
+    {
+        "input": "siii, siii, siiii.",
+        "output": "sii! siiiii! siiiii, sii! siii! siiii!! sii! sii~~ sii, siiii!! sii, siii. siii! siii. siii!! siiiii. siiiii. siii! siii. sii, siiiii. sii. sii~ siii~ siiii~ sii~ sii~ sii~~ sii~~ siiii, siii!"
+    },
+    {
+        "input": "si~~ si. siiii~",
+        "output": "siiii, siiiii~~ siiii. si~~ si! si, sii, sii. siiiii, siiiii!! siii~~ sii!! sii, siii~ si!! si! sii~~ siii. si~ si. si, siiii. sii. siii, siiii~~ si, si. siiii! sii!! siiiii. sii, si~~ siiiii~~ siii, sii! siiiii, si."
+    },
+    {
+        "input": "siiiii! si.",
+        "output": "sii. siii~ si!! siiiii, siiii! si~ siii!! sii, siiiii!! siii~ siiiii!! si~ siiiii~ siii!! siiiii! sii, sii! siiiii~~ siii, siii~~ siiii. sii, si. sii~~ siiii~~ siii!! siii~~ siiii. siii~~ siiii. siiii~ siiii, si~ si! si! siii~ siiii! siiiii, si, siii, si!!"
+    },
+    {
+        "input": "siiiii! si~~",
+        "output": "si! siiiii, siiii~~ siii. si~ siii! siii. sii. siiiii!! siiii! siiii, siiiii, siiiii~~ si~ si!! si~~ siiii!! siiiii, sii, siii, siii, siiii, si~ si~ siiiii, siiii, siii~ sii! siii!! sii~ si. si, sii! siiii! si~~ si~~ sii. siiii~~ siiii, si, si, si!! sii~~ si! si~ sii! si! siiii!! si!! si~~ siiiii~~"
+    },
+    {
+        "input": "sii. si.",
+        "output": "siiii~~ siii. siii~~ si. si~ si!! siiiii. sii~~ siiii~~ siiiii!! si~ siiiii~ si~~ sii, sii!! siiiii~~ siiiii! siiiii~ siiiii, siiiii~~ siii."
+    },
+    {
+        "input": "sii~~ si~ siii~",
+        "output": "sii~ si~ si~ siiiii! siiiii. siii~ sii. siii!! siiiii~~ si~~ si! siiiii!! si! siiii. siii!! siiii. si~~ siiiii~ siiiii~ siiii! siiii! siiiii!! siiiii!! sii~ siii~~ si~~ siiiii~ si. siii. siiii! siii. siii!! siii~~"
+    },
+    {
+        "input": "sii. siiii~~ siii~~ si~",
+        "output": "siiii~ siiiii~ siiii, si~ si, siiiii! siii~~ sii~ sii. siii~~ sii!! sii!! siiii~ sii~ siii, siii. siiiii~ sii~ sii, siiii~ siiii! siiiii, siiii, sii~~ sii! si. siiiii! si! siii! si~"
+    },
+    {
+        "input": "si! siiii,",
+        "output": "siii~ si, siiii~~ siiii. si!! sii~ sii. sii, siii!! siiiii, siiiii, siiiii! si~ siiiii~~ siii! sii, siii~ siiii~~ siiii~~ siii. siii~~ sii! si, siiii~ si, siiii! sii! sii~ siii. sii. siii!! siii! siiii!! sii! si!! sii!! si!! si."
+    },
+    {
+        "input": "si!",
+        "output": "siiiii. siiiii, siiiii, sii!! siiiii~~ siiii. siiiii~ siii, siiii~ siiii~~ siiiii~~ si. si~~ siiiii~ sii! siiii!! si!! siii~~ siiii~ siiiii~ sii! si! sii~ si. siii, sii~~ siii, sii~ si, siiii, sii. siiii. si, si, siii~ si~~ si~~ si~ siiii. si! siii! siiii~ sii. siiii! sii! siii, si. si~~ siiii!! sii! si!! siiiii!! siii~ si,"
+    },
+    {
+        "input": "siii, sii~",
+        "output": "siiii. siiii~~ siii! si!! siii, siiii, siiii~ sii! siiiii~ siiiii. si! siii!! siiii! sii. siii. siiii! si~ siiii~~ si! sii, si! sii!! siii. sii~ siii~ sii! siiiii! siiii~~ siiii, si! siiiii~~ siiii, si!! siiiii. sii!! siiii. si, siiii. si!! sii!! si~ siii~ siii~ siii! siii. sii~~ siiii~~ si,"
+    },
+    {
+        "input": "si! siiiii, siiii!!",
+        "output": "sii!! siii. si~ si. si, si! siii, sii~ siiiii, si! siii, si! siiii! siiii!! sii. siiiii~ si~~ sii~ sii! si, si, siiii!! si, siiiii! siii. sii! siiiii. sii~ siiii~ si! sii. siii~ sii~ siiii~~"
+    },
+    {
+        "input": "siii!",
+        "output": "siiii. siii!! sii, siiii, siiiii!! siiiii~ siii! sii~~ siiiii! siiiii~ si~~ si~~ siii~~ sii! sii, siiii~~ siiiii! si. siii! si! siii! siiii~~ siiiii~~ siii! siiii. sii! siiiii!"
+    },
+    {
+        "input": "sii. siiiii.",
+        "output": "siiiii~~ sii! siiii! sii!! sii, si~~ siiii. sii, siii!! sii! siiii~~ siii~ sii!! sii!! si~ si! siii, siii!! sii! siiii!!"
+    },
+    {
+        "input": "siiii~~ siiiii!!",
+        "output": "siiiii! siii~~ si~ sii~ si~~ siiii, siiiii, sii. siiiii! siii! siiii! siiii~ siiiii!! siii~ siii. siii~ siiiii. siiii~~ si, si~~ sii~ sii. siii. siiiii~~ siii~ siii! siiii~~ sii! siii, siiiii! siii!! sii. sii! si!!"
+    },
+    {
+        "input": "siiii~~ sii!! siiiii~~",
+        "output": "siiii~ siiiii~~ si~ siii~~ si, siiiii!! siiiii~ siii! sii, si~~ sii~~ sii~ siii. siii. si! sii. siiii~~ si. siiii! si~~ siiii, siiiii~ siii~ si, sii! si! siii!! siiiii. sii! si~~ si!! si~~ siiii, siiiii, siii. sii, siii. sii, siii, sii. siiii. siiii. siiii!! siiiii~ siiii! siiiii~~ siiii~~ siiiii! siii! siii, siiiii."
+    },
+    {
+        "input": "siiii~ si!! sii. si.",
+        "output": "siiii! siiiii~~ siiiii~~ siiiii, siii~~ siiii, siiii. siiii!! si! siiiii! siiii~ siiiii. si. siiii~~ siiiii!! siiii! sii!! siii!! siiii~~ siii, siii! sii, siiiii~~ siiiii. siiii. siii, si. siiiii~~ siii, siii~ siiii!! siii~ siiii. sii!"
+    },
+    {
+        "input": "si~~ siiii~~ siii!!",
+        "output": "sii! si~~ sii! siii~~ si! siiiii~~ sii, siiiii! siiiii~~ si!! siii, siii! siii~ siii! siii,"
+    },
+    {
+        "input": "siiii, siiiii~ siii,",
+        "output": "siii. siiiii! sii! siiiii~ siiii. siiii. si! siiii~~ siiiii~~ siii, si!! siii, siii~~ siiii!! siiii. siiii!! siii, si!! sii~~"
+    },
+    {
+        "input": "siii! si~ si. siiii!",
+        "output": "sii!! siiii!! siiii, sii! siiiii!! si! siiii! siiii!! sii~~ sii!! si~~ si~ siiii. sii. siii~~ si! siiiii. sii~ siiiii! si~ si. siiiii~ sii. si! sii, siii. siiii!! siiiii~ siiiii!! sii~~ sii, siiiii~~ siiiii~~ siiii~~ siiii. siii! si~~ sii!! si!! sii! siii!! sii! sii, siii~ sii. si, si!! siii, siiii~ sii!! si!! siiiii! sii, sii. siiiii!! siii, siii~~ siiiii!! siiiii~~ sii~ siii!! si, sii~~ siii~ siii, siiiii~ si. sii!! siii! siiii! si! siii~~ si~~ si! siiii!! siiii~~ siiii! siiii~~ siii, si! siiii. siiii~ sii! siiii! si!! siiii! siiii~ siiiii. sii!"
+    },
+    {
+        "input": "siiiii~ si! siii~~",
+        "output": "sii! sii!! sii. si~~ si! siii! siii, si~ siiii!! siii. si, sii~ siiiii~ sii~~ siiiii~ siiii~ siii! siiiii~~ si, siiii."
+    },
+    {
+        "input": "si! siiiii!! sii~ si,",
+        "output": "sii. siiiii, siii~~ siiiii~ sii. siii~ sii, siii!! siii. si, siii, sii~~ siiiii~ siiii!! si!! siii~"
+    },
+    {
+        "input": "siii. sii. sii.",
+        "output": "si~ siiiii. sii! siii~~ sii! siiii~~ sii~~ siiii, siiii. siiiii~ siiiii. sii~~ siiiii, siiiii, siii!! siii! si~~ siiiii, sii!! siiiii!! siii~~ sii, sii~ si! si. siiii! sii~ si. siiiii! siii."
+    },
+    {
+        "input": "sii!! siiii~~ sii~~ siii~",
+        "output": "siii~~ siii!! siiiii~ siii! siiiii~ siii. sii~ siii, sii. si~ siii, si. siiii! siiii, si! sii~ siii!! sii!! siiiii~ si~~ siii!! siiii~ siii, siiii! si. siii! sii~~ siiii! si! sii! siiiii! si. siii!! si! siiii,"
+    },
+    {
+        "input": "sii. siii,",
+        "output": "siii! siiiii. si, siiii, siii~ siiiii~ si!! si~ siiiii~ siiii~~ sii! siii!! si~~ si~ siiiii. siiiii!! sii!! siiiii~ si!! siii. si, siiiii!! siiii! siiiii~ siii~ sii, sii!! sii!! siii. sii~~ siiiii!! si~~ siii!! siiiii, siii! siiii. sii~ sii. siiii, siiii~~ si. si. siiii, siii! si~~ sii!!"
+    },
+    {
+        "input": "siiii!! siiii!!",
+        "output": "siii~ siii~~ siiiii~ siii! siiiii~~ siii!! siii. siiiii~ siiii~ si!! siiii! siii~~ siiii. sii! siiiii!! si, siiiii!! siiiii! siiiii, sii. siiii!! siiiii~~ siii! siii~ si. siii! siiiii. siii~~ sii!! sii. siiii, siiii! siiii~ sii~~ sii~ si~~ siii!! siiii!! siiiii, siii~ si!! sii~ siiii, siii! sii, siiii~~ siiiii! si, si~"
+    },
+    {
+        "input": "siii!! sii! siiiii. sii!!",
+        "output": "si! si! siii~ siiiii~~ si, sii. siiii!! sii~~ sii! si!! sii~ sii!! si, sii!! siiiii. si~~ siiiii~ siiiii~ siiiii~~ siiiii!! siii! siii, sii, siii. sii. sii~~ sii~~ siiii, siiiii!! siii. siii~"
+    },
+    {
+        "input": "siiii! siiiii,",
+        "output": "si! siiii. siiiii!! siii~ siiii, sii, si!! siiiii! sii, siii~ si~ sii. sii~~ si. siiiii! siii~ siiiii. siii! siii!! siiiii~~ siiii. siiiii!! siiiii! siiii~ sii, siiiii~~ sii. siii!! sii~ siiii~~ si, sii~ si, siiii. si~ siiii. siiiii~ si! siii!! si!! si~~ siii! siiiii~ si!!"
+    },
+    {
+        "input": "siiii.",
+        "output": "siiii~ siii!! siiii!! siiii, sii! siii!! siii!! si!! siii~~ siiii~~ siii. siii, siiii!! siiiii~ sii, siii!! siiiii~~"
+    },
+    {
+        "input": "siiiii~~",
+        "output": "siiii~ siiiii~ sii!! siiii. si~ siiiii. siiiii. siiiii. siii!! siii, siii~~ sii! si, si!! sii. siiii. si, siiii~~ siiii, sii~~ siiii. siiiii~~ si! siii~ siii, siiii~ sii!! si! siiiii, siiiii. siiiii! si~ siiii~ siiiii~~ si! siiii~~ siii~ siiiii, sii!!"
+    },
+    {
+        "input": "siiiii!! siiiii!",
+        "output": "siiii, sii~ siiii! siiii. siii! si! siiii~ siii. si! si~~ siii! siiii!! siiii!! siiiii. siiii, siiii~~ siiii, siii. siii!! si! siii~~ siiii. siii~~ siiiii, siiii! siii! siiiii. siii. siiiii, sii! sii. siii, siiii~ si~~ siiii~~ siii~~ si~ siiiii~ si~~ siiiii!! siiii!! siiiii~~ sii!"
+    },
+    {
+        "input": "siiiii~",
+        "output": "siiii~ siiii!! siii! siii! siii. si! siii. siiii!! siiiii~~ siii, sii! siiiii!! siiii, si, sii!! si! si~ siiii. siiiii! sii! siii~~ sii!! siiii. siiii~~ siii~ siii! siiiii~~ siiii~ siiii, siiii~ sii~~ siiiii!! si! sii~~ si. siiiii, siii!! sii. siiiii~ si. siii~~ sii~~"
+    },
+    {
+        "input": "siii, siii, sii~~ si~~",
+        "output": "sii~ siiiii!! siiiii, siii! si. siii. siii. siiiii~ siiii, siiii~ siiii~~ siiii!! siii~ siii!! sii, siiii!! siiiii!! siiii. siiiii! siii. siii, siiiii~~ siiii~~ siiiii~ si! siiiii~ sii. sii! sii, sii, siiii! siii, sii, sii! sii!! siiii! siiii, siiii,"
+    },
+    {
+        "input": "siiiii!! siii~~ siiii, sii~~",
+        "output": "siii, siiii! sii, siii! siiiii~ siiiii. siiii~ siii~~ siii, siiii~~ sii. siii. siiiii~~ siiiii. si! si~~ sii! siiiii, sii. siiiii, sii~~ siiiii. siiiii!"
+    },
+    {
+        "input": "siii.",
+        "output": "siiiii~ si!! si! siiiii!! siiii! siiii! siiiii. si!! si!! siii! siii~~ siii! siiii~~ si. siii~~ si. sii! siiiii. si. siii! siiii~ sii~~ siii~ si~ siii~~ siii!! siiiii!! si! siiiii~~ siiii~~ siii~ siii~ siii!! si. siiiii. si~~ sii~ siii~~ siii. siiii. sii. sii. siiii, sii!! sii~~ siii! siii! siiii!! siiiii!! si!"
+    },
+    {
+        "input": "siiiii. sii. sii. sii. siii!",
+        "output": "siiiii!! sii. siiii~ siiii~~ si, siii! siiii!! si, siii, siii. si~~ sii~ siii, siiiii~~ sii!! siiiii~ siii!! sii!! si~~ siiii~~ si,"
+    },
+    {
+        "input": "siiii!! siiii~",
+        "output": "si, siiiii~ siiiii!! siii. siiii~ siiiii~ sii~~ siiii. siii, siiii~~ siii, siiiii, siiii~~ siiiii~ sii! siiii~~ siiiii. siiii. siii!! si, si. siiii! siii. siiiii. sii. siiiii. siiiii. siiii~~ siiii~ siiiii,"
+    },
+    {
+        "input": "si,",
+        "output": "si! siii, siiiii~~ siiii! siii!! sii! siii!! sii, sii. siiii. siiii~ si. siii, siiii~~ si. sii, siii, sii~ sii!! si. siii. siii~ si. si! sii! sii~ siii! sii!! siiiii~~ siiii, si!! siii!! siiii~ siii. siiii. si. siiii! siiiii! siiii! siii~~ si~ siii! siiiii! sii, si. siiii!! siiiii! si! siii."
+    },
+    {
+        "input": "siiiii! siiiii~",
+        "output": "sii~~ si. sii~~ siii!! siiiii~ siii~~ siiiii. si. siiii, siii~ siii~~ si, si. siii~~ siii! siii, si. siiii~ siiiii!! si, sii~~ si!! sii~~ siiiii~ siiii~ siiiii!! siiiii, si! siii, siiii~~ si!! siii, siii!! siiiii! siiii! siiii, sii~~ siii!! si! sii, sii! siiii, si!! si, siiii~ siii~~ siiii. siii~~ sii!! siiiii!!"
+    },
+    {
+        "input": "siiiii, si. siii~ siii,",
+        "output": "sii!! si~ siiiii~~ sii, si!! siiii~~ si~ siiii!! siiii~~ siiii~ sii!! siii~ siii, siiii~~ siiiii, si, siiii, si~ si~~ siiiii. siii. siii, siii. siii. sii~ siiii! siiiii, sii! sii~ siii~~ sii. sii. sii~~ siiiii. siiii, siii! si. siii~ sii! siiiii~~ sii!! siiii, si~~ siiiii. siii~ sii~ siiii~~ sii. sii, siiii, si. siii!! siiii!"
+    },
+    {
+        "input": "siiii.",
+        "output": "siiii! siiii, siiii~ siiii~ si~~ si! si!! sii~~ sii!! siiiii!! siiii~~ siiii~~ siiiii~ sii. sii!! siii!! siii. siii~~ siii, si. siii. siiiii. sii~~ siiii~~ siii, siiiii~~ sii! siiii~~ siiiii~~ siii! siiii~"
+    },
+    {
+        "input": "siiiii! sii,",
+        "output": "siiiii~~ siii~~ siiii~~ siiii~ si, si~ siiiii~ sii~ siii!! siiii. siiii~~ si~ siiiii. siiiii, siiii~~ siiiii~~ siiii!! siiii~~ siii~ sii~ sii!! siiiii~~ sii~~ sii~~ siii, si~~ sii~~ siiiii! siii! siiii!!"
+    },
+    {
+        "input": "siiii~ siiii! si,",
+        "output": "sii. siiiii~ si! si~~ si~ si~ si! siii. siiii~ siii. siiii, siiii~ sii~~ siiii~ si~ si, siii~ si. siiiii~ siii~ siiiii. sii. si. siiiii~ si. siii!"
+    },
+    {
+        "input": "siii. siiii,",
+        "output": "siii! siii!! si. sii~ siiiii!! si~ sii, sii. sii, siiii, siiii~~ siiii! sii~~ siii!! siiii, siiii!! siiii!! si, siii~ siiii!! siiiii~ siiii! sii!! si~ sii!! sii! siii. sii~~ siii~~ siiii. siiii!! siiii~ si!! siii. siiii, siiii. siiiii~~ siii, siii~ si~~ siiiii~ si~ si, si! sii, sii~~"
+    },
+    {
+        "input": "siiiii~ sii, siiiii~ siii.",
+        "output": "siiiii! siii. sii. sii~~ siii~~ siiiii~ siiiii!! sii! siii, si~~ siiiii!! si~~ siiii, siii, siii~~ siiii!! siii! siii! sii~ si!! siiiii~~ sii~~ siiii. si!! siiii! si. siiiii! sii~ sii, siiiii! siiiii!! siiiii~ sii!! siii!! sii, sii!! sii!! siii. si~ sii, siii, sii!! siii~~ siiii~ siiiii~~ siiii!"
+    },
+    {
+        "input": "si~ siiiii,",
+        "output": "siiii. si! siiii. siii!! sii~~ sii, siiiii!! siiiii! siii! siiii~~ siiiii~~ si!! siiiii! sii~~ sii!! siiiii~~ siiiii!! si. siiii. siiiii, siii~~ siiiii~ si. siiii~ siii~~ siii. siiii, siiiii!"
+    },
+    {
+        "input": "siii, siiiii!! siiii,",
+        "output": "siiiii. siiii! siii!! siiii, siiii. sii!! si~~ siiii~~ sii~ siii~~ si~ sii. si~ si~ sii, siiiii!! sii!! siii! siiii!! si. siii. siiiii~~ si~ siiiii!! sii~ sii~~ si! siiii~ sii!! siiii!! si! siii! si!"
+    },
+    {
+        "input": "siiii~ si~~",
+        "output": "si! siiiii, siii, siiiii~~ si! si!! sii. siii~ siii!! sii~ si! siii~~ si!! siiiii! siiiii~~ siii, siiiii! si. sii~ sii~~ sii. siiii. siiii~ siiiii~ si~~ si! siiii~~ sii~~ siiii~ siii~~ si~ siii~~ siii~~ si~ siiii~~ siii, siii~ sii~ siiii~ siiii~ siii~~ siiii. si! siiiii. sii, siiii! siiiii. siiiii, si. siii~ siiiii!! siii!! sii. sii!! si~ siii, sii. si!! si!"
+    },
+    {
+        "input": "sii~~ siiii! si~ siii!!",
+        "output": "siiiii~~ siii~ si~ siiii!! sii~~ siii. siiii. sii. si! sii!! sii!! siii~~ si~ sii~ siiiii!"
+    },
+    {
+        "input": "siiii!! siiiii.",
+        "output": "siiii~ siiii. siiii~ si! siiii~ siiii! sii!! siiii! siiiii~~ si~~ siiii!! sii, sii~ siiiii, si. siii! siiii, siiiii, sii. siii~ sii, siiii, siiii. si!! siiii! siiii~ siiiii!! si. siiiii. sii!!"
+    },
+    {
+        "input": "si!! siii!!",
+        "output": "siii~ siii~~ siiiii~ si!! sii, siiii! sii, si!! siii! si~~ si!! siiiii, si, siiiii!! siiiii~ si. sii, sii. si! siiii, sii. sii~~ sii, si. sii!! siii! sii!! siii! siii~~ siii!! siii~ siiii! siiii~~ siiii. siiii! si~~ siii, siiiii. siiii, sii. si. si, sii~~ siii, siiiii! siiiii, siiiii,"
+    },
+    {
+        "input": "siiiii, sii.",
+        "output": "siiii. siiiii, sii. siiiii. si, sii, sii~~ siii! si! siiii~~ si! si, sii. siiii, siiiii~~ si~ si!! sii~~ siiiii, siii, siii!! siiii. si~ siiiii!! siiii!! si!! siiiii, siii~~ siii. sii!! si!"
+    },
+    {
+        "input": "siiiii~ si~~",
+        "output": "siiiii~ si! siiii, siiii!! siiii! sii~~ siiiii, si~ sii. siiii~~ siiii~~ sii!! si! si~~ si. si, sii~~ si, si. siii, sii!! si. siii~ siiiii!! si! si~ siiii~ si! siiii~~ sii~~ siiii~~ sii!! siiiii,"
+    },
+    {
+        "input": "siiiii~",
+        "output": "siii, siii!! sii, siii~~ siii. siii~~ siiiii, si~ si, si! siiiii! si! siiii. siiiii. sii, siiii! siii!! siii!! sii!! siii, siiii. siiiii!! siii, siii~ si, siiiii. si~~ siii! sii~~ siiii~~"
+    },
+    {
+        "input": "siii~~ si~",
+        "output": "sii. siiiii~ siii~ siii! siii!! sii~ siiiii!! siii, siii! si~ sii~ siii! siiii~ siiiii! siiiii~~ siiii!! si~~ sii~~ siiiii!! si! si~~ siiiii~ sii~ siiiii!! siiiii~~ si. siiii~~ siii~ siii~ si~~ siii! si! siiii~~ siii!! siiii."
+    },
+    {
+        "input": "siii! siii~~ si!!",
+        "output": "siiii~ sii! siiii!! si~ sii~~ sii~~ siiii!! siiiii, siii!! siii. sii! sii~~ siiiii. siiii. siiii! si!! si! siiiii, si!! siiiii~ sii, siiiii, siiii, siiii!! siiii~ siiiii! siiiii~~ sii! si~ si~ si!! si, si, siiiii. siiiii! si!! siiiii! sii!! siii~~ sii~~ siiiii!"
+    },
+    {
+        "input": "siiii,",
+        "output": "sii!! siiiii~~ siii!! siiiii! siiiii. siiii! sii. siiii. si. si~~ sii!! sii! sii~~ si. sii!! siiiii, siii~~ siii! sii~ sii, si!! siii. siii~~ siiii~~ siii, siii. siiiii. siiiii! siiii~ si~~ siii. siii, siiiii. sii. siiii. siii~ siiii~ siii~~"
+    },
+    {
+        "input": "siii! si. siii. sii!",
+        "output": "siii, sii!! si~~ siii~ siii~ siiii~~ siii~ siiiii, si~~ siiii~~ siiii~ si~ siiii. sii!! si. siiiii!! siiii~~ siii, sii! sii. sii!! si~~ siiiii~~ siiiii, sii! siiii~~ sii! siiiii~~ sii, siiii!! si~ siiii, si. siii~~ siii. sii~ siii~~ si. sii~ siiiii~ siiiii~ sii. siiii~ sii, sii!"
+    },
+    {
+        "input": "siiiii~ sii!",
+        "output": "siiii. siii~~ sii! siii~ sii!! siiii, si~ siiii!! si! siiii!! si. siiii. si, si~ siiii~~ siiiii~~ siiii!! siiiii, siiii!! siiiii. siiiii. siii! siiii! si~~ si!! sii. sii!! siiii. sii. sii~ sii! si. siii. sii~~ siiiii!! si!! siiii. si!! si~ siii, sii. siiii! siii~ siiii!! siiii!! siii~~ siiiii. siii~~ si. siiiii! sii! siiiii. siii!! sii~ si~ siiiii! siiiii~~ siiii, siii!! sii~~ siii, si~ sii! sii! sii!! siii~ siii~~ sii~~ sii. siii~ siii!"
+    },
+    {
+        "input": "siii, sii! si!",
+        "output": "siiiii! siiiii! siii~ siiiii!! siii! si~~ si, siiiii~~ siiii. siii. siii, siii! siiiii~~ siiii, siiiii, si~~ siiiii~ sii, siii! siiiii~~ si. siii~ siiiii. si~~ siiiii, siii! siii~~ siiii~ siii! siiii!! sii. si!! siii! siiii. siii~~ si!! siiii! sii!! siiiii!! sii. siiii~~"
+    },
+    {
+        "input": "siii. siiii~",
+        "output": "siiiii~ siiiii, sii. si~ siii! siiiii, siiii~~ si!! sii~ sii! si, si!! siiiii~ si!! sii! sii~~ siii, siiii~ siii~~ siiiii, siii~ siiii!! siiiii!! si!! sii~ sii!! siiiii! sii! si. siii! siii. siiii~ si, siiii~ siiiii. siiiii!! si!! siii. siiii!! siiii. siiii! siiiii. sii~~ si~ siiii! sii. si~~ sii!! si~~ sii, siii. si~ sii. sii, sii!! si. siiiii!! siiii, siii~~ sii~~"
+    },
+    {
+        "input": "siiiii! sii! siiii~~ si!",
+        "output": "siiiii!! siii, siiiii, si, sii, sii~ siiiii! siiii~ siiiii. siii~~ sii~~ siiiii! siiiii! siii!! siiii!! siiii, siiii~ si~ siii, siii! si, siii!! si. siii~ siiii. sii, siiiii~~ siiii! sii."
+    },
+    {
+        "input": "siiiii, siiii. siiii.",
+        "output": "siiii!! siiiii, siiii!! siiii. sii~~ siii, siiiii~~ siiiii! siiii! sii! sii~~ si. si!! si!! siiiii. siii,"
+    },
+    {
+        "input": "si!! siiii.",
+        "output": "sii, siiiii, siiii!! siii, sii~~ sii. siiii. siiiii! sii. siii, si! siiii~~ si!! siiii! siiii. siiiii~~ siiiii!! siiii~~ siiiii. siiiii!! siiiii. sii. siii~~ si~~ siiii~~ si~ siii. siiiii~~ si, sii, siii!! siiii. siiii~ siiiii! siii, siii, siiii! siiii! siiiii! siii. sii~ si~"
+    },
+    {
+        "input": "siiii~ siii. siiii!",
+        "output": "siii. sii!! si!! sii, siiii. siiiii. si, siiiii~~ siiiii~~ siiiii, sii. sii. siii! siiiii!! siii~ siiiii! si!! siii~ sii,"
+    },
+    {
+        "input": "siii~ sii!! siiiii. siiiii.",
+        "output": "si, si. siiii, si, siiii!! sii! si, sii. sii, siiii, sii!! siiii, siiiii, sii!! siiii! siii~~ siiiii~~ si~ sii~ siii~~ si. siii~ si~~ si~ si~ siii. siii!! siii, si~~ siii! sii, siiii~~ siiii!! si!! siiiii~~ sii!! siiii! siiii~ siii! siii! siiii!! si, sii~ sii~ si~~ sii. siiiii~~ siiii~ sii!! si!! siiiii, siii~ si!! si,"
+    },
+    {
+        "input": "sii~",
+        "output": "siiii~~ siiii~~ siii~~ si, si~~ sii, siiiii~ si. siiii, sii! siiii!! siii. siiiii~ siiiii, si, siiiii! siii!! sii! siii!! siiii!! sii~ siii. siiii! siiiii!! siii! sii!! siiiii!! si. sii. si!! siiiii, siiiii. si!! siiiii, siiii~ siiii~ siiii,"
+    },
+    {
+        "input": "sii!! si~ sii. siii!!",
+        "output": "siiii. siii! siii!! sii, sii!! siii! sii~~ si, siii~ siiiii!! siiiii!! siiii!! siiiii, siii~~ si, siiiii, siii! si~ siii~~ siiii. sii!! siii~~ siiii. siiii~ siiii~ sii. siii. sii, siii!! siiii, siiii!! siii!! si, siii. sii!"
+    },
+    {
+        "input": "siii! sii, siiii!",
+        "output": "si!! si! si. sii, siiii! si~~ sii. si! sii!! siii! siiiii!! sii, siii!! siiiii! sii. siiiii, siiiii~ siiiii~~ siiiii, siiiii!! sii~ siiiii~ sii! siiiii~~ siiiii~ si, siii!! si, siiii!! siiiii~~ siii! siiiii, siii~ siii~~ sii, siiii~ siiiii~~ siii!! siii~ siiii!! siii~~ si!! siii~~ siiiii~~ siiiii!! siii. sii~~ siiii!! siiii! si, siii!! si~ siiii!"
+    },
+    {
+        "input": "siiiii~~ sii~~ sii! sii!!",
+        "output": "siii~~ siiiii, si, siiiii! siii, siiii, siiii!! siii. si~~ siiiii~~ siii! sii! siiii. siiiii~ siiii, si!! sii, si, si~~ siiii. sii, si. sii!! sii, siiiii! si. si. siiii, siiii~ siiii! sii~ siiiii~ siii~~ siiiii~~ siiiii~ siii!! siiiii! si~~ siii~ siiiii~ siiii~ siiiii~ siiii~~ sii~ siiiii~ siii~~ siii,"
+    },
+    {
+        "input": "siiiii~ siiiii!!",
+        "output": "si!! sii~~ siiii~~ siii~ siiiii~ siiii, siiiii, si~ siiiii. si, siii. siiii, siiiii! si!! siiii~ siii!! si!! sii. siii! si!! sii. sii~~ siiii. siiiii~~ siiiii. siii, siiii. siiii, siiiii. siiii~~ siii~ siiii~ siii!! siii~~ siii, siii~~ siiiii!! siiii~ siiiii!! siiii, siiiii~"
+    },
+    {
+        "input": "si.",
+        "output": "siii~ siii!! siiii. si!! siiiii~ siii!! siiii!! siii~~ sii~ siiii. siii~ sii!! siii~~ siiii, siiiii, siiii, siiii. siiii~~ siiii!! sii. si~"
+    },
+    {
+        "input": "siii. siiiii. siii!! sii!!",
+        "output": "sii~~ siiii~~ siiii. si! siii~ si. sii~ si. sii, siiii! siiiii!! si. sii. sii, siii~ sii! siii~~ sii, siiiii!! siiiii. siii! siiiii, siii. siii! siii!! siiii~~ sii~ sii!! si,"
+    },
+    {
+        "input": "siiiii!",
+        "output": "siii~~ siiii, si! siiiii. siiiii~ siiiii~~ sii! sii!! sii. si, siiiii! sii! siiiii~ sii!! siiiii! siii~~ siiii~ sii. siiiii. si~ siii, sii!! sii, siiiii, siiii~~ siii!! si! siiii!! sii! siiii! siiiii~ siii~ siii~ sii~~ siiiii, siii, si!! siiii! siiii, siii. sii!! siii. siii. siiii!! siii~~ siii! sii~ siii, si!! siiii! siiii! siiii~~ sii!! si~~ si, siiii~ siii!! siii. sii~~ siii!! siii. siiiii~ si~ siii~~ siiii, siiii~~ siiiii, siiiii!! siiii, siiiii~ siiiii~~ sii. si. siiiii, sii! siii~ si!!"
+    },
+    {
+        "input": "sii~~",
+        "output": "si! siii! siiii!! siii~~ siiiii!! siii!! sii. siiiii, sii~~ siii~~ si. siiii, siiiii~ siiiii!! si! sii~~ si. sii~ siiii~~ si, siii~~"
+    },
+    {
+        "input": "si.",
+        "output": "siii. siiii. si! si~~ siiii, sii! si. si~~ siii, siii~~ siiiii, si! siii, siii~ sii!! siiii, si! sii! si! sii! siii, siiiii~ si! siii~~ si~ siiii~ sii, siiiii, sii!! si. sii! si~~ si. siii~ siiii~ siiiii~ siii!!"
+    },
+    {
+        "input": "siiiii~ siii.",
+        "output": "siii! si~~ sii~~ siii!! si! siii~~ siii, siiiii~ si! siii!! siii!! siii~~ sii. si, siiii!! siii, sii~~ si~~ siiiii~ siii! sii!! si~~ siiii, si~ sii! si. si. siii~~ siiiii, siiiii!! siii~ si, si, si~ siii, sii!! siiii, siiii, siiiii~ si~~"
+    },
+    {
+        "input": "si~",
+        "output": "sii!! siiii! siiii~~ siiiii~~ siiiii, siiiii!! siiii! sii~ siii!! siii~~ si!! siii!! siiii! si, sii! siiii~ siii~~ sii~ sii! siiiii! siiii!! siiiii~ siiiii. si~~ siiiii, sii~~ siii!! siiii!! siiii, siii. siiii!! sii, sii~~ sii. si!! sii~~ siiii!! siiiii, siiiii~ siiiii. siiiii!! siiiii."
+    },
+    {
+        "input": "si! siiii!! siii. siii!! siiii.",
+        "output": "siii, si!! siiiii! si~ siii. si~~ si! si. siii, sii, siiii~ sii~ siii, si~ siiii, siii!! sii, siiiii~ siii. sii, si~ siiii~~ siii! siii! siii!! siiii~~ siiiii!! siii! si!! siiii~ siiiii, siiiii!! siii~ si~~ siiiii. sii~ siiiii. sii~~ siiiii!! si, sii, siiii! sii, siii, sii~~ siiiii!! sii. sii! sii~ siiii~~ siiiii."
+    },
+    {
+        "input": "siii. siii! siii. si!",
+        "output": "siiiii~~ siiii. siiiii, sii~ si~~ siiiii. sii~~ siiiii~~ sii~ siiii!! siiii~ si, si! siii~~ siiiii. si~~ siiii~~ siii! siiiii, siiii~~ siiii~ sii. sii,"
+    },
+    {
+        "input": "si! sii!! siiiii! siiiii~~",
+        "output": "siiiii, sii~~ si. siii, sii!! si. siii~ siiiii~ siiii~ si, sii~ siiii, siiiii, si, siii. si! siiii. sii. sii~"
+    },
+    {
+        "input": "siiiii~ sii~ siiiii~~",
+        "output": "siii, siiiii, si, siiii~~ siiiii! si!! siiii!! si. siiiii, si~~ sii!! sii! siiiii! siii! si. siiiii~~ siiiii~ siiiii, siiiii! si. siii. siii! siii. sii~~ siiii, siiiii. siiii!! siiiii. si~ siiii, si! sii! si~~ si, siiii!! si, si! siiiii! sii. sii!! si! siii,"
+    },
+    {
+        "input": "siiii. sii! siii!! siii!",
+        "output": "siii~~ si~ si! sii~~ sii. sii! siiiii. siii. siiii~ siii, siiii!! sii~~ siiiii~~ siii~~ siiii!! siiiii. siii! siiiii, siiii!! siiiii. siiiii. siii, si, siii~~ si, siii~~ siiii!! sii~~ si. si! siii, siii, sii, sii. si~ siiiii~ siii~ siii! siiii, siii~~ siiiii!! siiiii, siii!"
+    },
+    {
+        "input": "sii~~ siiiii!! siii!!",
+        "output": "siii, siii!! siiii~~ sii!! si!! sii, sii~~ si~ siiii, siii! sii! sii. siiiii! si!! siiii~ siiiii~~ siiii!! siiiii! siiiii, siiii!! sii!! siii, siii, si. siii!! sii, sii, sii~~ si!! si, siiii~~ sii, siiii~ sii, siii. siiiii! sii~~ siiii! siiiii~~ siii~ siiiii~~ sii,"
+    },
+    {
+        "input": "siii!! si~",
+        "output": "si~ siii. sii. siii. siiii, siii~~ siii~~ siiiii!! sii~ siii~~ siiii~ siiii~~ siii. siiii. sii!! siiii,"
+    },
+    {
+        "input": "siiii~~ sii, sii!!",
+        "output": "si, si!! si, si~ siiiii! siiii~ siiii. si~ siiii~~ siiiii. si! siiii, siiiii! siiii~ sii, siiiii! siii~ siiiii! siiiii!! siii!! sii, sii! sii~ siii, sii! si. sii. sii. sii!! siii~~ sii~~ siiii, si. sii, si, siiiii, siii! siiiii!! siiiii, sii~~ si. siii! siiii!! siii!! si~~ siiiii~ si. sii, si! siii~~ siiii. siiiii~ siii! siiii! sii~~"
+    },
+    {
+        "input": "sii. sii,",
+        "output": "siiii! siii! sii!! siii~ si!! siiiii~~ siiii~ sii~~ siiiii~~ si! si!! siii~~ sii! si!! siiiii,"
+    },
+    {
+        "input": "siiiii!",
+        "output": "si. siiii~ siii!! siiii~~ si, siiii~~ siii! siiiii. sii~~ sii, si~ siiii~~ siiiii~ siii!! siiiii! sii~ siiiii, siii~ si. sii! siii~ sii. siiii! si. siii! siii. siiiii~ sii!! siiiii!! siii, siii~~ sii~ sii~ siiii, sii, siiii, sii,"
+    },
+    {
+        "input": "sii~ siiii,",
+        "output": "siii~ siii! si~ sii~~ siii~ si~ sii!! siiiii!! sii. siii. siiiii. siiiii. si, siiii!! siii!! siiii! siii, siiii!! si~ sii, siiiii~~ si, sii! siiiii~ si. siiiii, siiii! sii~~ siiii~~ si. si, siiii. siiiii, siii!! siii!! siii~"
+    },
+    {
+        "input": "sii. siii~~ sii~ siiii~",
+        "output": "sii~~ siii~ sii~ siiiii!! si! siiii~~ siiii!! siii!! sii! siiii, si! si~ sii. sii~ siiiii. sii! siiiii~~ siii~~ si. siiii! siii. sii. siii, si, siiii~~ si, sii, siii~ si! siii!! siiiii~~ siiiii!! siiiii! siiii! si. si, siiiii, siii~ siii, siiiii~~ siiiii~~ siiiii, siiiii. siiii!! siii. siiiii. siiii. siiii! siiiii. siiiii~~ si~~ si!!"
+    },
+    {
+        "input": "sii!! sii~",
+        "output": "siiii!! sii!! siiiii~ sii. siiiii~~ siiii. siii! siiiii!! siii!! siii~~ sii, siiiii!! siii~ sii~~ sii. si! siiiii~~ sii. siiii!! si!! si! sii. si!! sii, sii! si~ siiii~~ sii. siiiii~~ siii. sii~~ siii!! siii~~ siiiii. siiii~~ siiii~ si~ siiiii! siii~~ siiii!! sii!! siii!! si~~ siii. si, sii~~ siiii! siiiii, siiii~~ sii! siiii~ siii!! siiiii, siiiii~ si~~ siii~ siiii~~ siiiii~"
+    },
+    {
+        "input": "si!! siiiii! siiii, si~",
+        "output": "siii. si~ sii~~ sii~~ siiii, siiii!! siiii. siiiii! sii~ siiiii! sii!! si. sii~~ si~~ siii. sii! siiiii~~ siii~ siiii~~ siii~ si!! siiiii~~ siiii!! siiiii. siiiii~~ si!!"
+    },
+    {
+        "input": "siiiii~",
+        "output": "siii, siii! siiiii!! si! siii! siii! siiii~ siiiii!! siii~ siiii~ si! siiiii! siiiii~ siii! si! siiiii! siiii~~ siiii!! si! sii. siiii!! sii~~ sii!! siii!! sii, siii! si!! si!! si~~ sii. siii, siiiii. siiiii. sii~~ siiii, si. si, siiii!! si!! siiiii~ si~~ siiii, si, sii! siiiii~ siiiii. siiii. sii."
+    },
+    {
+        "input": "siiiii. siiii~",
+        "output": "sii!! si~ siiii!! siiiii! si, siiiii~ siii! siiii!! siiiii!! sii! sii, siiiii~~ sii~~ sii, si!! siiiii. siii~ si!! sii. si! sii, siiii~~ siii~~ sii. siii. si, siiii!! sii!! siii, siii. sii. si!! siiiii, siiii!! siiiii."
+    },
+    {
+        "input": "sii~~ siiiii!! sii, siiiii!!",
+        "output": "siiiii, siii!! siiii~ si!! siiii!! siii. sii!! siii, siiii~ sii!! siii, siii~~ siii~~ sii, siii~ siiii!! siiiii! sii~~ sii~ sii! si. sii~ sii~~ siiiii, siiiii! siiii! siii~~ siiii~~ siii~ siiii! siii!! siiii~~ siii~ si, siii! siiiii!"
+    },
+    {
+        "input": "siiii!",
+        "output": "sii~ sii!! si! siii. siiii~ siii~~ sii!! siiiii. siiiii. siiiii~ sii. siiiii~~ si. sii. siiii~~ siii! siiii. si. si~ si~ siiiii!! sii~ siiii, siii, siiiii. si! sii. siiiii, siiiii. siii~~ siiii, sii~ sii, siiii~~ siiii, siiii~ siiiii~~ sii! siiiii, siii! si~~ siiii!! siii, siiiii, siiii, siiii!! sii~~ siiii. siiii, siii, siii~~ siiii! siii! siiiii. siiiii~ sii~~ siiiii! siiii. siiiii~ siii, sii!! siiiii!! sii. sii. siii! siiiii!! siii, siii~"
+    },
+    {
+        "input": "siiii~",
+        "output": "si~~ siii, siiii, siii~ sii! siii!! si. siii~ sii~~ sii!! siiiii~~ siiii! siiiii, siiii~~ si. siii! sii~ siii, si. siiii~~ sii, sii~~ siiiii, sii, siii~~ siii~ si~ sii~ si, siiiii. sii~ sii! si. sii."
+    },
+    {
+        "input": "sii! si~",
+        "output": "siiii~ si!! sii~~ siiii! siii~ siii. si, siiiii!! sii, siii. si, siii, sii, siii!! siii. siiiii, si~~ sii! siiii. siiiii! sii,"
+    },
+    {
+        "input": "si! sii!! siii!",
+        "output": "sii~ siii. siiii~~ siiii, siiiii. siii!! sii~ siiiii!! siiiii~ sii! siiiii. sii~ sii, siiii!! si~ siiiii~~ sii!! si, si!! siiii!! siiiii. sii~ siiii!! siiii! sii~~ siii~ siiiii, sii~ si, sii~~ siii. sii. siii~ sii, siii~~ sii!! siii. sii~~ siii, siii!! sii,"
+    },
+    {
+        "input": "si. siiii! siiii,",
+        "output": "siii, siiiii, siii~ siiiii! si! si!! siiiii, siiiii. siiiii~~ si~~ sii. siii!! siii. siii. siiiii!! siiii~ sii~ siiii!! si! si! siiiii~ siiiii. siiii! siii. sii! siiii~ siiiii~ si. sii, si. sii~~ siiii. siiiii!! sii~~ siii~ siiiii, siii!! siii! siii~ sii! siiiii, siii! sii. siiiii~ siiiii. siiii. siiiii. sii! sii, sii! siii! si~~ siii~ siiiii~ siii, si!! si! sii. si. siiiii!! siiiii! siiiii~~ siii!! si. si. siiii. siiiii~~ sii!! siiiii. sii~"
+    },
+    {
+        "input": "siii!! siiii!! siiiii!",
+        "output": "sii, si!! sii! si, siiiii! sii!! siiii!! sii! si. siiii! siiiii, siiiii!! siiii~ siii! sii. siiii! siiii, si, siii~ sii~~ sii~~ sii. siii. si~ siii! siii! siii~~ si~ siii!! siiii~~ siii~~ si~ siiii! siiii. siiiii! si~~ si~ siii~~ siii~ siii, sii. siiii! sii."
+    },
+    {
+        "input": "siiii!! siiii!",
+        "output": "siii~ si. sii!! siii~ siiii~ sii!! sii~ siiii~~ si~ si~ siiii~~ sii, siiiii! si~~ siiii~ siii~~ siii!! siiii, siiiii! si! sii. siiii. siii!! siiii~"
+    },
+    {
+        "input": "siiii!! si!",
+        "output": "siiii!! siiii!! siii!! siiii, sii. siiiii! si! siiiii! siiiii! si! si~~ si!! siiii~ si! siii, sii! si. siiiii, siiii!! siiii!! si~ sii, sii~ siiii! siiii! si. siii~ siii! siiii!! siii! si! siii~ si. siii!! siiiii, siii, si! sii! siiii!! siiii~~ sii~~ siiiii!"
+    },
+    {
+        "input": "siiiii!! siii~~ sii~~ siiii~",
+        "output": "si. siiiii!! sii!! siii!! siii. siii, siii!! si, siiii!! si~ si. sii~ si! si!! sii~~ siiii. si! sii!! siii~~ si. siii. siiii. sii~ siiii! siiii! siiii, si! siiii~ siiii, siiiii~ siiii~~"
+    },
+    {
+        "input": "siiii~ sii. sii~~ siiii,",
+        "output": "siiii!! siiii! siiiii~~ sii~~ siii. siiii. si. si, siii. siii. siiiii~ siiiii~ sii. siiiii. sii!! siiiii~~ siiii! siii!! siiiii~ siiii!! siiii, siiiii!! si, siiii~ siiii! siii~ sii,"
+    },
+    {
+        "input": "si,",
+        "output": "sii. siiii, sii~~ si, sii! siiiii~~ siiiii~~ si, si, siiiii, siiii!! si!! siii!! siiiii~~ si! siiiii. siii. siii, sii, sii~ siii! si!! siiiii!! siiii~~ si! siiii!! sii, si. sii~~ siii. siiii~ siii!! sii!!"
+    },
+    {
+        "input": "siiii~ si!!",
+        "output": "siiiii, siii. siiiii, sii, sii~~ siiiii~ si, siiiii, siiiii~ siii! si!! siiiii~~ sii~ si. siiiii, si~ siiii~~ siiii, siiii~ sii!! siiii~ si~ siii, sii. siii~~ sii! siiiii!! siiii. sii~~ siiiii! sii! siiii. si! siiiii!! siiiii!! siii! siiii. sii~~ siiii!! sii!! siii! siiiii!! siiii. si. siiii~ si! si!!"
+    },
+    {
+        "input": "si!! siii!!",
+        "output": "sii! si~ sii! siii. siiiii~~ sii! si!! si~ sii!! siiiii! sii! sii~~ siii~~ siiii~ siiii~ siii. si, sii~ siii~~ siiii~ sii! si!! sii~~ siii~~ si~ siiii. sii~ si, sii. si~ si~ siiii. si, siiiii!! si!! siiii!! sii!!"
+    },
+    {
+        "input": "siiii! siiii~~ siii~~",
+        "output": "si, siii! siii, si, si! siiiii, sii. si~ siiiii, siiii~~ siii~~ siiiii!! siiii! siiiii. siiiii!! siiii~ siiiii!! siiiii~~ sii!! siii~~ si!! siiiii. sii. siiiii, si~ si~"
+    },
+    {
+        "input": "sii.",
+        "output": "sii!! siiiii!! si, siiiii!! siii. sii~~ siiiii~ siii!! siii~ sii. siiii. siiiii! siii! siiiii~ sii~ si~~ siiii. siii~~ siii! siiiii!! siiiii~~ siiii. si~ sii~ sii!"
+    },
+    {
+        "input": "siiiii~~ sii~~ si~~",
+        "output": "si! siiiii~~ siii. siiii!! siii~~ sii~ siiii, sii! sii!! siii! siiii!! si. siii~~ siii~ si!! sii! siii. siiiii~ siiii, si. sii~~ siii. siiiii. siii!! siii!! siiii! sii. sii! siii. siiiii~ siiiii!! siii~ si! sii. sii, si! sii!"
+    },
+    {
+        "input": "siii~",
+        "output": "siiii! si! si! si!! siiii~ siiii. siii. sii. sii. siii, sii~~ siii, siiii. sii~ sii~~ siiii~~ sii~~ siii~ siiiii! siiii~ siii! siii. si! siiii. siiiii. sii. sii. siiiii. siiiii!! siiiii~~ siiii!! sii, siii~~ sii~ si~ si~~"
+    },
+    {
+        "input": "siiiii!! si~~",
+        "output": "sii~ sii, si~~ siiii. si. siii. siiii~ si! siii~~ siiii, sii, siiii~~ siiiii~ siiiii. siiii~~ si!! siiii, siii! siii! siiii~~ siii~ siiii. siiiii, sii. siiiii~ sii."
+    },
+    {
+        "input": "si. si.",
+        "output": "siiii!! sii~~ siiiii~~ si!! siiii~~ sii!! si. si~ siii. siiiii! siiiii~~ si, sii~~ siiiii, sii~~ siiii, siiiii, siii~ siiiii!! siiii! si!! siiiii, siiii, siiii~~ sii~ siiii!! si!! si. sii~~ siii. siiiii~~ siii! siiii, sii!! sii!! siiii! siii~~ siiiii~~ si. siii, siiiii, sii~~ si."
+    },
+    {
+        "input": "sii!! sii!! si!!",
+        "output": "siii~ sii, siii~ sii, sii~~ siiii!! siiii~~ siii. siiii! siiiii, siiii. siiiii. siiiii! siiiii~~ sii! siiiii, siiiii, siiii, si~ siiiii, siii. siiii!! siiiii! siiii!"
+    },
+    {
+        "input": "sii! siiiii~",
+        "output": "siiii, siii! siii~ si. siiiii~ siii~ si~~ siii~ siiii!! si~~ siii! siiii! siiii, sii~ siiiii, siiii~~ si! siii, siii. si~ siiii, sii! sii. siiiii!! si, siiiii~ siiii, sii. sii! siiiii~ sii!! siiii~~ siiiii! siiii!! si~~ sii! siii!! siii! sii! siiii!! sii! siiiii, si, si! sii. sii! siiii, siiii! siiii. siii. sii! siiiii! si!! siii! siiii~ siii~ sii~ siiiii~ siiiii! sii! siiiii. siiii~~ sii!! siii! si! si!! siiii! si~ si~ siiii! siii! siiiii~~ sii!! siiiii!"
+    },
+    {
+        "input": "si~~ siiiii! siiii.",
+        "output": "sii~ siiiii~ si! siii~~ siiiii!! si~~ siiiii, si~ siii, siiiii! si~~ si!! si. si. siiiii,"
+    },
+    {
+        "input": "sii!! siiiii~~ sii, siiii~~ sii,",
+        "output": "siii!! si~ sii. sii~ si~ siiii! si. si!! sii~ sii, siiii! siiiii! sii. si! siiiii! siii~ siiii~ siiiii. siii! sii!! siiii. sii! siiiii~~ si!!"
+    },
+    {
+        "input": "siiiii~ siiii!! siii!! sii!!",
+        "output": "si~ sii! sii!! siiiii. siiii. sii! sii, siiii~ siiiii~~ siiii!! sii~ siiii!! sii~~ siiiii! siiiii. siii! siii!! siiii!! siiiii, siii! siiii, siii~~ siiiii. siii. siii! siiii~ sii, siii! sii, siii!! siiii!! siii~~ si! sii!! siiii!! siii!! sii!! siii. si!!"
+    },
+    {
+        "input": "siii! si~~",
+        "output": "siii~~ si~~ siiiii!! siii. sii~ siii~~ siiii~ siii!! si~ siiiii! siiiii!! siii~ siii! siiiii~ siiii, siiiii~~ siii~~ siii. sii, siiiii. siii! siiiii, siiii~~ siiii!"
+    },
+    {
+        "input": "si. sii!",
+        "output": "si, sii~ si!! siiiii, siiii, si, siii, siiiii~ si!! sii!! siiii~ siiii, sii~ si!! siii!! siiii~ si~~ sii! sii~~ si, siiiii!! siii, siiii! siii! sii, siiii!! sii!! siii, siiiii, siiii~ siiii. si! sii!! sii!!"
+    },
+    {
+        "input": "siiii. si!",
+        "output": "si! siiii~ siii~ si!! si!! siiiii~~ siii, si~~ si. siii!! si. sii!! sii~~ siii. siii!! sii, siii. siii!!"
+    },
+    {
+        "input": "sii. siiiii~ sii~~",
+        "output": "siii! siiii, siii! siii~~ sii, siii! si, siii~~ si~ siiiii!! si. si~ siiii. siii, siiiii~ siiii! si~~ si, si!! si~ sii!! siiii, siiii! si! si! siiii~~ siii~ si. sii!! siii~~ siii! si!! siii, si!! siiiii, siii. siiiii! sii!!"
+    },
+    {
+        "input": "si. siiii~ siiiii!",
+        "output": "siii~ si~ sii!! siii. siii! siiii!! si~ siiiii! siii! siiiii~~ sii! si~~ siii~~ siii. si~ siiiii~~ siiii~ siiiii! siii! siii. sii, sii. siiii!! siiii, siii. sii. siiiii, siiii, siii~~ siiiii! siiiii! siiiii~ siii, sii, siii~ si! siii~~ si, si. siiiii! sii,"
+    },
+    {
+        "input": "siiii!! siiii~ siii, siiiii~",
+        "output": "siiiii!! si~~ si~~ sii, sii!! siii! sii, sii~~ si! siii, siiiii!! siiii! siii!! siii. sii!! sii! siiiii!! siiiii!! siiii! siiiii. siii~~ sii~ siii!! sii. siiii, siii, siiiii!! si!! si~~ si!! siiii~~ siiiii~ sii. siiiii~ siii! siii~~ siiii. sii! siiii. siii! si!! siiii~~ siii, si, siiiii~ siiii! siii, siii~~ siiii, siiiii. siiiii, sii~~ siiiii~~ siiiii, si~ si~~"
+    },
+    {
+        "input": "siiiii, siiii! siiii!",
+        "output": "siiiii. si, sii~~ siiii, siii~ si. sii!! si~ siiiii~~ siii!! si. siii~~ siiiii!! siii! siiii,"
+    },
+    {
+        "input": "sii~ si!!",
+        "output": "siiii. sii! si~~ siiii. sii. siiii. sii!! siiii! siii. sii~ siiii!! si! siiii. si~ siiii, siii~~ siiiii, sii! sii!! siii~ siiii! siii! siiii!! siiiii!! si!! si. si. sii!!"
+    },
+    {
+        "input": "sii! sii, sii, sii!",
+        "output": "si~ sii! si! si! sii~~ siiii! siii. siiiii~ siiii!! siiii! siii, siiiii~ siii~ siiii, siiiii. si. sii! siii~~ siiii, siiiii! siii~~ siii! siii. siiiii!! siiiii!! siiii, siiii~~ siiiii! siiiii~~ siiii!! siiii!! siiii, siiii! siiii! siiii~~ sii~~ siii! siiiii, sii~~ siii! siiii. siiiii~ siiiii. siiiii~~"
+    },
+    {
+        "input": "sii. siiiii, si, siii! sii,",
+        "output": "sii, siiiii, si~ siiii~ siiii, siiiii~~ siii. siiiii!! siiii, si!! siiii. siiii! siiiii!! siiii~ siii, sii. siiiii! siii~ si~~ si! si!! siiiii~ siiii. sii! siiiii! siii. siii, siiii! sii! si~ sii! sii!! siiii! sii~ siiii. siiiii. si! sii. sii~ si! siii. siiiii!! siiiii. siii!! sii,"
+    },
+    {
+        "input": "siiii. si!! siii. siii!",
+        "output": "siiiii! si! siii. sii~~ siiiii, siiii~ sii!! siiiii~ siii~ sii. siiii~ si~~ siiii!! siii! siiii. si! siiiii~ sii~~ siiiii!! siiiii!! sii. sii!! siii!! siii! siiii~ siiiii~ si!! sii! siiii!! siii!! siii, siiiii, siiiii. siiiii! si~ siii~ sii~ sii!! siiii,"
+    },
+    {
+        "input": "sii~ sii, si~~",
+        "output": "siii, siii. siiii. sii. sii, si! siiiii. siiiii! sii, siiii!! siiiii~~ siii. si! sii~ siiii! siii. siii~~ sii. siiiii! siiiii, siii. si. siii. siiii!! siiiii! siiiii!! siii~ siii! sii! sii, siiiii! siiiii. sii! siiii~~ siii~~ siiii, siiiii!! si, siiiii~ siiii. siiii! sii, sii~~ sii, sii. siiiii!! siiii. sii~~ siii. si~ sii~ siiiii. sii. sii. sii!! siiiii!! siiiii. siiiii!! siiii, siii~~ siiiii~ siii! si, siii, siii!! si~~ siiii~~ siiiii~~ siii~"
+    },
+    {
+        "input": "siiii. siii~",
+        "output": "siiiii! sii~~ siiiii~ sii. si, sii. siiii~ siiiii, siiiii~~ sii. sii!! si! sii, si~ siiii. sii! si~ si!! si~ siii~~ siii~ siiii~~ siiii~~ sii~~ siiiii, siiii, siiiii!! siiii! siiiii. si!! sii~ si~ si,"
+    },
+    {
+        "input": "si, siii.",
+        "output": "sii~ siiii~ sii~ siiii, si. siii!! si! si. siiii!! si!! siiiii~ siii~ sii! siiiii!! siii!! si, siiii, siiiii~ sii~ siii! siiii~~ siiiii~~ siii!! siii, siii!! siiii~ siiii~~ siii!! siiiii~~ siii!! sii, siiii! si~~ siiii~~ si, siiii~~ siiiii, sii! siii. siii, sii~ sii~~ siiiii. siiii. si. siiiii!! sii. si~ siiiii~ siiiii, siiii, sii~ si! siii! siii, siiiii. siiiii, sii~ sii, sii!! sii! sii. siii~~"
+    },
+    {
+        "input": "si~~ siiii! si~",
+        "output": "sii~~ si, siii~ sii~~ siiii, siii! si! si! siiiii, siii! siiii!! sii, siiiii!! si~ siiii~ siiii~~ sii! si~ siiii! siiii, siiiii!! sii. siiii!! siii!! sii! sii. siiiii! sii~ siiii, siii~"
+    },
+    {
+        "input": "sii! sii~",
+        "output": "sii~~ sii. siiiii!! si~ siiii~ sii~ siii. siiii. siii~ sii, siii~~ sii. siii! siiiii~ sii!! siiii. sii~~ siiii. si! si, si."
+    },
+    {
+        "input": "siii!!",
+        "output": "si! sii~ siiiii! siii~ siiiii. si! siii!! sii. siiiii! sii~ siiii~ siiiii. si~~ siii~~ siii~ siiiii~~ si~~ siii, siiii!! sii~~ si~~ sii. sii! si!! siiii. siiiii! sii~ si. siiiii! siiii!! si, siiiii~ siiiii! siiii!! si! siiii! sii! siiii. sii~~ siiiii~ siii~ siiii. siiii! siii! siiiii, si, siii~~ siii!! sii, siiii!! sii! siiii, siii, siii~~ si. sii~~ siiiii! siiiii!! si!"
+    },
+    {
+        "input": "sii, sii.",
+        "output": "siiiii. si~ siiiii! siiii~~ siiiii, sii! siiii, siiiii! siii~ siii, si!! siii. siiii!! siii~ siii~ siiii. si, si!! siii, siiiii, siiiii~ sii~~ sii. siiii~~ siii, siiiii. si, sii. siiiii!! siiiii~ siiiii, siiiii, siii, siiiii. siii!! siiiii, siiiii! siiiii~~ si~ siiii!! siiiii~ siiiii~~ siiiii~ siiii~~ si! si~ siiii~ siiiii! siii. siiiii!! si~~ siiii. siiiii!! sii~~ siii!! siii! siiiii~ siiii. si!! si!! sii."
+    },
+    {
+        "input": "sii.",
+        "output": "siiiii! sii~~ siiiii. sii~~ siii. siii!! siiii! si~~ siiiii~~ siii~~ siiii!! siiii, si~~ si, si! siiiii! si~ siii~~ siiii! sii, sii!! si~ siiii. siiii~ siiii, sii~~ sii~~ siiii! sii. sii! siiii, siiiii~~"
+    },
+    {
+        "input": "sii, siiii! si!",
+        "output": "siiii~ siiiii~ si! siiiii!! siiii! siiiii!! si~~ siiii~ sii~~ siiii!! sii, si! siiiii! siiii~~ siiiii~~ siiiii~~ siiii~~ siii, si. siiii~ siiiii, siiiii, siii~~ si! sii. siiii~~ siii!! siiii!! si~ siii. si."
+    },
+    {
+        "input": "siiiii~~ si~",
+        "output": "siiii!! si~~ siii! siiii!! siiiii!! sii!! siiiii. sii~~ sii~~ siiiii, siiii~~ siii~ siii, si! siiii~ siii! siiiii~~ sii!! siii. siiii!! siiiii. si! siii!! siiii! siiii, si~ siiii! siiii! sii. siii~ siiiii, siiii!! siiii. sii~~ sii!! sii!"
+    },
+    {
+        "input": "si!! siiiii, sii~",
+        "output": "si~~ si. siiii, si~ siiiii, siii. siii~ siiiii. siii~~ sii!! si! si! siii~ sii~~ sii. sii. siii~ siii!! siiiii~~ sii!! sii! siiiii, sii. siii. sii~"
+    },
+    {
+        "input": "siii!!",
+        "output": "siii, si. siii, si~~ siiiii!! siii. si! siii! si, siiii, sii!! siii!! siiiii! siiii, siiiii~~ siii~~ siii, sii!! sii~~ siiiii. siiiii. si~ si. siii~ siii! sii! siiii, si. si, siiiii!! siiiii~~ si! siiii~ siii~ siiii~ siiiii, sii!! sii~~ sii. si!! siiiii, sii. siiiii~ siiii~ sii. siiii! siii!! si! si! siiii~ siiii~~ siii!! siii~~ siiii, sii~~ siiiii."
+    },
+    {
+        "input": "siiiii.",
+        "output": "siiiii~ sii, siiiii. si. siiiii, sii~~ siiiii. si. siiii~ siiii, siiiii. sii~ sii, siiii!! siiiii. sii!! siiii!! sii! sii, sii~~ siiii!! sii! siiii! si! sii~ siii~~ siiiii. si~ siii!! si!! siiii, siiiii. siiiii! sii. sii~~ siiiii! sii!! siiiii. si! siiiii! sii. siiiii~ siiii!! siii~ sii~"
+    },
+    {
+        "input": "siiiii~~",
+        "output": "si. si, siii~ siiii! siiii!! siii~~ siiii~ siii~ siii~ si~~ siii!! sii! siiii, si, sii!! sii, siii. si!! sii!! siiii~~ siii!! si! siii~ siiii~ sii~~ siii, siiiii, siiiii, siii! siiiii, siiii! siiii!! siiiii~~"
+    },
+    {
+        "input": "siii, siiii,",
+        "output": "sii! sii, si~~ siiiii! siiii!! si~~ siiiii! siiiii! si. siii. siiiii~~ siii!! sii~ siiii, siiiii. siiiii~~ sii~~ si. siiii~ siiiii! sii! si. siii!! sii. si!! siiiii, sii!!"
+    },
+    {
+        "input": "siiii~~ siii!",
+        "output": "sii!! sii~ si, sii, sii, sii!! si, siii! siii~ siiiii, si. sii! siiiii! sii. siii~~ sii!! siiiii, si!! siiiii!! si, siii, siiii, sii. siii~ sii~ siiii! si!! siiiii. sii~ siii, siiii. sii! sii!! si~~ siiii!! sii~~ sii~~ siii~ siiii!! sii~~ siii~ siiii~ si! sii~~ si, siiii~~ sii, siiiii, si, siiii. siii~~ siii. siiii~ si! siii~ siii~~ siiiii, sii! siii! siiiii! siii!! sii, si! sii~~ siiii!! siiii. siii, siiiii, sii! siiii. sii. siiii, sii!! siiiii! sii! si!! sii!! sii, siiiii~~ si! siiii~~ siii! siii. siii. sii~ sii, siiii!! si, sii! siii. sii!! siiii! si! siiiii. siiii!! si. sii. siiiii!! siiiii! siii! si~~ siiiii. sii. siiiii. siiiii,"
+    },
+    {
+        "input": "siii~ siiii!",
+        "output": "sii, siii, sii, siiii, siiiii!! siiii, siii!! siii!! siiii! sii. siii, siii! si!! sii! siiiii. siiii~~ sii!! si~ sii. sii! siiii. siii, siiiii!"
+    },
+    {
+        "input": "si, siiii! siiiii~",
+        "output": "sii, siiiii~ si~~ siiiii!! siii, siiiii~ sii! sii! siiiii~ si! sii. siii. siiii!! siiiii~ siiii. siiiii, si~ siiii!! siiii~ sii, siiii!! sii!! siii!! siiii! siii, siiii. siii! siiiii. siiiii, siiii, siii!! siiiii!"
+    },
+    {
+        "input": "si! siiii. siii~~",
+        "output": "sii, sii. sii~~ siiiii!! siiiii! siiii!! siii!! sii~ sii!! siiiii~~ siii! siiii. siii!! siii! sii~~ si~ sii!! si! siiii, siiii! siiiii!! sii. siiii! siii~~ sii, si!! si, siiii. siiiii~~ si. si~~ siiii~ siiiii, siiii,"
+    },
+    {
+        "input": "siiiii. siii~ siiii~",
+        "output": "siiiii, si. siii~ siiiii!! si~~ sii~~ si~ sii! siii. si~ siiii~ sii~ siii. siiii~ siiii~ siii~ si, sii. siiii!! siiii, siiiii. siiii!! sii~~ si! siiiii~ sii. siii. si!! siiiii! sii~~ siiii, sii! si. si! siii. si, siiiii~~ siiii~ sii! siii, sii~ siii!! siiii~ siii! siii, siii, siiii, sii, si~ sii, si~~ siiiii!! siii! si~ sii. siii~~ si~ si! si!! siiii~ siiii, siii~~ siii~ siiiii! sii~~ siii! siii. siiiii. siiiii~~ si!! sii. siiiii! siiiii! sii! siiii, siiii! siiii. sii~~ siiiii! siiiii! sii!! siii. siii~~ siii~ siiiii!! sii. siiiii! sii~ si!! sii~~ siiii! siii!"
+    },
+    {
+        "input": "siii, si~ siii!!",
+        "output": "siii! si!! siiii. si, siii~~ sii!! siiiii~ siiiii~ siiiii!! siiii! siiii! siiiii. siii~~ siii! si!! si, siii! siii. siii~~ siii~ si~~ siiiii!! sii~~ siiiii!"
+    },
+    {
+        "input": "si~~ sii!! sii~~ sii~~",
+        "output": "siiiii, siiiii!! si, siiii, siiiii~ siii~ siii! sii~~ siiiii. sii! sii! siiii. siiiii!! sii~~ siii. sii~ si, sii~ sii~~ si. si! si!! siii. si!! siii!! si! siiii, siii, si~ siiiii. si!! siiiii~~ sii~ si~~ sii! siii~ siii, siiiii~~ si~ siiiii~~ siii! sii, siiiii~ siiiii. siiii~~ siii~ siii. siii~~ siiii. siiiii~ sii. siii!!"
+    },
+    {
+        "input": "si. sii~~ siiii~~ sii~~",
+        "output": "si, si. siiii! siiiii~ siiiii. siii. sii~ sii~ siii~ siiii. si, siii~ siiiii~ siii~~ siiii~~ siii~ siii, siiiii!! siiii, si!! siii! sii! siiiii! sii! siiii!! sii~ si! siiiii!! sii~~ sii!! siiii~~ sii, siiii. si, si!! si. siiii, si. sii! siii. siiiii! siiii!"
+    },
+    {
+        "input": "siii!! siiiii!! siiii!",
+        "output": "siiii~ si~ sii! si! siii, siiiii!! siii, siii, siiiii! siiiii, siiiii!! si~ si, siiii. si~ siiiii~ siiiii~~ si! siii, siiiii, siiii! sii!! sii."
+    },
+    {
+        "input": "siiii!! si.",
+        "output": "siii~~ sii! siiii! siiii! siiii~ siiii! si~~ siiii. sii~~ siii!! siiiii~ siii! siiiii~ siii! siiiii! siiii, siii! siiiii~ sii, siiii! siii! siiiii! siii~ siiiii. siii. sii!! siiiii!! siiiii~ siii, siii. si, siii! sii. siii~ sii~ siii~~ siiiii~ siiiii~ sii. siiiii!! siiiii~ siiii. sii~ siii, siii~"
+    },
+    {
+        "input": "siiiii! si! siiiii~ sii,",
+        "output": "siii~ siiiii. siiii~~ sii. si, sii!! siiii! siiiii~ siii! siii, sii!! sii~~ siiiii, si~~ siiii! siii~~ siiiii~~ si~ si!! siiii. si! siiii!! siii~~ siiii~ si. siii~~ siiiii, siiiii~~ siii~ sii! si!!"
+    },
+    {
+        "input": "siii! siiiii!",
+        "output": "sii~ si!! siii, siiiii~ si. siii~~ sii. si~ sii, si! siii~~ sii! siii~ si~ sii~~ si!! siiii. si!! siiiii~ sii! siiiii!! siiiii!! siii. si! siiii!! si!! sii. siiiii! siiii!! siii~~ si~ si~~ siii, si, si! si~ siii. siiiii~ siii! sii!! siiii! sii~ siii. siii!!"
+    },
+    {
+        "input": "siiiii~~ sii,",
+        "output": "sii, si. sii! sii! siiiii! sii, siii!! siiiii. siiiii~~ sii~~"
+    },
+    {
+        "input": "sii, sii, si!! sii,",
+        "output": "sii~~ siiii, siiii! siii~ siii! sii, siii. siiiii!! siiii. siiiii, siiiii~ siiii, siii~ siiii. siiiii!! sii. siiii~~ siiii! siii~ siii! siiii!! siiii! siiiii!! siiii. sii~ siii!! siiiii, siiii. siiiii. siiiii, siiii~~"
+    },
+    {
+        "input": "siiii. siiii~ sii!! si! si!",
+        "output": "siiiii, sii! siii! si~ siiii. sii. siiiii~~ siiiii, siii~~ siiiii~ siiii~ siii!! siiii! siiii~~ si!! sii, siiiii~~ siii! siii!"
+    },
+    {
+        "input": "sii~ siii!! siii,",
+        "output": "siiii, sii. si~ sii, sii. siii, siii. siii, siiii~~ siiii!! sii~ siiii. si~ siiii, si! si, siiii. siiii! siiii~ siiiii~ sii, sii! siii! siii, siiiii, siiiii~~ siiiii~~ sii!! siiiii~~ si~~ sii! siii~~ si. si~~ sii. siiiii~ siii, si, si. sii. siii~"
+    },
+    {
+        "input": "siiii! sii! siiiii~~ siii, siiii~~",
+        "output": "siii~ sii!! si, sii!! sii~~ siii~~ siii!! siiii. si! siiiii!! siii!! siii. si! si!! siiiii~~ sii. siiiii. sii~~ siii!! sii, si! siiiii~~ si! sii~~ siiiii, siiiii. siiii! sii~~ siiiii! si!! siiiii~~ siiiii! si~~ sii~~ siiii. sii. siiii~ sii! si! siii. siiiii~ siiiii! siii! si! siii~ siiiii. sii. siii. siiii~~ si~~ si~~ siiiii!! siiiii,"
+    },
+    {
+        "input": "siii! siii~~ sii~ siii~~",
+        "output": "sii. siii. siii~ sii! siii, sii~ siii. sii~ siii, siiiii. sii. siii, siii! siiiii! sii~~ siiii!! si~~ sii. sii. siiiii~~ si!! sii! siiiii~~ si! siii. sii, siiiii. siiiii, siii, sii~ sii~~ siiii!! si, sii, siiiii~~ siiiii~ siiiii~ siiii! siiiii~ siiii~ si~~ si~~ si!! sii, siiiii~~ siii. siiii! siii~ siiii, siiii!! si~ siiii. siiii. sii~ si~~ siii~ siiii!!"
+    },
+    {
+        "input": "siii!",
+        "output": "siii~ siiiii! si~~ sii, sii~ siii. siii!! siii~ siiiii, siiii~ sii~~ siiii, siiiii! si! siiii!! siiii, siii!! siii. siiiii! siiii, siii!! si! sii, si. siiii!! siii, sii~~ siii~ siiii! siiiii~~ siiii~~ siiii."
+    },
+    {
+        "input": "siiii!! siiiii! siii~",
+        "output": "siiiii~~ sii. siiiii!! siiiii~~ siiiii. siiiii~~ sii, sii, siiii! sii. si, sii. siiii! siii. siiii~ si!! siiii, sii~ siii~ siiii!! siii! siiiii~~ sii~ sii, siii~~ siii!! siiiii. siii! sii, sii, si~~ si! sii! si~~ si~ siiiii, siiii~ sii! si, siiiii~"
+    },
+    {
+        "input": "siiiii! siii~~",
+        "output": "sii. siii~~ siii, siii! siiiii~ si!! si~~ sii, siiii~ siiiii!! si~ siii!! si~ siii. siii!! siiii, si~~ siiii!! siii, siiii~~ siii!! siii! siiii~ si~ si. si,"
+    },
+    {
+        "input": "siiiii. si~~",
+        "output": "sii, siiiii~ sii! siiiii! siiii, siiii~ si!! siii~~ siiii!! si, siiii, siiii~ siii! sii. si! siiiii, siiiii. siiiii! si~ si, siii!! si!! siiii, siiii~ siiiii. siiii! siiii~~ siiiii. sii! siii~~ siii, siiii!! siii, siiiii~ siii, si! siiiii! si~~ siii, siiii. siii~~ siiiii, si!"
+    },
+    {
+        "input": "siii!! si, si~~",
+        "output": "siii!! siiii! siiiii. siii~ si~~ si, siiiii! sii!! sii! siiiii. si. si! siiii~~ sii! siii, siiiii~ sii~ si~ siiii~~ siiiii~ sii!"
+    },
+    {
+        "input": "siiii! si!",
+        "output": "siii. si!! siiii~~ siiiii~~ si!! si, siiiii~~ sii~ siii~~ si~~ siiiii. siiii~~ si!! si! siiiii, siii~~ siii!! siiiii! siiiii~~ siiiii!! siii! sii. sii. siii~~ siii, siiii~~ siiiii!! siiiii. siiiii~~ siiiii!! siii. sii. siiiii! si! si~ siiii, siiii~ siiiii~~ sii!"
+    },
+    {
+        "input": "siiiii~~ siii,",
+        "output": "sii!! si. siiiii. siii. si!! sii~ siiiii. siiiii~ siii~ sii!! si~ siiiii, siiiii~~ sii~~ siiiii! siii. sii. siiiii, siiii!! sii!! si! sii, siiii!! siiiii!! sii~~ siiii. si! si!! sii. siiiii! si, siiiii! si. siii~ si!! siiiii."
+    },
+    {
+        "input": "siiii!! siiiii!! siii!! sii!",
+        "output": "si. siiiii, sii~ si! siii. sii~~ siii~~ siii! siiiii. siiii!! siiiii~~ siiiii, sii, siiiii~~ siii! siii. sii, siiii~~ siii~ siiiii. siiii~ sii~ si~ sii. siiiii! siii! siii, siii!! siiii!! siiii."
+    },
+    {
+        "input": "si, si. si!",
+        "output": "siii~~ siii. siiii~~ sii~~ siiiii!! sii, siiii~~ siiiii~ siiii. siiii! siiii! siii! siiiii~ si. sii~~ sii. si~ siiii~~ siiii! si!! siiii. siii, siii!! siii! si~~ siii!! siiiii~~ siiiii! siii! siii~ si. siiiii. siiiii, siiiii, sii. siiiii!"
+    },
+    {
+        "input": "sii! siii,",
+        "output": "siiii!! siii~~ siiii! siii! sii. siii, siii!! siiiii~ si!! si~~ siiii~~ siii, siii!! sii. sii! si. sii~~ siii~~ si~ siiiii~"
+    },
+    {
+        "input": "siii, siiii~~ siiiii!!",
+        "output": "siii. siii. siiiii. sii! siiiii. siiiii!! siii!! sii!! sii~~ siiiii, siiii! siiiii~ siii~ si!! siii~ sii, siiiii~~ si. sii! siii, sii~~ siiiii. siiii!! sii! siiiii!! siiiii. siii. sii. sii~ siiii!! siiiii! siiii~ si~ sii. sii~ siiiii~~ siii!! siiii. sii. si~ siiii! siii! si~~ si. siii~~ si~~ si, siiiii! si! siiii! siiiii, sii~~ si!! siiii, siii!! sii! si, si!! sii, si!"
+    },
+    {
+        "input": "siiii, sii, sii!!",
+        "output": "siiii~ siiii. siiii, siii, sii~~ siiii!! sii!! siii~ siiii. siiii~ siiiii. sii~~ siiiii~~ sii! sii, siii, siiii! sii~ siiiii, sii!! siii, siii~ siiiii~~ siiiii~ siiii."
+    },
+    {
+        "input": "siiii. siiii!! siiiii!!",
+        "output": "siiiii!! siiiii! siiiii~~ siii~ siii. siii! siiii!! siii!! sii! siiiii~ sii, siiiii!! siii. sii, siii, siii. siii~ sii~ si~~ siiiii! siiiii~~ si! sii, sii~ siii~ siiii! siiiii~ si, sii!! siii, siiii! siiiii~ si~ si. siiiii~ siii~ sii!! siii. sii!! siiiii! sii. siiii! siiiii. siiii, sii!! siiiii, siiiii. siiii, sii!! siiii~"
+    },
+    {
+        "input": "sii!",
+        "output": "sii! si!! siiii~ si~ siiii. siiiii~ sii. siiiii~ siiii, siiiii!! siiiii~ siii~ siiii! si! siiiii. siii. siiiii~~ siiiii~ si~ sii~~ siiiii!! siiii~~ sii. siiii~~ si!! sii, siii. siiii!! siii! siii! si. si!! siiii, si. siii, siii! sii! sii~ siii~ siiii~ siii! siiii, siiiii! siiii, siiiii! sii!! siii! sii! sii. siii~ sii~~ siiiii! siiiii!! sii, siiii~ siii. sii. siiii, si! sii~~ sii! siiii! sii~~ siiiii~ siiii,"
+    },
+    {
+        "input": "siii, siii, sii~",
+        "output": "si! siii~ siiiii, siiii, si! siiiii~~ si! si! siiii~ siii! si. sii!! sii. si~ sii~"
+    },
+    {
+        "input": "sii, sii!",
+        "output": "sii. si~~ sii~~ sii. sii!! siiii~ siiiii~ siiiii!! siiii, siii. si! siiiii, siii~~ si. si! siiiii~~ siii. sii~~ siiii. siiii!! sii! si. si~ sii~ siii~~ siiiii~~ siiiii!! siiiii~~ siii, sii!! sii~ si, sii, sii! siiiii! siiii. sii~ si~ siiiii~ siii!! siiii~ siiiii!! si!! siiiii!! siii!! siii, siiii!! siii! si~~ siiii, siiii, sii!! siiiii!! siii~ siii. siiiii. siiii~ siiii! si! siii. sii~ si. si~ siii. sii, sii~ siiiii!!"
+    },
+    {
+        "input": "siii!! siii! siiii~",
+        "output": "siii, siiii. siii~ siiiii~~ siiiii! siiiii, siiiii!! sii, siiii. siiiii!! siiii!! si~ siii~ si~ si~ siiiii!! siiiii. siiiii! si. siiiii~ siii. siii! siiii. sii~ siiiii! si. si! sii!! siiiii! siiiii, si!! sii~ siii~ si~ siiii!! siiii~ sii!! siiii. sii~ sii. siii~ siiiii! si! si~~ siiii!! sii. siiiii."
+    },
+    {
+        "input": "siii~",
+        "output": "sii! siiiii, siiiii! siiiii~~ si, sii~~ si! sii, siii, siiiii. siiiii, siiiii~~ sii~~ siii~ siii. siiii! siiiii!! sii, siiiii~~ si~ sii~~ siii, siii, siii! siiii! siiii~~ siiiii!! siiiii~ si!! siii~~ si!!"
+    },
+    {
+        "input": "sii~~ sii!! siii~ siiii~",
+        "output": "sii~~ si~ siiiii~ si. si! siii~~ si~~ si~~ si~~ siiiii. si~~ si~ sii, sii. siii~~ si~~ sii! sii!! siiiii!! siiii~~ siiiii! siiiii~~ siii~ siiii! siii! sii~ siii~~ siiiii!! siiiii~~ siii~ sii! sii!! sii!! siii. siiiii! sii! siiii!! siii~~ sii!! siii~ si. si~"
+    },
+    {
+        "input": "si~ siii~",
+        "output": "siiii~~ sii! sii~ siii!! siii!! siii~ siiii, siii, sii~ siii~ siiii! siii~ siiiii! siiii~~ siiii!! sii~~ siiiii~ si. si!!"
+    },
+    {
+        "input": "siiiii~",
+        "output": "siii, siiii! siiiii. siii. siiii, siiii~ siii~~ si! siiii~ siiii! si, siiiii. si!! siiii~ siiiii, sii. sii, si~~ siiiii, sii, siii~~ siiii! siiiii, sii. sii!! si. siiii! si! sii! siiiii. si!! siiii~ sii! siiiii!! siiiii~ sii! siii~~ sii~ siiiii~~ siii. sii!! si~~ si! sii~~ siii~"
+    },
+    {
+        "input": "sii~ siii. siiii~~",
+        "output": "siiii. siiiii, sii!! sii~~ siiiii, siii! siiii. siiii! siii!! siiii. siiii~ siii! si, siiiii, sii. si. si. siiii! sii!! siiii~~ si~~ si~ siiii!! siii, siiii! siiiii, si! siiiii!! siiiii~~ si~ si~ sii! si. siii. siii. siii!! siii!! siiii! si, siii, sii~ si~~ siii. siii~ siii!"
+    },
+    {
+        "input": "siiii~~ sii.",
+        "output": "siii! si, siiii~ sii~~ si! siiii, sii! sii!! siiii! si. siii~ siiiii! sii~~ siii~~ siii~~ siiiii!! siiiii. siiii!! siii! si!! siii! si~ siiii! siii!! si, sii~~ siiii~ siiiii~ siiii. siii! siiiii!! siii~ siiiii! si! siiiii! siiii!! siiii, siiiii~ siii~ si!! si~ siiiii. si, siiiii!! sii. si~ si. si, siii! siiii! siii!! si~~ siiiii! siii~~ siii!! si, siiiii! siii~ sii, siii~ siii. siii! siiiii!! siii! siii~~ siiii~~"
+    },
+    {
+        "input": "sii. sii~~ sii~~",
+        "output": "siiiii, siii. siiii, siiii! siii~~ si! siii. sii!! si! siii~~ siiiii!! siii! sii~~ si. sii. siiii!! siiii!! siiii~~ siii,"
+    },
+    {
+        "input": "siiiii!",
+        "output": "siii, siii, sii!! siiiii~~ siiiii, sii. sii~~ siiii! sii!! siii! sii~~ si~ siiii~ siii~~ siii. sii!! siiiii!! si~ siiiii. siiii. si, siiiii! sii. si! siiiii. si. siiiii~~ si! siiii. siiiii! si. sii!! siii, siiii, siiii. sii! siiii! siiiii~~ siii! siii~ siiii!! si~ siiiii~ siii! siii! siiii! sii! si. siiiii. sii."
+    },
+    {
+        "input": "siiiii! siii~",
+        "output": "siii!! sii!! siii~~ sii~ siiii!! siiii. sii~~ siiiii!! siiiii, sii~ siiii!! si~~ sii. sii. siii~~ siii!! siiiii!! si, siii~~ sii~~ sii. siiiii! siiiii, siii! siiiii! siii~~ sii. siiii. si, siiii. si! si, siiiii~~ si!! sii~ sii! si! siiiii~ siiiii! si~ siii!! si~ siii, sii!! siii~ siii, siiiii~~ siiii~~ si, sii!! sii. siiiii, sii~ si! sii~~ sii~~ siiii. sii, siiii~~ siiii~ sii~~ siii~~ siiii! siii!! sii. siiiii! siiii! sii~ siiii, siii!! sii! si~ siiii! sii!! siii~ sii~"
+    },
+    {
+        "input": "sii~~",
+        "output": "siiiii, siiii, siiiii~~ siiiii! si! sii!! sii! si~ siiii~ siiiii! siiii. si~ siiii, si! sii!! siiiii! siiiii, sii. siiii~ siiiii, siii!! siii. si, si~ siiii! siii~~ sii~ siii~ sii!! si!! si. siiii. sii~~ siii. siii!! siii!! si~ si,"
+    },
+    {
+        "input": "siiii, sii. sii.",
+        "output": "siiiii. siii. siiiii, siiiii!! siii~~ sii~~ si~ sii. siii, siiiii! siiiii, si. sii!! siii. siiiii. siii! si! siiii, siiiii~ siii~~"
+    },
+    {
+        "input": "sii~ siiiii. sii~~",
+        "output": "siii. sii. siiiii~~ siiii, siii~ siiiii, siiiii~ si! sii~~ sii, siiiii~ siiiii~ siiii~~ sii!! siiiii. siiiii~~ siii! siiii, sii!! siii! siiiii~ si. siiii~~ siiiii~ siiiii~ sii! sii. si~~ siiiii, sii! si. si~ siiiii~ siii, siiiii, siiiii, sii!! siiiii, siii, si! siii. siiii, si. sii,"
+    },
+    {
+        "input": "siii~~ sii.",
+        "output": "siiii!! sii. si~~ si! sii~ siiiii! siiii!! siii!! si!! sii. si~~ siiiii. si!! siiiii!! sii~ sii. siii~~ sii, sii~~ si, sii!! si, siiii, sii, sii! siiiii!! sii. sii~~ siiiii!! siiii~~ siiii. siiii~ siiii! sii, siii!! si, siii. sii! siiii~"
+    },
+    {
+        "input": "siiiii~",
+        "output": "siii, siii~ si~ siiii~ siii, si!! si~~ sii~~ siii!! siiiii, sii, si! si~ sii, siii! siii!! siiiii!! siiii, siii~ siiii!"
+    },
+    {
+        "input": "siiiii, siiii~~",
+        "output": "sii! siiiii! sii. sii!! sii, si~~ siiii~ siiii!! siiiii~ si~~ siiii~~ siiiii, sii. sii, sii~~ sii. si. siiiii. sii! sii, sii!! si. siii!! siiiii~~ siii! si,"
+    },
+    {
+        "input": "siiii!! siiii. siii~~ si!!",
+        "output": "sii. siiii. siiiii!! siiii!! sii~~ siiiii~ siiiii, siiii~~ sii. siiiii! si~ siiii! siiiii!! siii~~ si. sii! siiiii! siiii~~ sii!! siiiii. siiii!! siii~ siiiii, siiiii~ sii! siiii. si~ siiii~ si~~ siii~~ si. siiii, siiiii!! siiii. si, sii. sii! siii! siiiii. siiiii~ si!! sii, siii!!"
+    },
+    {
+        "input": "siiiii!! siiiii~~",
+        "output": "si! sii~~ siii~ siiii~~ siii, si~~ sii!! si! sii, sii~~ si!! sii! sii~~ siiiii!! sii! siii. siiiii~~ sii~~ siiii! sii!! si. sii. siiiii~ siii~ siiiii! siii, siiiii~ si!! siiiii, si!! siii!! siii. si, si!! siiii! sii~~ sii~ siiiii~ sii! siiii. siiii! sii~ siii!! siii!! sii~~ si. si~ siiiii. siiii!! siiiii~~ siiii! siiii~ sii, siiii!! si! si!! siiii. siii~ sii~"
+    },
+    {
+        "input": "siii~ sii,",
+        "output": "siii. siii. si!! siiiii!! siiii. sii, siiii~ siii, sii. siii, siii~~ sii!! siiiii!! si!! siiiii. si~ siii~~ si~~"
+    },
+    {
+        "input": "sii!",
+        "output": "siiii, siii~~ sii, si, siiiii~~ siiiii. si~ si! sii~ si~~ siiii~~ sii. sii! siiiii, si. siiii~~ siiiii, siiiii!! siiiii, siii. si~~ siii~ sii."
+    },
+    {
+        "input": "siii~~",
+        "output": "si~ siiiii, siii! siiii, siiiii! siiiii. sii!! siiiii!! sii, sii!! sii, siiii~~ si~ siiii~ si~~ siiiii~ siii. siiiii, siiii! siii!"
+    },
+    {
+        "input": "siii, siii!",
+        "output": "si. siii! siiii!! siiiii. sii. si. si~~ siiii!! sii!! siiii, siiii! si~~ siiii~ siiiii!! siii~ siiii~~ si! siii!! siii~ si. sii! siiiii. siii!! siiii!! siii, siiii~~ sii~~ siii!! si."
+    },
+    {
+        "input": "si!",
+        "output": "sii, sii. si. si!! siiii! siiii! siiii!! siii, siiiii!! siiii!! si~~ siiiii~ siiii. sii, siiiii~ sii, siiii~~ siiii. siiii! si~~ sii, sii! siiiii! sii~ si~ siiiii,"
+    },
+    {
+        "input": "siiiii!! siiiii!",
+        "output": "siiiii. siiii. siiiii~ siii!! siii~ si! si!! si!! si~ siiiii, siiii! sii~ siiii! sii, si. siiii~ siiiii~ siiii."
+    },
+    {
+        "input": "siiiii!!",
+        "output": "siiii! si. siiii! siii~ siiii~~ si, siiiii!! siiii~ siii!! sii, sii! sii!! siiii~~ siii! siiiii~~ sii~ siiii!! siiiii~ si. siiii~ siiiii~ siiii!! siiii~~ siiiii! siiiii~ si! siiii!! siiii, siiiii!! siiii!! siii!! si!! si. siii!! sii. sii, sii~ si, siiiii! siiii! siiii, siiii~~ siiii. siiiii~ siii~ siiiii. si~ siii~ si. siiii! siii~~ si. siiiii! sii~~ si~~ si~~ siiiii~~"
+    },
+    {
+        "input": "siiii~",
+        "output": "si!! siiii. siiii! si, sii! siii~~ siii, si! sii~ sii~~ si~ si, siiii!! siiiii~ siiii. siiii, siiii! siiiii. siiii, si~ si, siii! sii!! siiiii~ siiii~ siii~~ siiiii!! si~~ siii, si!! si! siii!! sii, siii! siii. sii~~ siiii!"
+    },
+    {
+        "input": "sii!! si!!",
+        "output": "siii~~ siiii. siiiii. siii~ sii! siiiii. si~ siiiii. siii! siiii~ siiiii~~ siii~~ siiii. siii!! siiii. siiiii!! sii!! siiiii~~ si~~ siiiii, siiii, siiiii, siiiii~~ si. sii! siii~ sii!! siiiii, sii!! si~ siiiii, siii. siii!! siiiii!! si~ siiii, siiii, si!! sii~ siii~~ si,"
+    },
+    {
+        "input": "sii, siiiii!!",
+        "output": "si! siiiii~ siii!! sii!! siii, siii! siii~~ siii~~ sii! si. si. sii! siii! sii! siiiii~~ sii. si! siiii, sii!! siii. si! si! sii. siiii!!"
+    },
+    {
+        "input": "siii. siiiii~",
+        "output": "siiiii. si. si~ siii, siiii, siii!! sii! siiii~~ siii~~ sii!! siiii! siiiii! si. siii! sii!! siii!! siiii, siiiii~~ siii, siii~~ siiiii!! sii! sii! siiiii. siii, sii~ siii~ siii, siii~ si! siiii!! siii!! siiii. siiii!! sii, siiii~~ siii!! siiiii, sii~ si~~ siiiii, siii,"
+    },
+    {
+        "input": "siiiii~~ siii!",
+        "output": "si~~ si!! sii, sii! sii~ siiii~~ siiiii~~ siii!! si~~ sii~~ siii! sii~~ sii~~ si! sii~~ siiiii. siiiii. sii, siiii! siiiii~ si! siii~~ si~ siiiii~~ siiiii, sii."
+    },
+    {
+        "input": "siii~ siiiii~~ si!",
+        "output": "si!! siii. siii!! siiii, siiiii!! si! si. sii. siii!! siiiii!! siii! sii~~ siiii!! siii!! si. si! sii!! siii. sii! siii!! siii!! siiii!! siiiii. sii. sii. si~~ siii, siii, siii~ sii, siiiii~"
+    },
+    {
+        "input": "siiiii. si~ siiii. siiiii!!",
+        "output": "siiii, sii~~ sii~ siii~~ sii~ si, siiii! siiiii! siii~ si, siiiii! siii. siiiii!! siii. si! siiii, si!! siiii. sii~~ sii!! si. siii! sii! siii~~ siiii!! si!! si. si! siii!! siiiii!! sii~~ siii. siiiii, siiiii~ siiii~ si~ siiiii~ siiiii, siiii~ sii. sii~~ si!! siiii~"
+    },
+    {
+        "input": "siiii~ si~",
+        "output": "si!! si! siii. si~~ siii~~ siii~ siii!! si! siiiii. si~~ siiiii, siii, siiiii~~ siiiii~~ sii!! si~~ si~~ si~~ siiiii~ si, siiiii!! siii!! siiiii, siiiii! si~ si. siiiii! siii~ si, siiiii. si!! siiii. sii~ si, siiiii, siiiii~~ siiii!! si~~ sii~ siiiii~~ sii~~ si!! siiiii!! si, siii~ siii! siiii, siiiii, sii, siiii! siiii. siii~ si! si!! siiiii~ sii. siiii, si, siii~~ siiiii~ si~~ sii! siii."
+    },
+    {
+        "input": "si~~ siiii! si!",
+        "output": "siiii!! siiii. siiiii! sii! si~ si~~ si!! siiiii! si, si~~ siiii. sii~ siiii!! sii!! siii~~ sii. siiiii!! siii~~ siiii!! siiii~~ siiii!! siiiii, siii!! siiii, siii,"
+    },
+    {
+        "input": "siiiii~~",
+        "output": "siiii, si!! si~~ siiiii~~ sii~~ si! siiiii!! si!! siiii, siii~~ siiiii! siiii! si, siiii!! siiii. siiii~ si! sii~ siiiii. siii, siiii. siiiii. siiiii. si, si!! siiiii~~ si. siiii~~ siiii~ si~~ siii~~ sii, siiiii~ sii~~ sii~ si. siiii. siiii! siiiii~~ siiii!! siiii. sii,"
+    },
+    {
+        "input": "siii~~ si!!",
+        "output": "siii, si, si. si~ siii, si~~ si~ si~~ siiiii! siii! siiii!! si~ siii~ siii!! sii. siii~~ si! siiii! siiii, siii~ sii~ siiii. sii. siiiii~~ siiii~ siiiii~~ siiiii!! siiiii~~ si~~ sii~ si~ siiiii! sii. siiii~ si, siiiii! si! siiiii~~ siii,"
+    },
+    {
+        "input": "siii, si~~ siii.",
+        "output": "siiiii~ siiiii~ sii! sii. siiii! sii~~ sii~~ siiii! siiii! siiii! siiii, siiiii. sii~ siiii, siiii. siiiii! siii~ siii! siiiii~ sii, siii~ siiii!! siii~~ siiii, si~"
+    },
+    {
+        "input": "siiii~~ siii!!",
+        "output": "siiiii!! siiii~ siii, si! si~~ siiii. sii~ siii~ siiii~ siiii~~ siiiii. sii, siii~~ siii! siiiii, siiii~ siii, si~ siiiii!! siii~~ siiii, siiiii~ siiiii. siiii~ siiiii~~ siiii~ sii! siiiii~~ siiiii. siiiii! si. siii. siiii, siiiii~ sii!!"
+    },
+    {
+        "input": "siiiii!! siiiii~ si~~",
+        "output": "si! si~ siiii! siiii~ sii~~ si, siiii!! sii~~ si, si. si! siiii, siiiii~ siiii, siii~~ si. siiiii! sii! siii~ siiii!! siiii, siiiii~~ si, si!! si!! si!! siii, siii~~ siiii~~ siiii. siiii~ sii~ si~~ siiiii~ siiii. siii, siiii, siii. siii!! siiiii. sii, siiii, siii~ si, siii, siii~ siiiii~ sii. sii!! si~ siiiii. siiiii!!"
+    },
+    {
+        "input": "sii, siiii!!",
+        "output": "siiii! siii! siiiii!! sii, siiii, sii!! siiiii, siii, siiii!! siiii. siiiii!! siii~~ siiii~ si! sii!! si, siiii~ siiii, siiii~~ sii. si! siii! sii~ siii~~ siiiii!! si. si, siii. si, siiii!! siiiii! si~~ siiiii. siiiii~~ sii! sii~"
+    },
+    {
+        "input": "sii~~ siiii~ si, sii~",
+        "output": "si! siiii!! sii~ siii, siii!! siiiii~~ siiii~ siiiii!! sii, siii, siiiii~~ siiiii. siiii. siii. si~~ siiiii!! si. siiiii! siiii!! sii~ sii~~ siiiii~~ siiii!! siii!! sii~~ siiiii! siiiii! sii~ siiii! siii, siiii!! sii, siiiii~ sii! siiii~~ siiiii, siii, si!! sii! siii~~ siiii~~ siiii!! siii! sii. siiii, si, si~~ siiiii~ sii. siiii, siiii~"
+    },
+    {
+        "input": "si~ siii~ sii,",
+        "output": "siii, siiiii!! siiii~~ siiii! siii, siiiii! siiiii. siii~~ sii. siiiii!! sii, siiiii! sii~ si~~ siiii~ siiii~ siiii~ si. siiiii! sii~ sii~ siiii~~ siiii~~ si, siii~~ siiiii~~ siii~~ siiiii, siiii!! si~ siii!! siiii!! si! si, si, sii~ sii~ si,"
+    },
+    {
+        "input": "si~ si. si!! siiiii~",
+        "output": "si!! siii, si, si!! siii~~ sii~ siiiii, siii~ siii, si~~ sii. siii~ siii!! siiiii! sii, sii!! siii, si~ si!! siiii. si! siiii, siii~ si, si! siii~~ sii,"
+    },
+    {
+        "input": "siii~",
+        "output": "si. si. si! si. siiiii~ si. siiiii~~ siiiii~~ siii~~ sii! siiii!! si, si, siiiii, siiii~~ siiiii, si~ siiiii~~ si, siiiii! siii. siii, sii~ siiiii! sii~ siiiii!! sii~ siiiii~ siiii~~ siii! siiii! sii! siiii! si~ sii. si~~ siii~~ siiiii! siii!! siii. siiiii, sii, siii, siiiii! si."
+    },
+    {
+        "input": "siiiii, siiii!!",
+        "output": "sii. si~ si!! siiii, siiiii!! si. sii, siiiii!! si, sii! sii, si, sii. siiiii, sii~~ siiii~~ si, siiiii!! siii!! sii, siiii! siiii, siiii~~ siiiii~~ sii, siiiii~ siiii! si~~ siii, sii~ si~ sii, siiii~ siii! siii!! siii~ siiiii~~ sii~ si!! sii, siiiii, siiii,"
+    },
+    {
+        "input": "sii,",
+        "output": "sii. si! siiiii, siii. si!! siii! sii. sii. sii. si! siii~ sii! siiiii!"
+    },
+    {
+        "input": "siii. si!!",
+        "output": "si!! siiii!! sii!! siiiii~~ si~~ siii. sii~~ siii~ siiiii~~ si~ siiiii, siiiii~ siii! siiii~ siii! siiiii. siii~ si~~ sii~ sii~~ si~ siii~~ si, siii~ si! siiii~~ sii~ siiii, siii! siii~ sii~~ siii! siiii~ si~ si~~ siiiii. siiii. siiii. sii!! siii~"
+    },
+    {
+        "input": "siiii~ siii~~ si!! siiii!",
+        "output": "siiii, si~ siii, siiii! siii. siii, siiii, sii. siii, siiii. siiiii! sii. siiii, siiiii,"
+    },
+    {
+        "input": "siiiii~~ siii.",
+        "output": "siiii, siiiii! siiiii~~ sii!! siiii! siiii~~ sii. sii~ si. siiiii, sii!! sii~~ sii!! siiiii! sii. si! siiiii, si! siiiii!! sii~ siiii! siiiii!! si~~ si! sii!! sii~~ siiiii!! siii~~ siiiii. sii, si, si~~ si~ siiii!! siiii~~ sii~ sii!! sii. si. sii, sii~ siii. siiiii~ si~~ si~~ siiiii~"
+    },
+    {
+        "input": "siiii~ siii,",
+        "output": "siiiii~~ siiiii. siiiii! siii. siii~ sii!! siiii. siiiii! siii. si. siii~ si, siiiii, siiii!! siiii!! siiiii, siiiii. si~ si!! sii! si~~ si!! siii."
+    },
+    {
+        "input": "siiii~~ siiiii. sii. siiiii!!",
+        "output": "siii. sii!! siiiii~ siii. siiii~ siiii~~ sii. siii~ siiii!! siiiii, siii~~ siiiii~~ siiiii. si~~ siii~~ sii!! si~ siii~ si, si~ siii~ sii. siii, siiii~~ siiii~~ sii! sii~ sii! siii~~ siiiii, siiiii!! si, siiii! siiiii~ siii! si. siiii, siii~~ siii~ siiiii, sii! siiiii~ sii~ siiii. sii~ siiii~~ sii! siiiii~~ siii, siiii~~ si. sii, siiiii~ si, siiiii!! siii, siii!! siii!! si!"
+    },
+    {
+        "input": "siiii,",
+        "output": "siiii! siiiii, siiiii~ siii! sii, siiiii. siiiii. si!! siiii~~ siii, siiiii. siiii~~ si!! siiii! si. siii, si. siiiii~~ sii! siii!! sii! siii! siii. siii~~ siii~~ sii. sii! siii! siiiii!! sii. sii!! siii. siiii! siiii, siiiii~~ siiiii! si!! sii~"
+    },
+    {
+        "input": "siiii~~ siii, siii~~ siii!",
+        "output": "siiiii, siiiii. siiii~ siiiii. si, siii. si. siiii!! siiii~ siiiii. sii! si!! siiii. siiii! siii. siii~ siiiii, siiii~~ si~ sii~~ siii, siii~ siiii! siiii!! siiiii!! siiiii! sii~~ siiiii! siiii!! siii. sii!! siiii!! siiii. siiii!! sii. siii~~ si, siiiii! sii!! siii, siiiii~ siiii. si, siii! siii! siiiii, si. siiii. siiiii~ siii~~ sii, si~~ siiii. siiiii, siii!! si, sii, siiiii. sii. siiii, siiiii!! sii, sii! sii, siiii, sii! si~ sii! si, siiii~ siiiii!!"
+    },
+    {
+        "input": "si. siiii!!",
+        "output": "siiiii~~ siiii! sii, siii, siiii. siiii! si~~ siiiii~ sii. si. siiiii, si~~ siii~~ sii, siiiii~ si~~ siiiii~~ siiiii~ siii! siii! siiiii!! siii, siiii~ sii~"
+    },
+    {
+        "input": "siiiii, siiii,",
+        "output": "sii~~ siiiii! siiiii. siiiii! siiii!! siiiii~~ siiiii!! si. siiii. siiiii!! siiiii. siiii!! siii. si~~ siiii~~ siiiii~ siii~ si~ siiii! siii~ si! siiiii!! si! siii~~ siiiii~ si! si! siiiii!! si. siiii!! siiiii!! siiii~~ si~ siiiii!! sii! si!! si, siiiii. siiiii! sii! siiii, si~ siiii!!"
+    },
+    {
+        "input": "si! siiii! siiii, si,",
+        "output": "si~~ si. sii! si! si~~ si~~ sii, siii~ sii, siii! siiiii~ siiii~ siiii~ si! siiii!! si~~ si!! siii~ sii, si! siii~ siii, siii~~ siii! si, siiiii. sii. si, siii~~ si~~ siiiii! siiii. siiiii~ si~~ siiiii, siii. si~~ siii~ siiii~~ siiiii!! si."
+    },
+    {
+        "input": "si~~ siii!! siii~",
+        "output": "sii~~ siiii~ siiii. siiii, siiii~~ sii. siiii!! si! siiiii! sii~ sii. siii, sii. sii. siiii. siii~ si~~ siii! si~~ siiii! siiii. siiiii~~ siii! sii~ siiiii, si, siiiii~ siii~~ siii~ sii, sii~~ siiiii! siiii!! siiiii~ siiiii~ siii!! siiiii~ si~ siiiii~ siii~~ siiiii!! siiiii! sii~ si."
+    },
+    {
+        "input": "sii!",
+        "output": "si. siiii! siii~ siiii. siiiii, sii~ sii~ siiii!! sii. sii~ siiii!! siiiii, siiii~~ sii, si~ siiiii! si~ si! siiiii~~ siiiii!! siiiii."
+    },
+    {
+        "input": "siii. siiii! siiii. siiiii!!",
+        "output": "sii~ sii~~ siiii!! siiii~~ siiii! siiiii. siiii! sii~~ siiii, si!! siiii~~ siiiii~~ siiiii, siiii!! si!! siiii~~ siii~~ siii. siiii!! siiii! siiiii, siiii! siii!! siii~~ si,"
+    },
+    {
+        "input": "siii. siii. si!",
+        "output": "sii!! siii! sii~ si. siii. si!! sii!! sii, siiiii! siii!! si, sii! siiiii~ sii!! sii. siii~ siiii, siii~ siiiii~ siiiii! si, siii, siiii~~ si. sii~ siii, siiiii, siiii! sii, sii! siiii. siiiii! si!! si~~ si~ siii!! siiii, si~ siiiii, siiii~ siiiii! siii~ sii~~ siii~~ siiii~ si~ si! siii, siiii!! sii~ siiii!! sii~~"
+    },
+    {
+        "input": "siii!! sii,",
+        "output": "si. siiii, sii~ siiiii. siiiii~~ sii, siii. si. siii. siiii! siii~ siiii!! siiiii!! siii. si, sii, si. si!! siiii, siii~~ si!"
+    },
+    {
+        "input": "siii!",
+        "output": "siiii~~ siii!! siii, sii! siiiii. siiii. siiiii~~ sii. siiiii! si. siiiii. si! siiiii. siii~~ siiii. siii~ siiiii~~ siii~~ siii!! siii. siiii~ sii! sii~ sii! siiii~~ siii, siiiii!"
+    },
+    {
+        "input": "sii~ siiiii!",
+        "output": "siii~ siiii! siiii! sii. sii. siii~ siiii!! siiii, si~~ siii, siii! siii!! sii~~ siii~ siiii, siiii, sii, sii. siiii! sii~ sii! siiii. siii, sii,"
+    },
+    {
+        "input": "siiii, sii!! siii. si!!",
+        "output": "siiii, sii~~ siii~ siiiii! siiiii! siii~~ siiiii, siii, si!! sii! si~~ siii, si~ sii! siii~~ si. siii! sii~ siiiii! si~~ siiii!! si, si! siii."
+    },
+    {
+        "input": "si!",
+        "output": "siiiii! siii. siiiii~ sii. siiiii~~ siiiii~ si! siiiii, siiii, siii~ siiii~ siiii. siii, si. sii!! siiiii~~ siiii~ sii."
+    },
+    {
+        "input": "siiiii~ siiiii~ si~~",
+        "output": "siii. sii~~ sii! siii. siiiii!! siii, siiii!! siii~~ si, siii~~ sii! siiii. siii. si, sii~~ siii~ si! sii!! si~"
+    },
+    {
+        "input": "si~~ siiii~~ siii,",
+        "output": "siiii. si!! siiii!! siiiii~ siii, siiiii. siii. siiii. sii, si!! siii~ siii! sii~~ siiiii. si! sii. sii!! siiii~ siiiii!! siii!! siii, siiiii! siiiii! siii, siiiii. siii~~ siii, si! siii, siiiii, siii, siiii!! siiiii! siii!! siiii. si~ siii! sii~ si!! sii! siiiii!! sii. siiiii, siiiii, si~ sii, sii! sii! sii!! si! siiiii~ si, si~~ siiii!! si~~"
+    },
+    {
+        "input": "siii~~ siiiii~ si,",
+        "output": "sii. siiii, siiiii!! siii, si, siiii!! siiii, siii~ siiii, siii!! sii. si, siiiii~ siii. siiiii. siiiii~~ siiii, sii~ sii~ siiiii. siii~~ siiii, siiiii~~ siiiii~~ siiii! siii~ sii, sii~~ si, sii, siiii~ sii! sii!! siii, siiiii~ si~~ si~~ siii!! sii!! si!!"
+    },
+    {
+        "input": "si!! sii! siiii,",
+        "output": "siii! sii! si~~ siiiii! sii~ sii~~ siiii!! siii!! si~ sii~~ siiiii, siiiii, siiiii~ siiii~~ siii~~ siiiii, siiii. si. siiii!! siiii~~ siiiii. sii, siii!! siiii~ sii. siiiii, si~"
+    },
+    {
+        "input": "siii~~ siiiii~~",
+        "output": "siiii~ si~~ sii~ siiii. si~ sii! siiiii! si. siiii, si~~ siiii!! siiii~ siiiii!! si~ si~~ siii!! siiii, sii, si! siiii! siiiii, siiiii, siiii. siiii! siii! siii, si. sii. si~ siiii!! si! sii! siiiii. si. si!! si, siiiii!! siiiii, siiiii!! siii! siiiii!"
+    },
+    {
+        "input": "sii,",
+        "output": "si~ si~ siii! sii. siiiii!! siii. siii!! siiiii! siiiii. siiii~ si!! siii! sii! siiiii! siiiii, siiiii~ siii~~ sii! siiiii! siii~~ siiii~ si, sii~~"
+    },
+    {
+        "input": "siiiii! siiii. sii! siii~~",
+        "output": "siii~ siii, siiii~~ si! si! si! siiii~ sii!! sii, sii, siiii~~ siii~~ siiiii~~ siiiii~ siiiii!! sii, siiiii! siiii!! sii, siiiii! si. siiiii~~ siii! siii!! siiii, siiii. siiii. siiiii! siii, siiii, siiii~~ siii~~ siii~ sii, siii~ siii~ siii! siii~ siii!!"
+    },
+    {
+        "input": "siii~~ siiii.",
+        "output": "sii, siiii! siiiii!! si!! si~~ sii~~ siiiii~~ siii~~ sii. si!! siiiii~~ siiiii! siiii. si. sii, si. si! siii! siiiii! siii~ si! siii~ siiii! siiiii! siii!"
+    },
+    {
+        "input": "siii, siii!! siiii~~",
+        "output": "sii~ siii! si~~ siiii! siiiii~~ sii. si!! siii! siii, siiii~ si, sii~ siiiii~~ siii~~ siiii~ siii, siii. sii, si, siiii~~ siii. sii, si~ siiii~~ si, siiiii, siiii~~ siiii~ siiiii. siiii~~ siiiii! sii!! si, siiii! sii. si!! siiii~~ siii! siii~ siii~~ siiii, si, siii! si, sii~~ sii. siiiii!! sii!! si~ siiiii~"
+    },
+    {
+        "input": "siii. sii~ siiiii! si!",
+        "output": "siii. siii, siiiii, siii~ siiiii. siiiii!! siiii! sii. sii!! siiii! si. siiiii, siiii! siii! sii!! siii. siiii~~ siiii~~ siiii~~ siii! si~ siiiii, sii~ siii, si! sii. siiii~~ sii~~ siii!! siiii~~ siiii~ si!! siiiii, si. si, siiii, siii, siiiii~~ siii!"
+    },
+    {
+        "input": "siiiii, siiiii~ si!!",
+        "output": "si~~ si, sii~ siii~~ siiiii! sii. si, sii!! siiiii~~ siii~~ siiii~ siiiii~ siiiii~~ sii~~ siiiii. sii! siiii, si~ siiiii! siii~"
+    },
+    {
+        "input": "sii. siiii!! siii!! si~ siiii!!",
+        "output": "siiii. sii! si~ siiiii. siiii~~ siiiii~~ si! siii. si, si!! sii! siiiii~ siiiii, siiii! siiii. siiiii!! sii!! siiii. si~ siii. siiiii~ siiiii~~ sii, siii, siiii~~ si!! si, sii. si~ siii. siiii~~ siiiii!! siiii!! siiiii!! siiiii!! siii~~ siiiii. siii! siiiii, siii~~ siii!! siiii, siiii, sii, sii~~ sii!! si~ siiiii~~ siiii~ si~ siii! sii, siii~~ siiiii~ si~~"
+    },
+    {
+        "input": "sii, sii, siii~~ si!",
+        "output": "si! si, siiiii. siiii. siii~ siiiii. siii~ sii~ siii!! siii~~ siiiii! si!! sii!! siiii~ siii~ sii, siiiii~~ si. si, siiiii~ sii~~ sii, sii~~ siiiii. siiii~ siiiii~~ sii!! si,"
+    },
+    {
+        "input": "sii!! siiiii~ siiiii,",
+        "output": "siii~ si. sii~~ siiiii. sii. siiiii~ si!! siiiii!! sii~ sii, siii! siiiii. sii! siii! sii, siiiii!! siiii! siiiii~~ siii~~ siii~ siiii. si! siii. siii. siiiii~ si~ siiii, siiii!! si~ siii. siiii! sii!! siiii~ sii! si, siiiii, si. sii~~ si. siiii! sii~~ siii! sii~ si~ siii~~ si, siii~~ si, siiiii! siiiii!! siiii~~ siii. siiiii!! siii~~ si~~ siii! siiii! siiiii, siiiii! si, siii!! si~~ siii~~ siiiii~~ siiiii,"
+    },
+    {
+        "input": "si~~ si~ siiii,",
+        "output": "siiii. siiiii~ siiiii!! siii~ siiii~~ si, siii~~ si~~ siiii, siii~ siiiii. siiii! siii! siii. si~~ siiiii~ sii!! sii~~ siii. siiiii~~ siii~ siii, sii!! siiii! si~ siiii. siii! siiii!! siii~ si~~ si!! sii!! sii! sii~ siiii! si. siiiii! sii, siii~ si."
+    },
+    {
+        "input": "siiii, siiiii!!",
+        "output": "siiiii! siii~~ sii!! siiiii!! siiiii~ sii! siii!! siii~ siiii. siiiii. siii!! siiiii!! siiiii~~ siii! siii~~ siii~ sii, siiii~ si. siiiii, si~~ siiii~~ siii! sii, siiiii. siiiii~~ si! siiiii,"
+    },
+    {
+        "input": "sii!! siii~ siii! si!",
+        "output": "sii. siiiii~ siiii~~ siiiii! siiii, sii. siii. sii, sii~ siiii. sii~~ si! si~~ si!! sii~ siiiii, siiiii!! sii, siiiii~~ siii. siii! siiiii! siiiii! sii! siii, sii!! si!! siiiii! si. siiiii~~ siiiii, siiiii! siiii!! sii. siii, siiiii!! siiii! siii, siiii!! siii, siiiii~~"
+    },
+    {
+        "input": "siiiii~ si. siii! siii~",
+        "output": "siiiii!! sii. siii! si~~ siiiii~~ siiiii!! sii! si!! si~ sii!! siiiii! sii! siii~~ siiiii! sii! sii~ siiii, siii, sii!! siiii, si~ siii~ sii~ siiii. siiii, siiiii~ si! siii, siiii~ siiii, siiii~ siiii! si! siiii~ siii! sii. sii~~ siiii~~ sii! si~ si! sii. siii~~ siii~ siiiii~~ si! siii~ si, si~ siiiii~~ sii. siiiii. siii. siiii. sii!"
+    },
+    {
+        "input": "si, siii!",
+        "output": "siiii, si~~ siiii!! siiii, siiii! siiii~~ si~ siiii, siiiii. siiiii~ siiii. siiii, siiiii, si!! siiiii! sii, si!! si!! si~~ siiii. siiii~~ siii~ siiii. si~ siiiii~ si, si~~ siiii~ siiii~ siiiii~~ si. si!! siiii. siiii!! si~~ siiiii~ siiii. sii!! siiiii. siiii, si~ si~~ siiii~ siiii~~ siiii,"
+    },
+    {
+        "input": "siiiii~~ siii!",
+        "output": "si~~ siiii! si~~ siii~~ siiii, siiii, siiii~~ sii! siiiii, sii, siii, si!! si. siii! si~~ sii. sii. si~~ siiii. si!! si~~ siiii!! siiiii~~ si~ siii!! siii~ siiii!! siiii, siiiii~~ siiii~ siiiii, siiiii! siiii~ siiii. siii, siiiii!! sii!"
+    },
+    {
+        "input": "siiii~~ siiii.",
+        "output": "siiii! siii!! siiii, sii~ siiii. sii!! siii! siiii. siiiii! siiii!! siiiii!! sii~~ si~ siiiii, si!! siiiii~~ si, siiii!! sii! siiii~~ sii~ siiii. siiiii~ siii~ siii. siii, siiii!! si~~ siiii. si!! siiii~ sii. siii~ sii, siii!! siiiii! sii,"
+    },
+    {
+        "input": "si!! siiiii,",
+        "output": "si~~ sii~~ siii. si!! siiiii. siiiii! siii~ si!! siii~~ siiiii!! sii, siiii! si!! siiii!! siiiii~~ siiii~~ si!! sii! si. sii!! sii!! si~~ si! si!!"
+    },
+    {
+        "input": "siii!! siii. siii~",
+        "output": "siiiii!! siii!! siii~ siii! sii. sii. siii! siiiii, sii. siii, siii. siiiii~ siiii!! siii~ si, si!! siiiii! siii~~"
+    },
+    {
+        "input": "siiii!! siiii!! sii~ siiii~~",
+        "output": "siii~~ si, siiii, siii! si~ si~~ sii. sii~~ si, siii~ sii, si!! siiii! siiii~~ siiiii. siii. siii, siiii, sii. siiii~ siii!! si! siii, siii~~ siiiii~ siii, siiiii. siii~ siii~ siiii. sii, siiiii! siii! siiii~ siii~ sii!! siiii!! siiiii. sii. sii~~ siiiii. siiiii~~ siiiii. siiiii, siiiii~ siii~~ siiiii, si! sii~ si~~ si!! siiii~ siiii! sii. siiiii~ siiiii!! siiiii~ siiiii, si. sii~ siiii~~ siiii~~ siii, siiiii, siii. siii!!"
+    },
+    {
+        "input": "si~~ siiiii!",
+        "output": "siiii~ siii~~ sii! sii! siii~~ siiii. siiiii~~ siii!! siiiii!! si, si!! siiiii. siiii~ siiiii~ siii!! siii~ sii!! siiii~~ si!! siii! sii, sii. siiii! siii~~ siiii! siiii! siiii. siiiii, siii~~ siiii. siiiii~~ si~~ siiiii~ siii!! siii! siii, siiii~~ siiiii. siii!! sii. siiii, siiii. siii~"
+    },
+    {
+        "input": "siiiii. sii,",
+        "output": "si!! siii, sii~ siii~~ siiii. siii~~ si. siiiii~~ sii~ siiiii~~ siii!! siii!! siiii! sii, si. siiii~ siiii~~ sii~~ si! siiii~~ siii, sii. si. siiii~ siiii! siiii, siiii! siiii~ siii~~ siiiii~~ siii~ siiiii. siiii."
+    },
+    {
+        "input": "siiiii. siiii!! siii,",
+        "output": "sii~ sii. siiii! siiiii, sii! sii!! sii~ sii. siiii~ sii! sii~~ si! siii~ siii, siii, si! si!! siiiii~~ siiii!! siiii!! siiiii~~ sii, sii~ si!! sii! siiii~~ siiii~~ siiii~ sii! si~ siiiii. siiiii!! sii, siiii, siiiii. siiii!! sii~~ siiiii~ si. siiiii, siiii, siiii~~ si~~ siiii, siiii!! si, sii, siiiii! siii! si~ siiiii~~ si!! siiii, siii~~ sii~~ siiii, si~ siii,"
+    },
+    {
+        "input": "sii, siii! siii.",
+        "output": "sii, siiii, siii. si. siiiii, sii~~ siiii. siiiii, siiiii~ siii~~ siii~~ sii, siiiii~~ siiii!! si! sii. siiiii!! siiiii! sii! si! siii! siii! siiii, siii. siiii!! siii!! sii~~ sii!! si!! si! siii~~ siii. sii!! sii!! siii!! siiiii~"
+    },
+    {
+        "input": "si. siiiii~~ siii.",
+        "output": "siiii~~ siiii~~ siii!! siiii~~ siiii! sii!! siiii~ siiii, siiiii~~ siiiii. si~ sii~ siii!! siiii~~ siiiii!! siiii!! siiiii!! sii!!"
+    },
+    {
+        "input": "siiii,",
+        "output": "sii~ siiiii~ siiiii~~ siii! siiiii, siiii, siii, si. si! si, si!! siii~~ siiii! siiiii!! siii! si~ siiiii~~ siii!! siiiii~ sii! siii, siii. siiiii. siiiii~~ si!! siiiii!! siiii. siii!! sii!!"
+    },
+    {
+        "input": "siiii~ siiiii.",
+        "output": "siiiii~~ si!! sii. siii. sii, sii~~ si. siiiii!! siii! siiiii~~ siiiii. sii~~ sii, siiiii~~ siiiii!! si, siiiii~~ siiiii~ siiiii. si. siii. siii~~ sii!! sii!! siii!! si, siii~~ siiiii!! si. sii~ siiii! siii!! siii~ siiiii. siii!! siiiii!! siii. siiiii~~ si. si!! sii!! sii~~ siiiii. siiii, si~"
+    },
+    {
+        "input": "si.",
+        "output": "siii, si! siiiii! sii. siii~~ siiiii~~ si~ sii. siiii, siiii!! siiiii! sii. siiiii. siiiii, sii~~ siiii! siiii~~ si! sii!! siiii! siii,"
+    },
+    {
+        "input": "siii. sii!! si, si~~",
+        "output": "siii~~ siii, sii. siiii, sii, siiiii~ siii!! siii! si! siiii, sii! siiiii! sii~ siiii!! si, siiiii, sii!! siii! si~~ siiiii!! sii~"
+    },
+    {
+        "input": "siii, siiiii, siii!",
+        "output": "siii! siii~ si! siiii~~ siii!! si! siii, sii~~ siii~ si~ si~~ siiii! sii! si. siiii~ siii~ sii~~"
+    },
+    {
+        "input": "si~~ siiii, siiii,",
+        "output": "siii~~ si~ siii, siiiii! siii!! siii. siiiii~~ si!! sii~~ siiii. si! siiiii. siii~~ siiiii! siiiii~~ siii!! siiiii, siiii. siii. sii. siii! si! siiiii. siiii~~ si~ si!"
+    },
+    {
+        "input": "siiiii!",
+        "output": "sii. sii. sii~~ siii! siii, siiiii~~ siiii, siiii~~ si! siiii, sii!! sii! sii~~ siii!! siii~~ sii~~ sii~~ si~~ sii! si. siiiii~ siii. si! siiiii. si. si~~ siiiii~~ sii~~ si~~ siiiii!! siiii! si!! si~~ siii. sii~ siiiii~ sii. sii!! siii~"
+    },
+    {
+        "input": "siiiii!! si.",
+        "output": "siiiii~ sii~~ siiiii!! sii~ sii~~ si~ si, siiiii~ si!! sii, siii!! siiii!! siii. siii, siiii. sii, sii. siii! siiii! si, siiiii~~ si!! sii! sii~ sii! sii~~"
+    },
+    {
+        "input": "siiii, siiiii~",
+        "output": "si~ siiii~ sii!! siii! si~ si! siiii!! siiiii!! siiiii! si~~ sii. si! siii!! sii. siii~ si~ siiiii~ siiii! siiiii~ siii. sii~ si."
+    },
+    {
+        "input": "sii. si! sii!",
+        "output": "siii!! siii! siiiii, si!! siiii. siiiii, sii!! siii~~ siiii! sii~~ sii. siiiii~~ sii!! sii, si~~ si! siii~ siii. siiii~ siiii! si!! sii~ siiii. siiiii!! siii!! siiiii~"
+    },
+    {
+        "input": "siiii~ siii! siiiii!",
+        "output": "siiiii. siiiii! siiiii~ siiii, siiii, siiiii! sii. siii, siiii. si! si~~ si! siii~~ siiii~ siii. sii~~ siiiii! siiii~ si. siii. siiiii, si! sii, siii! siii! si! si!! sii~ siiiii!! siiii~~ siiiii, siiii!! siiii~ siii~~ si! siii. si!! siiii!! si. sii!! sii!! sii~ si! siii, si. sii!! siiiii. siiii, sii!! siiiii!! si~ sii! si. siii! sii! siiiii. siiii!! sii, siii. sii!! siiiii. siiii~ siii~~ siii~~ siii!! siii~ sii~ sii!!"
+    },
+    {
+        "input": "siiii! siiii! sii!",
+        "output": "siiii~~ siiiii~~ siii!! siiiii!! si. siiiii! siiiii, siiii~~ siiii, siiii! sii~ siiiii, siiiii!! sii! siiii!! siiii, siiii, siiiii, siiii~~ siiii~~ siii! siiii, siiiii!!"
+    },
+    {
+        "input": "siiiii~ siiiii!!",
+        "output": "sii. si~ siii! siiiii~~ siiiii~ sii! si~~ siiiii~ siiii, siiiii, siiii~~ siiii! sii. sii~ siii~~ siii!! sii~ siii!! siiii! sii. sii!! si! sii, si, sii~~"
+    },
+    {
+        "input": "sii, siiiii!",
+        "output": "siiii~ siii, siii!! sii, siii~ si! si. sii!! sii~~ siiiii! siiiii~~ sii, siii! siiiii~ siii, siiiii. si!! si~ siii. si~ siiii. si. siiiii! siii. siiiii~ siiii! sii. sii!! siiiii!! sii~ siiii!! siiiii, siii~~ sii. siiiii~~ si! si! siii!! siii!"
+    },
+    {
+        "input": "siiii~ siiiii! siii!",
+        "output": "sii!! si, siiiii! siiii, siiii! sii, sii~~ sii! siiii~~ siiiii. sii! si~ siii, siiiii!! si, si!!"
+    },
+    {
+        "input": "sii!",
+        "output": "siiii. si~ siiii~ sii. siii, si! siiii! siiiii, sii~ siiii. siiii~ sii~~ siiii. siiiii. sii~~ siiii, sii~~ siiiii, siii~~ siiii, si. sii~~ siiii~ siiii!! siiiii, si, siiii! siiii, siiiii~ si, siiiii, sii!! siii,"
+    },
+    {
+        "input": "si. siiii!! siii~ siiii~~ si!",
+        "output": "siiiii!! siiii~ si!! siiiii. siiii~ siii! si!! si, siiiii! siiiii. si~~ siiii. siiii!! si~ si! si!! sii, sii! si!! si, siiiii, si~ siiii~~ sii. siiiii!! sii. siiiii~~ siii! sii~~ si~ siii. siiiii~~ si!! siiii! sii! sii, sii! sii, siiii. siiii! si~ siii. sii~"
+    },
+    {
+        "input": "siiii~ siiii~~",
+        "output": "sii. siii! si!! siii, siii~~ si, siiiii, sii, si~~ sii! si, siiii, sii! siiii~~ siiiii. si!! si, siii!! si. si~ siiiii~ siiii. siii! siiii! siii!! siii! siii!"
+    },
+    {
+        "input": "si.",
+        "output": "sii!! sii~ si! siiiii! sii! siiii. siii. sii~ siiiii! siiii~ siiii! siii! siiiii!! siiii. sii. sii~ siiiii!! siii! siiii!! sii. sii~ sii. sii. siiii~~ siiiii! sii! sii!! si! siii, siii! siiiii!! siii~ siiiii, siiii!! si~~ si~ siiiii!! siiiii! sii. siii! sii. siii~~ sii~ sii~ sii. siiiii~~ siiiii!! si!!"
+    },
+    {
+        "input": "siiiii. siiii! si~",
+        "output": "si! siiiii! siiii!! siii!! siiiii, si. siiiii!! sii!! si!! si! sii~~ siiii~~ siiiii. siiiii~~ sii~~ siiiii~~ sii!! siii~ siiii~~ siiiii~ si~~ si~ siiii~~ sii!! sii!! siiiii, si. sii. sii. sii! sii~ siii. siiii! siii~ sii! siii! siiiii, siiiii!! si~~ siiiii, siiii!! siii~ siiii!! siiii~~ siiiii~~ siii!"
+    },
+    {
+        "input": "siii~~ si!",
+        "output": "siiii~ sii. si~ si! sii~~ siii~~ si, siiiii, sii. siii~~ siiii! siiiii. si! siii~~ siiii~~ siii, si!! siiii~ siiii! siiii. siiiii!! siii, siiiii!! si. siiii! si~ siiiii, si! sii!! si~ sii. si~~ siiiii!!"
+    },
+    {
+        "input": "siiiii. sii~~",
+        "output": "sii~ si!! sii!! siiiii, sii! si~ si~ siiii~ si. si! sii~~ siii!! siiii!! siii. siiiii!! siiii. siii~~ siiiii~ siii! si~~ sii~~ si~~ siiii~ sii~ si!! siiii~ siiiii! siiii! siiii, sii~~ sii! siiiii~~ si! siiii, siii~ siiii, siiiii~~ sii!"
+    },
+    {
+        "input": "siii~ siii~",
+        "output": "si. siiii~ siiii!! siiii~~ sii! siii. siiiii!! sii! siii~~ siii! sii!! si, siiii!! siiiii! siii. siiii. siiiii! siii. si~~ si! siiiii~~ siii! siiiii!! siii!! siiiii!! si~~ siiiii~ siii. si, siiiii!! siii! siii~~ siiiii!! siiii! siii!! sii, siii. siii! sii~~ siiii. sii~ sii, siiiii! siiii~ siiii. siiiii! si~~ si, sii! siii!! siiii. siiii~~ siiii!! siiiii~ siiiii. si, si~~ siiii~ siiiii~ sii!!"
+    },
+    {
+        "input": "si! si~ siii, siiiii,",
+        "output": "siii!! siii, siiii!! sii! siiiii, sii~~ si. sii, siii!! sii~ siii!! siiii~ siiii~ siiiii!! sii! siiiii~~ siiiii. siiii! siiii, siii, sii! siiiii~ siiiii! siii!! si~~ si."
+    },
+    {
+        "input": "si~~ siii~ si~~ sii~~",
+        "output": "siiiii, si~ siiiii! sii~ siiiii!! sii! sii~~ sii, siiiii, si!! siiiii, sii, siiiii~~ si! siiii~~ siiiii~ si. siiiii. si~ sii~ siiii~ si~ siii~~ siiiii~~ siiii. siii~ si! si~ sii, siiiii! siiii!! siiii, siii. si!! sii~ siiiii. sii! si. siiii~~ si, si! sii!! siii~ siii!! sii! siiiii!! sii, sii!"
+    },
+    {
+        "input": "siii! siiiii,",
+        "output": "si!! siiiii~~ siii. sii!! siii, si~~ sii, siiii! si!! siiii. siiiii! siii. siii~~ siiiii!! siii!! si~ siiiii~~ siii, siiiii. sii. siiiii! siii!! si~ siii, siiii~ si. sii. si!! siii!! siiii! siiii~ sii~~ siiii!! siiiii!! siiii!! si. sii~~ siiii! sii. siiiii~~ sii!! siiiii, si! siii~~ siiii!! siii!! sii, si, sii!! sii! siiii! siiiii!! siii."
+    },
+    {
+        "input": "siiiii, siii!",
+        "output": "siiii. siiii, siii! siiii!! siiiii~ siiii~ siii~~ siiii~ siiii~ sii~~ siiiii!! siiiii!! siii, si! siiiii~ siiiii! si~ si. siiiii~~ siiiii! siii. siiii!! siii!!"
+    },
+    {
+        "input": "siiii~~ sii~~",
+        "output": "siiiii!! siii, siiii~~ siiii~~ sii~~ si~~ si!! siiiii! si! siiii. siiii~ siiii! siiiii~~ siiiii, si~ siiii~~ siii~ siii~ siiiii~ siiiii~ siii! sii. si. siii. sii! siii."
+    },
+    {
+        "input": "siii, siii! siiiii,",
+        "output": "siiii, siii~ si!! si!! siiiii~~ si. si~~ siiiii, siii! sii. si~ si, si!! siii! siiiii! sii~~ siiii! siiii~ siii, siii~ siii,"
+    },
+    {
+        "input": "siii~ siiiii!! si~",
+        "output": "siiiii!! siiiii. sii~ siiii! si! si!! si! siiiii!! siii~ siiiii~ siii~ si~ sii~~ siiiii, siiiii!! siiii. siiii~ si! siiii! siiiii~ si. siii~~ siiiii!! sii~~ sii!! si~ siii~~ siiiii, sii! si! siiii! siiiii!! si! siiii~ siii,"
+    },
+    {
+        "input": "sii!! si~~ si,",
+        "output": "siiii~ siiii. siiii~ sii~~ siii~~ siii~~ siii, siiiii. siiiii!! siiii, sii. siii! siiiii. siii~ siiiii, sii. siiii! sii!! sii, siii~~ sii! siii~ sii~~ siiii~~ siiii~~ si~~ siii~ si! siii, siiiii, si. siii!! siiii, siiiii!! siii! si~ siiiii! si,"
+    },
+    {
+        "input": "siii,",
+        "output": "siii! siiii, siiiii. siiii. sii! siiii! siiii, siiiii, si! siiii! sii. siii! siiiii~ siiiii! siiiii. sii, siii~ siii. siii~~ siiii~~ sii, siiiii~~ siii!! siiii! siii~ siiiii~~ sii, sii!! sii. sii~~ si~~ sii~"
+    },
+    {
+        "input": "siiii, siiii!",
+        "output": "siiiii. sii, si~ siiiii. siiii. siiii! siiiii~ si, siii, siii! siiii. si~ sii, sii!! sii!! siii. si. si! siii~ sii! siiii~~ siiiii, siiii. sii. si~ si, siiiii!! siiii. siiii~ siiiii, sii~ siiiii! siiii~~ siiiii, si~~ siiii~~ siiii~ siiii. si! siii~~ siii. sii~~ sii~~ sii~ sii~~ siii, si, siiiii! siiiii! siiiii!! siii. si~~ sii! siiiii, si~~ si, siii! siiii~~ siiiii~~ siiiii~ si, siiii!! sii."
+    },
+    {
+        "input": "siiii. si.",
+        "output": "si!! si~ si!! si! siiii~~ sii, siiii. siii~ sii!! siiiii!! sii! siiiii. siiiii!! siiii! siii, siiii~ siii, siii~~ siiii~ siiiii!! siii~ siiiii~~ si! siii~ si!! sii! si. si! siiiii, siii. siiiii~~ siiii~"
+    },
+    {
+        "input": "si, siiii, siiii~ si~~",
+        "output": "siii~~ siiiii. si! siiii, sii~ si!! siiii! siiii~ si. siiiii~ siiii~~ si~ siiii. siii!! siiiii! siiii~ sii~ sii, sii!! siiiii. sii~~ siiii, siiii. siiiii! siiii~ siiiii. siii. si. siii, sii~ sii,"
+    },
+    {
+        "input": "siiiii. siii!!",
+        "output": "siii~~ siiii! siii! sii~ siiii, siii!! siii! sii~ siii, sii!!"
+    },
+    {
+        "input": "siiii, sii!! siiiii,",
+        "output": "siiiii~~ siiii~~ siii! siiiii, siiii~ siiiii! siiii, siii~~ siiii~ siiiii. si. si. si! si~ siii~ siii~~ siii, si, siiiii, siiiii!! siiiii, siiii. sii, si~ siii!! si, siii~~ si!! siii~~ si, sii. si, siiii~ siiii~~ siii~ sii, sii. siii! si!! siiiii~ siii. si. sii!! siiii, si, siiii!! siii~~ siiiii!! si! sii. sii! siii! siiiii. siiii!! siiii!! siii. siii~~"
+    },
+    {
+        "input": "siii~ si~~ si. siiiii~",
+        "output": "si. sii, siiii~~ si~ si. siiii~ si! siii!! siiii! siii!! siiii! siiiii, siiii! sii! siiiii, sii!! siiiii. si~ siiiii~ sii!! sii, si~ siiii~~ siii! siii. siiii! sii, sii~~ sii~~ siii~ sii. sii~ siiiii!! si. siiiii. siiii, si! si. sii."
+    },
+    {
+        "input": "siii. sii. sii.",
+        "output": "si, siii. siiii~ siii~~ siii!! siiiii, siiiii~~ siii~~ siii~~ siiii~~ siiiii! sii, sii! siiii. sii~~ siii~~ siii~~ sii! si, si. si, siiiii, siii! si! siiiii. siiiii~ siii~ sii, siiiii~~ siiii! sii! siiiii! si!!"
+    },
+    {
+        "input": "siii, sii,",
+        "output": "si! si, sii. si! sii, sii~ si~~ siiiii~ sii!! siiii! siiii~ sii, siiii~ siiiii. siiii, siii!! siiii~~ si! siiii, siiii, si! sii~~ siiiii!! sii! siiiii. siiiii!! siiii~ sii. siiii!! si~~ siiiii~ siiiii. si~~ siii. siiiii. siiii, siiii~ siii! siii!! sii~ sii~~ siiii~ sii!! sii! siiiii~~ sii!! siiiii~ siiiii. siiii. siii!! si~~ sii!! siiiii, sii!! sii! sii. siii! sii~ si! sii! siiii!! siiii!! siiiii,"
+    },
+    {
+        "input": "sii, siiii.",
+        "output": "sii. siiiii~~ sii~~ siiii! siii~ siiiii! sii!! siiii. siiiii. siiii~ sii~~ si. siiiii~ siii, siii, siii~~ siiii. sii. siiii, sii! siiiii. siiii!! si, sii! siiiii!!"
+    },
+    {
+        "input": "siiii. siii.",
+        "output": "siiii. siii!! siii~ siiii!! siii~ sii. sii. siiii! si! siiiii, siiiii~ sii. siiiii~ siiiii, siiii~~ si, si~ siiii! siii. siiiii~~ si!! sii, siii! si. siiii~ sii. sii, siii! siiii, siii! sii! siii~~ sii, siiiii!! siiiii!! si!! siiiii. sii~~ si~~ sii, siiii~~"
+    },
+    {
+        "input": "siiii~~ siii~ siiiii!! si~",
+        "output": "siiii, siiii!! siiii~~ si!! siii~~ si. sii. siii~ sii~ sii! sii~~ si, si!! siiiii~ siiiii~ siii~ sii! siii! siii~~ siii~ siiiii. siiiii!! siiiii~ si!! si!! sii~~ siiii!! siiii! si! siii~ siiii, siiiii!! siiiii, si, siiii~~ siii~ siiii!! siiii! si! sii~ siiiii~ si~~ siiii. siiiii!! si, si~~ si, siiii~~ siiiii. siiiii~~ siiii~~ siiii~ siii~~"
+    },
+    {
+        "input": "si. siii~ siii~",
+        "output": "sii~ siiiii~ siii! sii. siiii, sii! siiii. sii!! siiiii! sii~ siii~ siiiii~~ si, si!! siiii! siiii!! siii~~ sii~~ siiii!! siii. siiiii~ siii, si, sii, sii. siii. siiii. siii! si~ siiii! siii! siiii~ siii~~"
+    },
+    {
+        "input": "siiiii! si~~ si~~ siii!! sii!!",
+        "output": "siiii. siiiii!! si, siii, sii! si~~ siiii! siii! si. si~ siiiii~~ siiii!! si! siii!! siiiii. si. sii! sii. siiii! siii, siiiii!! siii! si, siii! siiii, sii. siiiii. siii~ siiii! siii! siii! siiii, siii! siii~ si!! si~~ si~~ si~~ sii. sii~ siiiii!! si~ siiii~ si!! siiii!! si, siiii! siiiii. si~ siii."
+    },
+    {
+        "input": "si!! siii!!",
+        "output": "sii! sii~ sii. si. siii! siii, siiii~ si. sii. si!! siii! siiii! siiii~~ siiiii! siiiii! siii!! siiiii~~ siii, siiii, si~ siiiii, siiiii!! sii~ siiii~ siiii. sii, si! siiiii! siiiii~ si, siiiii. siii! siii!! si!! si!! siii~ siii~~ sii. siii~ siiiii. si, sii~~ siiiii~ siii. siii! siiiii!!"
+    },
+    {
+        "input": "siii~~ siii~ si~",
+        "output": "siiiii! sii~~ sii~~ si~~ siiii! si. si. siiiii! siiiii!! siii. siiiii~ sii! siiiii!! siii!! siiii, siiiii~ si~ sii~ siii~ sii! sii! siiii~~ siiiii! siii! si~~ siiiii! siii~ siiiii. siii, sii, siiiii. siiiii, si! siiiii, si~~ si~ si. siiii~~"
+    },
+    {
+        "input": "siii~ siiii~",
+        "output": "sii!! siiii~ sii~~ si! siiiii. siiiii. siiii!! sii. siii! siii~ sii!! siii~~ siiii. siii~~ siiiii! siiiii, siiiii~ si!! siiii, sii!! sii~~ si~~ siii~~ siiiii. sii, siiii, siii. siiii~~ siiiii~~ siiii! siii! siii~ siiii!! siiii!! siii~ si~~ siii. siiiii! sii!! siii. si, siii. si,"
+    },
+    {
+        "input": "siiii~",
+        "output": "siiiii~~ siiiii~ siiiii~~ siii!! siii, si~ si!! siiiii, si~~ siii. siiiii!! siiii, siiii~~ siiiii~~ siiiii, siiii~ si~~ sii, siiii~ siii! siiii~~ siiiii! sii~ sii~~ siiii. siiiii~~ siiii, siii, si! siii! sii!! siii. si, sii!!"
+    },
+    {
+        "input": "si, siii. sii!!",
+        "output": "siiiii~~ siii~ siii, sii, si~ sii~~ sii, siiiii, siii~ siii. siiii, siii~~ siii, siii! siiii!! sii! siiiii~ siiiii~ si~~ siii, siii~~ sii!! siiiii, siiiii~ sii!! si!! siii! si~ sii! siiiii~~ siiii!! sii~ si! siiiii~~ siiiii, siii! siiii~~ sii, sii!! siiiii~ siiii! siii~ siii~ siiii! siii!! siiiii~ sii~~ si~~ siiiii~~ siii~~ siiii~ siiiii, sii~ siiii."
+    },
+    {
+        "input": "siii,",
+        "output": "siii!! siiii. si~ si, siii. siiii! siiii~~ siiiii! si! siiii!! siii! si, sii. siiiii~ siii~~ sii, siiiii~ siiiii!! si!! si!! si, siii! siiiii, siiii. siiiii! si!! siiii, sii! si! siii! si!! sii!"
+    },
+    {
+        "input": "siiii. siiiii~~ siiii!",
+        "output": "sii!! siiiii! si!! siiiii~ siiiii. siii!! si, si. sii!! siiiii!! si! si~~ siiii~ si~ si~~ siiii, siii~~ sii!! si! siii. siii~ sii~~ si. siiiii! siiiii!! siiii! sii! sii! siiii~ si!"
+    },
+    {
+        "input": "sii. sii, siiiii~",
+        "output": "siiiii~~ siii. siii, siiiii, siii! siii. siii~~ si~ siiii! si~ sii~~ siiii~~ sii. siiii! siii, siiiii~ sii! siiii, siiii~~ si~ si. siiii!! siiiii. siiii!! si, siiiii~ siiiii~ siiiii!! siii~~ siiii. si~~ siiiii! sii! siii~ sii! si~~ siiiii!! siii!! sii~ si! siiiii! siiii, si!! si. siiii. siii! sii! siiiii! siii! siiii~~ siii. si! siii. siii, siiii. siii~~"
+    },
+    {
+        "input": "si!!",
+        "output": "siiiii! siiiii!! si. siii~~ si~ sii, sii~ si!! siii!! si, siii!! siiii~ siiiii!! siiii~ sii. siiii! si!! si! siiiii!! si~ sii!! sii! siiiii! siii, siiii. siiiii! siiii!"
+    },
+    {
+        "input": "siiiii~ sii! siiii~ siiiii~",
+        "output": "si. si!! siiiii! siiii~ siii! siiii, siiiii~~ siiiii~ siiii~ sii~ siiii~ siiii, si!! siiii, siii~~ siiiii, siii~~ siiiii~~ si~ siiii. sii!"
+    },
+    {
+        "input": "siii, si~ siiiii! siii~",
+        "output": "si~~ siiiii, si!! siiii~ si~ si~~ siii, siiii~ sii~ sii! sii, si, siii!! sii, sii~ siiiii, siiiii! siiii!! sii, si, siiii~~ siii~~ siiii,"
+    },
+    {
+        "input": "sii! siiii, sii. siii!",
+        "output": "si! siiiii~ siii. siiiii~~ siii. sii. sii~~ si~~ siiiii. siiii. si~~ siii~ siii!! siiii~~ sii. si! sii. sii~~ sii. siii~~ sii~ siiiii~ sii, si!"
+    },
+    {
+        "input": "siiiii~ sii!!",
+        "output": "siii, siiii. si, siii. sii~~ siii, siii. siiiii. si~ siiiii, si! siiiii, sii, siiiii~~ siiii~~ siiiii, si. si~~ siiiii~ siiii!!"
+    },
+    {
+        "input": "siiii~~ si.",
+        "output": "sii~~ siii. siii, sii!! siiii. si!! siiii~~ siiii~~ siiii!! siiiii!! siiii. si, siii~ sii, si!! sii!! siii! siii~ siiiii. siii! si!! siiii! sii~ sii~ siiii. si!! siiii!! sii! sii, siiii~ siiiii, siiii!! si~ sii~~ sii! sii! siii~ siiiii. siii!! siiii. siiiii~"
+    },
+    {
+        "input": "siii~~",
+        "output": "sii, si~ siii, siii~~ siiii! si. sii~~ sii!! sii. sii!! sii! si~~ si. siiii!! siiiii~~ sii!! si~ si~~ siii!! siiii. si. siii!! siiii. siii~~ si, sii!! sii~ sii~ sii. siiiii! siii. siiii~~ sii! siii! si~~ si."
+    },
+    {
+        "input": "siii!",
+        "output": "siiiii~~ siii, siii! siiii!! siiiii~ sii!! siiiii. siiiii! siiii~~ si! siiiii!! si, sii~~ siii~ si~~ siiii. siiiii. siiiii~ si~~"
+    },
+    {
+        "input": "siiiii!! siiii~~ siiii!!",
+        "output": "si~~ si. siii. si, siiiii! siiii. siiiii, siii. sii~ siiiii!! siiii~ si~~ sii~ sii~ si~ si~ siiiii. siiiii~~ si~ sii, siiii~ si, siii~~ siiii!! siiii~ siiii, si. siiiii, siiiii!!"
+    },
+    {
+        "input": "siiii, si!!",
+        "output": "siiii! siii, siiiii~~ si, siii!! siii~ siiii~~ siiii!! siii. si! si! siii! siiiii~ siiii, siiiii! siiiii! si~ siiiii! siiii~ sii. sii! siiii~~ sii. siii!! siiii~~ si! siiiii. si! siii~~ siiii~~ sii! siiii. si! si, siii~"
+    },
+    {
+        "input": "siii! siiiii,",
+        "output": "siiii~ sii!! siiii~ siiiii! sii. siiiii! siiii!! siii, siiiii. siiii!! siiiii!! siiiii. siiii! siiiii! sii~~ siii~ siiiii!! siiii. si~ sii~~ sii~~ siii~ si~~ siii, siiiii! siiii,"
+    },
+    {
+        "input": "sii, sii~ siiii,",
+        "output": "siii, si! siiiii~~ sii. siii. siiiii!! sii!! si, siii! siiiii, siiii. si!! siiii!! si! siiiii~~ si~ siiii~ si. siiiii, si~ siiii!! siii! sii!! si! si, siii!!"
+    },
+    {
+        "input": "sii!! siiii~ si!",
+        "output": "siiiii. siii, si!! siii~ sii!! si. sii!! siii!! siii!! si~~ siii~ si! si! siiiii! si~~ si~ sii. si!! siiii!! siii."
+    },
+    {
+        "input": "siiii~~",
+        "output": "siiiii!! si~~ sii, siiii! sii, sii. siiii. siiii~~ si!! siiii~~ siiiii. siii~ siiii~ siiii~ siiiii! siii!! siiiii~~ siii!! siii~ siiiii~~ siii, si~ siiiii~~ siii~~ siii! sii! siiii~~ siiiii. siii. si, siii!! siiii!! siiiii!!"
+    },
+    {
+        "input": "siiiii. siiiii,",
+        "output": "siiiii!! sii, siiiii! si. siiii!! siiii. siiiii~ siii!! siiiii!! sii. si!! siii, sii~~ si, siiii!! siiii!! sii. sii! si! si~~ siiii~ si. sii. siiii!! sii! sii!! siiii! siiii~~ siii. si~~ si~~ si~ si~ siiii, sii~ si!! siiiii. si~ siii~~ siiii~ si, si~ siiii! sii!! siii~ siii. sii!! siiii~ siiii. siii! si~~ sii. siii. siii. sii! sii!!"
+    },
+    {
+        "input": "sii!! si~ si~",
+        "output": "siii~~ siiiii, sii~ sii. sii!! sii. sii~ siiiii. siiiii! siii! si~~ siii~~ sii~ sii, sii! si~ si~~ siiii! siiii. si, siii~ siiiii. sii~~ si, si, siiii~ si~~ siiii. siii!! siiii~ siiii~~ si! sii~ si. siiiii~ sii~ siii, siii~~ siiii~ sii. siiiii!! si~ siiii~~ siii!"
+    },
+    {
+        "input": "siiiii!",
+        "output": "siii! siii!! siiii~ sii, sii. siii! siii! siii. sii! siiiii. sii, si, si!! siii~ siiii!! sii~ siiiii, siiii. si~~"
+    },
+    {
+        "input": "siiiii~~ siiiii~ sii~ siiii~",
+        "output": "siiii. sii!! sii!! siiiii!! siiii, sii~ siiiii, siii! sii~ siii~~ siiii!! sii~ si! siiii! siii. siii, siiii! si~~ siii~~"
+    },
+    {
+        "input": "siii. siii. sii.",
+        "output": "siii~~ sii! siiiii. si~ siiii, siii!! siiiii. siiii, siii~ siii!! siiiii! siii~ si. siii. siii. siiii!! siiii. siii~ sii!! siiii~ si~~ siii, siii~~ sii, si~ si!! siiiii~~ sii!! sii!! siii. siii. siii~ sii, siiiii!! sii! siii~~ siii~ siiiii. sii~ siiii, siiii!! siiii. sii! si. si~~ siii. siii! sii, sii~~ si."
+    },
+    {
+        "input": "siii~~ siiiii~~ siii, si, sii!",
+        "output": "sii~ siiii!! siii. siii, siiiii~ siiii. si, sii! sii!! siiii, siiii~~ siiii, siiiii~~ sii! si! siii! siiii~ sii, siiii~ siii!! si!! sii! siii~~ siii~ sii~~ siiii! si~ siiiii~~ siiii, siiii! siiiii~ siiii!! siii! siiii, sii! sii! si~ sii~~ siiiii, sii~~ sii, siii~"
+    },
+    {
+        "input": "siiiii. siiiii, siiiii!",
+        "output": "si, siiii! siiiii, siiii~ si~ siiii. siii, si~ siiiii! siiiii! sii~~ siiiii, siiii. siiiii, sii~ sii!! siiii, si. si!! siiii~~ siiiii! siiii. si. siii~~ siii~~ si!! sii!! sii~~ siiii, si!! sii, siii, siiiii. siii, siiii~"
+    },
+    {
+        "input": "si! si.",
+        "output": "siii! si, sii~ siiiii!! si~ siii. siii~ siiii~ si!! siii!! sii. sii~ siii~ siii! siiii!! siii!! siiiii, siiii! siiiii~~ siii, siii! siii!! si! si!!"
+    },
+    {
+        "input": "siiiii~~",
+        "output": "siiii~ siiiii, siiii~ si~ siiiii! sii. si~ siiii, siiiii~ siiiii~~ sii~~ sii~ sii!! sii~ siii, siiii!! siii. siii, siiii~ siiii! siii~~ si! si! siiiii! si!! sii!! siii~ sii!! siii. siiiii~ siiiii!! siiiii! siii~~ siii. siii, siiii!! siiii, siiii!! siiiii. sii, si! siiiii, siiiii!! siii."
+    },
+    {
+        "input": "sii. sii!",
+        "output": "siii!! siiiii. siiii~~ si, si~ siiii~~ sii!! siii, sii!! siii~ siiii~ siiiii~ sii. siii. siii! si. siii~~ siii! siiii! sii!! sii~ siii, sii, si~ siiii! sii! siii. sii!! siiiii, siiiii."
+    },
+    {
+        "input": "siii!",
+        "output": "sii. siii! sii. sii~~ sii. sii! sii. siii!! siiii~~ siiii~ siiii~~ siiiii~~ siiii. siiiii. siiiii. sii!! sii! siii~~ si! sii~ siii! siii, siii, sii!! siiii, sii, siii, siiii!"
+    },
+    {
+        "input": "siiii. si! siiii~~",
+        "output": "sii~~ si~~ siiii~~ siiii! si! si, siiiii. sii~~ siiiii~~ sii, siii!! sii, siii, sii~ sii,"
+    },
+    {
+        "input": "si, sii~",
+        "output": "siii. si~ siiiii!! sii. sii!! sii. sii! siii~~ sii, siiiii, siiii!! siiiii~ siii. siii~~ siiiii~~ siiiii~ siiiii~~ siiii. si!! si, si!! sii. siiii!! sii~~ sii! sii~~ sii~~ siiii! si, siiii!! siiii, si~ siii! siii! si~~ siii~~ siiiii~ siiiii! siiiii! sii~~ siiiii. sii!! si~~ siii!! siiiii~ siii!! siiiii. siiiii!! siii~~ siiii~~ sii. sii."
+    },
+    {
+        "input": "siiiii!",
+        "output": "siii. siiiii~ siii. siiiii. siii!! siiiii, siii~ sii. si~~ siii. siii. siiii! siiii~ sii, siiiii~ sii~ si! siiiii. si, siii~~ sii, siiii!! siiii~~ siiiii, siii! siiii~ siiii!! si!! siiii, siii, sii! siiii, siiiii!! siii!! siiii! siiii~~ siiii, siiiii. si~ siiiii~ siiii!! siii~~ si!"
+    },
+    {
+        "input": "siiii!!",
+        "output": "si!! siii!! si~~ sii. siii! siiiii~ si~ sii~ sii, siiii! siii~~ siii! si~~ siiii, siiii!! siii. siiii~~ si. si~ sii~ siii."
+    },
+    {
+        "input": "si~~",
+        "output": "siii! sii~ sii!! siii~ siii! sii! si~~ siiii. si, siiii!! si! siii! siii! siiiii. si~~ siiii! siiiii! siiii! sii~~ sii!! siiiii~ sii! sii. sii, sii, siii, si!! si, siii~~ sii. si. siiiii. siiii, siiii. sii! siii~~ siiii, siiii~ siii! siii~ siii, siiii! siiii~ sii! siiii! siiiii~ si~ sii! si! siii~ siiiii~~ siiii!! sii! siii!! siiiii! sii. siiii~~ si! siii. sii~~"
+    },
+    {
+        "input": "si. siii~~",
+        "output": "si!! siiiii~~ sii, siii. si! si~~ sii! siii. siiiii~ si, siiii!! si, si. sii. siii~~ si~~ siii. sii, siiiii! siiiii, si. siiiii. sii, siii!! si~~ siii. sii~~ si,"
+    },
+    {
+        "input": "siii, siiiii, si! sii~ siiiii!",
+        "output": "sii, siiiii, sii!! si, si!! siiii!! sii!! sii, siiiii, siiiii~~ sii! si~~ sii! si! siii~ siiii, siiiii! si, si, siiii! si~~ siii~~ sii~ siii! si! si. si~~ siiiii. siiii~~ siiii~~ siiiii! sii~~ sii!! siiii!! siiii! si,"
+    },
+    {
+        "input": "sii~ sii~~ siiiii~ siiiii~",
+        "output": "sii!! siiii, siii!! siiiii, si!! sii~ siiiii~ sii! siiiii! siiiii, siiiii! si, si, siiiii, sii~~ siii. siiiii! si. siiiii~ sii!! sii~~ siii! siii~~ siii~~ siii! sii. siiii!! sii~ sii! si~ si, siiii. si!! siii~~ siii!! siiii! si, siiii!! siiii! sii~~ siiiii, si. si!! sii!! siiiii. siiiii! sii, sii~~ siii! siii!! siiiii~~ sii!! si! si~~ si. siiiii!! sii! sii. siiiii."
+    },
+    {
+        "input": "si. si!!",
+        "output": "si~ si~~ si! siii~~ sii~ siiiii. sii~~ siiii. sii. siii! sii~ siiiii~ siiii!! sii, sii~ sii. siii~ siii! si. siiiii~~ sii. siiii, siii, sii!! siiiii. siii~ siiiii! siiiii~ siiiii! siiiii~~ siiiii~ siiiii! siiiii~ si! si~~ siiii~~ siiii~~ si! siiiii! siii, sii, siii, siii~ siiii! si. siii!! siii~~ sii~ siiii!! si, siiii!! si~ si~ sii~~ sii. si,"
+    },
+    {
+        "input": "sii!! siiiii!",
+        "output": "siii~~ siii, sii~ si. siii, si~ siiiii~ siiii. sii, siii~ si~ sii~~ si! siiiii~ siiiii! siii~ siiii~~ siii! siii, siii. siiiii. siii, siiii. si~~ siiii!! siii~~ siiii~~ sii!! sii~~"
+    },
+    {
+        "input": "siiiii!",
+        "output": "siiiii~ siiii~ si~ siiii! siii, siiiii. siiiii! si~ siii! sii, siiiii, siiii. sii, si! siii. si! sii!! si, sii~~ siii, si, siiiii~~ siii~"
+    },
+    {
+        "input": "siii~~",
+        "output": "sii! siii! sii~~ sii, siiiii. siiii. siii! sii~ si, sii!! sii!! siiiii~~ siiii, siii~ siii~ siii~~ siiii, siiiii. si~~ siiii!! sii, siii. siii. siiiii. si~ si!"
+    },
+    {
+        "input": "sii,",
+        "output": "si~~ siii, sii~~ siii! si! si~ siiii! si~ siiii~ siiiii~ siiiii, sii. si. siiiii! si~ si, si, siii!! siiiii~ si. sii, siiiii. siii! sii!! siii, siiiii, si! siii!! siii. siii. sii! siiiii!! si~ siiii! si~ siiii!! siiii, si! siiiii~"
+    },
+    {
+        "input": "siiiii~~ siiii,",
+        "output": "si! siiii!! siii, siiiii~ sii! siiiii. siiiii~ siiiii!! si!! siii! siiiii~~ siiii. siiii! si. siiiii, si!! siii. siiii~~ siii~ siii. siii~ siiiii~ siii! siiiii!! si~ siii. sii. siii!! si!! sii! siii~ siiiii! siiiii. sii!! si~~ sii~~ si!! siiiii. siiii. sii~ siii! si~ siiiii~~ siiiii~~ siiiii~ si, siiiii. sii. siii~ siiii. siii!! si~ siiiii! siiii~~"
+    },
+    {
+        "input": "sii. siiiii~",
+        "output": "siiiii!! siiiii! si. sii. siiiii!! siiii, siiiii, siii! siii!! siii!! siiii. siii! siii. siiii~ siiii! siiii, sii. siiii! siii!! siiiii! sii~~ siiii, siii. siii~ si. sii, si~ siii~ siiii~ siii! si! siiii!! sii, siiiii. siiii~~ sii, siii, sii~~ siiii!! siiii. siii. siiiii!"
+    },
+    {
+        "input": "siiii!! siiiii! sii!!",
+        "output": "siii. siiiii!! siiii! siiiii!! si, siiiii~~ siiii~~ sii! siiiii! siiiii~~ si, si!! sii~ siii, sii. siii~~ si. siiiii~ siiii. siiii~ siiii!! si~~ siii!! siiii~~ sii!! siiii, siiii~ siiii~ siii. si~~ sii, si~ siiii~~ siiii!! siii!! siii. siii!! si~ si! si! sii~~ sii! sii~~ siiiii~~ siii, siiii~~ siiii! siiiii, siiii! si, sii!! siii, siii!! sii~~ siiii. si! siii. siii!! siii!! siii!!"
+    },
+    {
+        "input": "siii! siii!",
+        "output": "si! sii~ siii~~ siiii~~ siiiii~ sii~ siiiii~~ si!! siii! siiii, siiii~ siiii! si! siiii!! si~~ siiiii. siii, siiii~ siiiii~~ siii. siii. sii!! sii!! siiii! siii. sii~ siii~~ siii, siiii. siiiii!! siii!! siii, sii!! siiiii~~"
+    },
+    {
+        "input": "siiii! sii! siiiii, siii~~",
+        "output": "siiii~ sii~~ siii! si! siii!! sii, si! si! siiiii~~ siiii, siiiii~ siiii. si. siii, si, siii, sii. siii!! siii, si~ siiii~ siiii~~ siiii, sii!! sii~ sii. si. siii, siiiii~ siiiii~~ si! sii, sii~ siii. siii~"
+    },
+    {
+        "input": "sii~",
+        "output": "si!! sii! siiiii. siii, si~ si~~ siiii~ siiii~~ si!! si!! siii! siiiii. sii. sii!! siiiii, si~ siiiii! siiii~ siiiii! si~~ sii!! si! siii! si. sii, siiiii~ siiiii~~ siiiii~ sii! si, si~~ siii~ siiii~ siii, siiiii!! siiii~~ sii, siiii, sii~ si~ sii~~ siiii~~ siiii!! siiii!! sii~~ siiii! si~~ sii. si! siiiii!! sii!! siiiii~ siiii!"
+    },
+    {
+        "input": "si! sii. siiiii!! siii.",
+        "output": "sii~ si~~ si~~ siii, sii!! siii!! siiiii, siiii, siii!! siii. siii~~ siiiii! siiiii~~ sii!! sii. siiiii!! siiiii~~ siiii~~ siii~ siiii~~ si! siii~~ sii! si~ siii!! siii~ siiiii~ si. siii, siiiii~~ sii! siii."
+    },
+    {
+        "input": "siiiii! si~ sii. sii~~",
+        "output": "sii!! sii~~ siiii, siiiii~~ siiii~ siiiii, siii~ sii. siiii!! siii~~ siiiii, siii. sii, siiiii. siii!! siiiii. siii. sii, sii, si~~ siii~ siiii!! sii!! siiiii. siiii!! sii, sii, siiii! sii! siii. si~~ sii~~ si~ siii, siiii!! sii! siii. siiii!! siii~~ siii, siii! siii!! siii~~ si~ si, si~ si. siiiii! sii!! sii~~ siiiii, si! sii, sii~ si! siii!!"
+    },
+    {
+        "input": "siiii~ siii!!",
+        "output": "siii! si~~ siiii! si~~ si! siii~~ siiii~ si~ siiii!! siiii, siiiii, siii. siii!! sii~~ si, siii, si~~ si~ siiii! siiii~~ sii, siiii, siiii~ si!! siiii~ sii! sii, siiii!! siii, siiiii!!"
+    },
+    {
+        "input": "siiiii!! siiii~ siiiii. siiii~~",
+        "output": "si!! sii. siii~~ siii!! sii, siiiii!! siii~~ siiii! siiiii! siii~ siii!! sii, siii~~ si!"
+    },
+    {
+        "input": "siii!! siiiii! siiii~~ siiii.",
+        "output": "siii!! siiii~ siiii. siiiii~~ si~ sii!! sii!! si, siii!! siiiii!! siiiii! siiiii!! siiiii~ siii~~ siii!! si, sii~~ siiii. siiiii. siiii, siiii, siii. siiiii! siiii. sii, si! si. sii!! siii, si~ siiii, siiii~~ si~ sii~ siiiii! sii~ siii. siiii! siiii. siii! siiiii,"
+    },
+    {
+        "input": "siiii~",
+        "output": "siiii~ siiiii~~ siii! siiiii~~ sii~~ siii! siiiii, siii~ siii!! siiiii~ siii. si, siiii, siiiii~ sii. siiii, siiii~ siiii! sii, si, siiiii, siiii! siiii~ siii~ siiiii!! siiii. siiii~~ sii~~ si~~ si. si~ sii. siiii. siiii!! siii. sii!! siii, si~ siiiii! sii. siii. siiiii. siiii~~ siii! sii! si~~ siiiii~~ si! siii, siiii~~ sii~~ siii~ si!! siiii~ siiiii~~ siii! siiiii, siiii~~ si. siiiii! si~ siiii, si, siii! si,"
+    },
+    {
+        "input": "siiiii.",
+        "output": "sii! siii! si! siii. si!! sii! siii~~ siii~~ siiiii, siiii!! siiiii~~ siiiii! siiiii! siii~ siiiii~~ siii~~ siiii~ si~~ siii!! siii~~ siii. si! si!! siiii~~ sii! siiii~ siiiii~ si. siiii! si!! si, siiii~~ si, siii, siiii~ siiiii. sii~~ siiiii!"
+    },
+    {
+        "input": "siiiii!! siiii,",
+        "output": "sii. sii~ siiiii~ siiii, si, si~~ siiii!! sii!! siii~ siii~~ sii~ si, si!! siiii~ si!! siiii, sii~ sii. siiii, siii~ sii~~ siii!! siiiii!! sii!! si~ siiii!! sii~~ sii~ si~ siiiii, sii~~ siii, siiii~ siiiii~~ sii~~ si, siiii. siiii! siiii~ sii! sii, si~ si~~ siiiii."
+    },
+    {
+        "input": "si, siii!! sii! siiiii,",
+        "output": "sii!! sii~ siii, sii!! siiiii!! sii~ siiii. si. si~~ siiiii! sii~~ si~~ siiiii, siiiii~~ siiii!! siiiii! siiii~ si, siii! siii. siiii! sii. siiiii, siiiii!! siiiii. si~~ siii~ sii, siiiii~ si~ si. siii. siiii, siiii, siiii~ si, sii, siiiii! siiii~~"
+    },
+    {
+        "input": "siiii. siii, siiiii. siiiii~~",
+        "output": "siiii!! si, siiii~~ siii, sii!! siii. sii, si! siiii! si. si. siiiii. siii~~ siiii~ sii!! si. siii. siiiii~ si! siiii!! si!! siiiii, siiii!! siii~ sii! si. sii, si, si. si~~ siiii, siii! sii, siii!! siiiii!! siii, siii! siiiii."
+    },
+    {
+        "input": "siiii! siiiii!",
+        "output": "si, siii, sii. si~~ sii!! si~~ siii, si! siii. siiii! siiii~~ si! siiiii! siiiii. si, sii! siii, siiiii~~ sii, siii. siiiii~~ si~~ siiii!! si~ siii~~ sii, siiiii. si!! si!! siii!! siiiii~~ sii~~ sii! siii. si!! siiiii. sii!! siiiii!! siii, siii~~ sii. sii. siiii!! siiiii."
+    },
+    {
+        "input": "si!! siiiii!! siiii.",
+        "output": "siiii!! sii. siiiii! siii! siii~~ siiiii~ siiiii. siiii, siii~ siiii! siiiii, sii, siii! siii!! siiii~~ siiii, siiiii~ si~~ sii! siiii!! sii! siiiii~ siiiii!! si, sii, si! siii~ si~ siiii~ si~~ siii. si!! si!!"
+    },
+    {
+        "input": "siiiii~ siii, siiiii! siii!!",
+        "output": "si~ siiii, siiiii!! siiii. siiii. siii. siiiii~~ si! siiiii~ siiiii~ siiii. si!! siiiii~ siiii~ siiii~ siiii. siii!! sii!! siiii. sii!! siiii!! si~ sii, siiiii, siiii, siiii~~ si, siiiii! siiiii!! sii~ siii~~ siiiii. sii~ siiii~~ siiiii~ sii!! siii~ siiiii~ si~~ siiiii~ siiiii~ siiii!! siii. si~~ siiii!! si~~ sii, siii,"
+    },
+    {
+        "input": "si,",
+        "output": "siii~ siiii~ siii~~ siiii! siii. siii!! sii~ siiiii~ si!! siiiii~~ siii~~ si. siiii. siiii! sii! siiiii, si, siiiii~ siiiii. si~ sii~"
+    },
+    {
+        "input": "siiii~~ siiiii~~ siii.",
+        "output": "siiiii. si, siii~ si~~ si!! sii. si. siiii~~ siiiii! siiiii~ siiii~ siiii~~ siiiii, siiiii! sii! si~ siiiii. siiii. siii~~ siiiii!! sii~~ siiii! siii. sii~ sii~~ siiiii~ sii. si! siiii~~ si! siii, siiii, siii~~ siiii. siiiii! siii. si~~"
+    },
+    {
+        "input": "siii! sii~ si!! siiiii!!",
+        "output": "siiiii~ si~~ siii~ si!! siiii. siiii. sii~~ sii~~ siii~ siiiii!! siii~~ siiiii! siii! siiiii! siii~ siiii~ sii~~ siiii. siiii~ sii, siii. siii~ siiii. si~~ sii. siiiii!! siii! siii~~ siiii!! si! siiii!! siiii~ si! siiiii, siii! si! sii, siiii! siii~ siiiii, siiiii!! siii~~ sii!! sii~ si!! si! siiii, sii~ siiiii~ sii~ siii! siii~~ siii~ siiiii~~ si, sii! si!! si! siiiii! siii. sii~ si!! sii, si, siii."
+    },
+    {
+        "input": "sii, siii. sii!! siii~~",
+        "output": "siiiii~ siii. sii. siiiii~~ siii, siiiii, siiiii~ si!! si~~ sii~ sii! siiiii! siii. si~~ sii! siiiii. siiii~ siiii! sii! siiiii~ sii."
+    },
+    {
+        "input": "siiii, siiiii, siiii.",
+        "output": "siiiii~~ siiiii, siiii~~ siiii~ si!! siiiii~~ sii! siiiii, siiiii. siiiii, sii, si. siiiii~~ siiiii~~"
+    },
+    {
+        "input": "siiii, sii~~ siiii!! si!!",
+        "output": "siii!! siiiii!! siii, siiii, sii! siiiii! sii!! sii~ si!! sii! siii! si~ siii!! siiii! siiii!! si, siii~~ siiiii!! siiiii. sii, siii~~ siiiii! sii. siiii~~ siii. si!! sii! siiii~"
+    },
+    {
+        "input": "siii~~ siiiii~ siii!! siiiii.",
+        "output": "si~ sii! siii~~ siiiii~~ siii! siiii~ si~ siiiii~ sii, siii~~ si, sii. siii. si~ si~ sii~~ siii, sii!! sii~ sii, siii, sii~~ sii!!"
+    },
+    {
+        "input": "siiiii. siiii!!",
+        "output": "siiiii!! si!! sii~ siiiii. siiiii! si~~ siiiii~~ siiiii, siiiii~~ siiii, si~ siiii, siiiii!! siiiii, siiii, siiii. si, sii~~ siiii! si~~ siiiii~~ siiii, sii, sii~ si. si, siii~~ siiiii. sii~~ sii. siii. sii~~ siiii, siii. siiii~ siii."
+    },
+    {
+        "input": "siii. siiii!!",
+        "output": "siii~ siiiii! siiii. siiii~ siiiii~ siiiii~~ siiii. siii, siiii. siiii! sii, si!! siiii, siiii~ siiii~~ siiiii. sii~~ siiii! si~ siii, siiiii! si!"
+    },
+    {
+        "input": "si~~ si. si!",
+        "output": "si, si~ si! siii, siii. si!! siii!! siiii~ siii! siii. sii~~ siiiii~~ siiiii~ sii!! sii~~ siiii~~ siiiii! sii. si~ siii!! sii~ sii. siiiii! siiiii~ siii, siiii~~ siiii! siii!"
+    },
+    {
+        "input": "sii.",
+        "output": "siiiii!! si, si, siiii! sii!! si, si!! siiiii~~ siii! sii!! siiiii! siiiii~~ siiii, siiii! siii!! siii. sii~ siiiii. siiiii. siiii!! siii~ sii!! si~ siiii! siii!! siiii, siii~ siiii~ si~ si~~ si~~ sii, siiii! siiiii! siiii, siiii. si~ siiiii!! sii!! sii."
+    },
+    {
+        "input": "siii~ si~~",
+        "output": "siiii. siiiii!! sii~ siii~ siiiii, si, siiii! si, siiiii!! siiii~ siii~~ siiiii, siii~"
+    }
+]

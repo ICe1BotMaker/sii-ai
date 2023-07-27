@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        @font-face {
+            font-family: "Medium";
+            src: url("./GmarketSansMedium.otf");
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            background: #0a0a0a;
+        }
+
+        .chat-container {
+            max-width: 1280px;
+            height: 100vh;
+            margin: 0 auto;
+            background: rgb(26, 26, 26);
+            font-family: "Medium";
+        }
+
+        .chat-container .chattings {
+            width: 100%;
+            height: 90%;
+            overflow-y: scroll;
+        }
+
+        .chat-container .me {
+            width: 100%;
+            padding: 40px;
+            color: rgb(201, 201, 201);
+        }
+
+        .chat-container .ai {
+            width: 100%;
+            padding: 40px;
+            background: rgb(46, 46, 46);
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .chat-container .ai .profile {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: rgb(75, 75, 75);
+            border-radius: 5px;
+            margin-right: 25px;
+        }
+
+        .chat-container .ai p {
+            margin-top: 10px;
+            color: rgb(225, 225, 225);
+        }
+
+        .chat-container .sender {
+            width: 100%;
+            height: 10%;
+            background: rgb(15, 15, 15);
+            display: flex;
+            align-items: center;
+            padding: 25px;
+        }
+
+        .chat-container .sender input {
+            width: 100%;
+            padding: 10px 15px;
+            outline: none;
+            border: 1px solid rgb(34, 34, 34);
+            border-radius: 5px;
+            background: rgb(48, 48, 48);
+            color: rgb(237, 237, 237);
+            font-size: 16px;
+            margin-right: 10px;
+        }
+
+        .chat-container .sender input:focus {
+            outline: 2px solid rgb(26, 26, 26);
+        }
+
+        .chat-container .sender button {
+            width: 40px;
+            height: 40px;
+            padding: 10px 15px;
+            outline: none;
+            border: 1px solid rgb(35, 72, 146);
+            border-radius: 5px;
+            background: rgb(46, 94, 190);
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .chat-container .sender button:hover {
+            filter: brightness(0.9);
+        }
+
+        .chat-container .sender button:active {
+            filter: brightness(0.75);
+        }
+
+        .chat-container .sender button svg {
+            width: 10px;
+            height: 10px;
+            fill: white;
+        }
+    </style>
+
+    <div class="chat-container">
+        <div class="chattings"></div>
+
+        <div class="sender">
+            <input type="text" id="message">
+            <button id="send">
+                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 24 24" width="512" height="512"><path d="m.172,3.708C-.216,2.646.076,1.47.917.713,1.756-.041,2.951-.211,3.965.282l18.09,8.444c.97.454,1.664,1.283,1.945,2.273H4.048L.229,3.835c-.021-.041-.04-.084-.057-.127Zm3.89,9.292L.309,20.175c-.021.04-.039.08-.054.122-.387,1.063-.092,2.237.749,2.993.521.467,1.179.708,1.841.708.409,0,.819-.092,1.201-.279l18.011-8.438c.973-.456,1.666-1.288,1.945-2.28H4.062Z"/></svg>
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const run = () => {
+            const message = document.querySelector(`#message`).value;
+            document.querySelector(`#message`).value = ``;
+            document.querySelector(`#message`).focus();
+
+            document.querySelector(`.chattings`).innerHTML += `
+            <div class="me"><p>${message}</p></div>
+            `;
+
+            fetch(`http://127.0.0.1:8080/sii`, {
+                method: `POST`,
+                headers: {
+                    'Content-type': 'application/json'
+                },
+                body: JSON.stringify({ message: message }, null, 4)
+            }).then(data => data.json())
+            .then(data => {
+                document.querySelector(`.chattings`).innerHTML += `
+                <div class="ai"><span class="profile"></span><p>${data.message}</p></div>
+                `;
+            });
+        }
+
+        document.querySelector(`#message`).onkeydown = e => {
+            if (e.key === `Enter`) {
+                run();
+            }
+        }
+        document.querySelector(`#send`).onclick = () => {
+            run();
+        }
+    </script>
+</body>
+</html>
